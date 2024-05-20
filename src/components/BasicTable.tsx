@@ -6,7 +6,7 @@ import {
   getPaginationRowModel,
   getSortedRowModel,
   ColumnDef,
-  SortingState
+  SortingState,
 } from '@tanstack/react-table';
 import mData from '../mock_data.json';
 import { DateTime } from 'luxon';
@@ -61,6 +61,9 @@ const BasicTable: React.FC = () => {
   );
 
   const [sorting, setSorting] = useState<SortingState>([]);
+  const [pageSize, setPageSize] = useState<number>(10); // Default page size to 10
+  const [pageIndex, setPageIndex] = useState<number>(0); // Default page index to 0
+
   const table = useReactTable({
     data,
     columns,
@@ -69,8 +72,22 @@ const BasicTable: React.FC = () => {
     getSortedRowModel: getSortedRowModel(),
     state: {
       sorting,
+      pagination: {
+        pageSize: pageSize,
+        pageIndex: pageIndex,
+      },
     },
     onSortingChange: setSorting,
+    onPaginationChange: (updater) => {
+      if (typeof updater === 'function') {
+        const newState = updater({ pageIndex, pageSize });
+        setPageIndex(newState.pageIndex);
+        setPageSize(newState.pageSize);
+      } else {
+        setPageIndex(updater.pageIndex);
+        setPageSize(updater.pageSize);
+      }
+    },
   });
 
   return (
@@ -114,22 +131,64 @@ const BasicTable: React.FC = () => {
         </tbody>
       </table>
       <div>
-        <button onClick={() => table.setPageIndex(0)}>First page</button>
-        <button
-          disabled={!table.getCanPreviousPage()}
-          onClick={() => table.previousPage()}
-        >
+        <button onClick={() => {
+          table.setPageIndex(0);
+          setPageIndex(0);
+        }} disabled={!table.getCanPreviousPage()}>
+          First page
+        </button>
+        <button onClick={() => {
+          table.previousPage();
+          setPageIndex(table.getState().pagination.pageIndex - 1);
+        }} disabled={!table.getCanPreviousPage()}>
           Previous page
         </button>
-        <button
-          disabled={!table.getCanNextPage()}
-          onClick={() => table.nextPage()}
-        >
+        <button onClick={() => {
+          table.nextPage();
+          setPageIndex(table.getState().pagination.pageIndex + 1);
+        }} disabled={!table.getCanNextPage()}>
           Next page
         </button>
-        <button onClick={() => table.setPageIndex(table.getPageCount() - 1)}>
+        <button onClick={() => {
+          const lastPage = table.getPageCount() - 1;
+          table.setPageIndex(lastPage);
+          setPageIndex(lastPage);
+        }} disabled={!table.getCanNextPage()}>
           Last page
         </button>
+        <span>
+          Page{' '}
+          <strong>
+            {table.getState().pagination.pageIndex + 1} of {table.getPageCount()}
+          </strong>{' '}
+        </span>
+        {/* <span>
+          | Go to page:{' '}
+          <input
+            type="number"
+            defaultValue={table.getState().pagination.pageIndex + 1}
+            onChange={(e) => {
+              const page = e.target.value ? Number(e.target.value) - 1 : 0;
+              table.setPageIndex(page);
+              setPageIndex(page);
+            }}
+            style={{ width: '50px' }}
+          />
+        </span> */}
+        <select
+          value={table.getState().pagination.pageSize}
+          onChange={(e) => {
+            const size = Number(e.target.value);
+            setPageSize(size);
+            table.setPageSize(size);
+          }}
+        >
+          {[10, 20, 30, 40, 50].map((size) => (
+            <option key={size} value={size}>
+              Show {size}
+            </option>
+          ))}
+        </select>
       </div>
     </div>
   );
