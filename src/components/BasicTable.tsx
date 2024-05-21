@@ -1,68 +1,33 @@
-import React, { useMemo, useState } from 'react';
+import { useState } from "react";
+import {
+  FaStepBackward,
+  FaStepForward,
+  FaChevronLeft,
+  FaChevronRight,
+} from "react-icons/fa";
 import {
   useReactTable,
   getCoreRowModel,
   flexRender,
   getPaginationRowModel,
   getSortedRowModel,
-  ColumnDef,
   SortingState,
-} from '@tanstack/react-table';
-import mData from '../mock_data.json';
-import { DateTime } from 'luxon';
+  getFilteredRowModel,
+  ColumnDef,
+} from "@tanstack/react-table";
+import * as XLSX from "xlsx";
 
-interface Data {
-  id: number;
-  first_name: string;
-  last_name: string;
-  email: string;
-  gender: string;
-  dob: string;
+interface BasicTableProps<Data> {
+  data: Data[];
+  columns: ColumnDef<Data>[];
 }
 
-const BasicTable: React.FC = () => {
-  const data = useMemo(() => mData as Data[], []);
-
-  const columns = useMemo<ColumnDef<Data>[]>(
-    () => [
-      {
-        header: 'ID',
-        accessorKey: 'id',
-        footer: 'ID',
-      },
-      {
-        header: 'Name',
-        columns: [
-          {
-            header: 'First',
-            accessorKey: 'first_name',
-          },
-          {
-            header: 'Last',
-            accessorKey: 'last_name',
-          },
-        ],
-      },
-      {
-        header: 'Email',
-        accessorKey: 'email',
-      },
-      {
-        header: 'Gender',
-        accessorKey: 'gender',
-      },
-      {
-        header: 'Date of birth',
-        accessorKey: 'dob',
-        cell: (info) => DateTime.fromISO(info.getValue<string>()).toLocaleString(DateTime.DATE_MED),
-      },
-    ],
-    []
-  );
-
+const BasicTable = <Data,>({ data, columns }: BasicTableProps<Data>) => {
   const [sorting, setSorting] = useState<SortingState>([]);
-  const [pageSize, setPageSize] = useState<number>(10); // Default page size to 10
-  const [pageIndex, setPageIndex] = useState<number>(0); // Default page index to 0
+  const [pageSize, setPageSize] = useState<number>(10);
+  const [pageIndex, setPageIndex] = useState<number>(0);
+  const [filtering, setFiltering] = useState<string>("");
+  const [selectedFormat, setSelectedFormat] = useState<string>("csv");
 
   const table = useReactTable({
     data,
@@ -76,10 +41,12 @@ const BasicTable: React.FC = () => {
         pageSize: pageSize,
         pageIndex: pageIndex,
       },
+      globalFilter: filtering,
     },
+    onGlobalFilterChange: setFiltering,
     onSortingChange: setSorting,
     onPaginationChange: (updater) => {
-      if (typeof updater === 'function') {
+      if (typeof updater === "function") {
         const newState = updater({ pageIndex, pageSize });
         setPageIndex(newState.pageIndex);
         setPageSize(newState.pageSize);
@@ -88,29 +55,114 @@ const BasicTable: React.FC = () => {
         setPageSize(updater.pageSize);
       }
     },
+    getFilteredRowModel: getFilteredRowModel(),
   });
+
+  const downloadFile = async (format: string) => {
+    if (format === "csv") {
+      const csvContent = await convertToCSV(data, columns);
+      downloadBlob(csvContent, "text/csv", "table_data.csv");
+    } else if (format === "xlsx") {
+      const xlsxBlob = await convertToXLSX(data, columns);
+      downloadBlob(xlsxBlob, "application/octet-stream", "table_data.xlsx");
+    } else if (format === "json") {
+      const jsonContent = JSON.stringify(data, null, 2);
+      downloadBlob(jsonContent, "application/json", "table_data.json");
+    }
+  };
+
+  const downloadBlob = (
+    content: string | Blob,
+    mimeType: string,
+    fileName: string
+  ) => {
+    const blob =
+      typeof content === "string"
+        ? new Blob([content], { type: mimeType })
+        : content;
+    const url = window.URL.createObjectURL(blob);
+    const a = document.createElement("a");
+    a.href = url;
+    a.download = fileName;
+    a.click();
+    window.URL.revokeObjectURL(url);
+  };
+
+  const convertToCSV = async (data: Data[], columns: ColumnDef<Data>[]) => {
+    const headers = columns.map((col) => col.header as string);
+    const rows = data.map((row) =>
+      columns.map((col) => {
+        const accessorKey = col.accessorKey as keyof Data;
+        return row[accessorKey] || "";
+      })
+    );
+    const csvContent = [headers, ...rows].map((e) => e.join(",")).join("\n");
+    return csvContent;
+  };
+
+  const convertToXLSX = async (data: Data[], columns: ColumnDef<Data>[]) => {
+    const headers = columns.map((col) => col.header as string);
+    const jsonArray = data.map((row) =>
+      columns.reduce((acc, column) => {
+        const accessorKey = column.accessorKey as keyof Data;
+        acc[column.header as string] = row[accessorKey] || "";
+        return acc;
+      }, {} as { [key: string]: any })
+    );
+
+    const worksheet = XLSX.utils.json_to_sheet([headers, ...jsonArray]);
+    const workbook = XLSX.utils.book_new();
+    XLSX.utils.book_append_sheet(workbook, worksheet, "Sheet1");
+    const excelBuffer = XLSX.write(workbook, {
+      bookType: "xlsx",
+      type: "array",
+    });
+    const blob = new Blob([excelBuffer], { type: "application/octet-stream" });
+    return blob;
+  };
 
   return (
     <div className="w3-container">
-      <table className="w3-table-all">
-        <thead>
+      <p>Click headers for sorting values</p>
+
+      <input
+        placeholder="Search here..."
+        className="w3-input w3-border"
+        style={{ width: "70%", marginBlock: "20px" }}
+        type="text"
+        value={filtering}
+        onChange={(e) => setFiltering(e.target.value)}
+      />
+
+      <table className="w3-table-all w3-hoverable">
+        {/* Table header */}
+        <thead className="w3-light-grey">
           {table.getHeaderGroups().map((headerGroup) => (
             <tr key={headerGroup.id}>
               {headerGroup.headers.map((header) => (
                 <th
                   key={header.id}
                   onClick={header.column.getToggleSortingHandler()}
+                  className="w3-hoverable"
                 >
-                  {header.isPlaceholder ? null : (
+                  {!header.isPlaceholder && (
                     <div>
-                      {flexRender(
-                        header.column.columnDef.header,
-                        header.getContext()
+                      {typeof header.column.columnDef.header === "function"
+                        ? flexRender(
+                            header.column.columnDef.header,
+                            header.getContext()
+                          )
+                        : header.column.columnDef.header}
+                      {header.column.getIsSorted() ? (
+                        header.column.getIsSorted() === "desc" ? (
+                          "🔽"
+                        ) : (
+                          "🔼"
+                        )
+                      ) : (
+                        // Default sorting icon here
+                        <span>⇅</span>
                       )}
-                      {{
-                        asc: '🔼',
-                        desc: '🔽',
-                      }[header.column.getIsSorted() as string] ?? null}
                     </div>
                   )}
                 </th>
@@ -118,64 +170,87 @@ const BasicTable: React.FC = () => {
             </tr>
           ))}
         </thead>
+
+        {/* Table body */}
         <tbody>
-          {table.getRowModel().rows.map((row) => (
-            <tr key={row.id}>
-              {row.getVisibleCells().map((cell) => (
-                <td key={cell.id}>
-                  {flexRender(cell.column.columnDef.cell, cell.getContext())}
-                </td>
-              ))}
+          {table.getRowModel().rows.length === 0 ? (
+            <tr>
+              <td colSpan={columns.length}>
+                {filtering.length > 0 ? "No data found" : "Loading..."}
+              </td>
             </tr>
-          ))}
+          ) : (
+            table.getRowModel().rows.map((row) => (
+              <tr key={row.id}>
+                {row.getVisibleCells().map((cell) => (
+                  <td key={cell.id}>
+                    {flexRender(cell.column.columnDef.cell, cell.getContext())}
+                  </td>
+                ))}
+              </tr>
+            ))
+          )}
         </tbody>
       </table>
-      <div>
-        <button onClick={() => {
-          table.setPageIndex(0);
-          setPageIndex(0);
-        }} disabled={!table.getCanPreviousPage()}>
-          First page
+
+      {/* Pagination */}
+      <div className="w3-bar w3-center">
+        <button
+          onClick={() => {
+            table.setPageIndex(0);
+            setPageIndex(0);
+          }}
+          className="w3-button"
+          disabled={!table.getCanPreviousPage()}
+        >
+          <FaStepBackward />
         </button>
-        <button onClick={() => {
-          table.previousPage();
-          setPageIndex(table.getState().pagination.pageIndex - 1);
-        }} disabled={!table.getCanPreviousPage()}>
-          Previous page
+        {/* Previous page button */}
+        <button
+          onClick={() => {
+            table.previousPage();
+            setPageIndex(table.getState().pagination.pageIndex - 1);
+          }}
+          className="w3-button"
+          disabled={!table.getCanPreviousPage()}
+        >
+          <FaChevronLeft />
         </button>
-        <button onClick={() => {
-          table.nextPage();
-          setPageIndex(table.getState().pagination.pageIndex + 1);
-        }} disabled={!table.getCanNextPage()}>
-          Next page
+        {/* Next page button */}
+        <button
+          onClick={() => {
+            table.nextPage();
+            setPageIndex(table.getState().pagination.pageIndex + 1);
+          }}
+          className="w3-button"
+          disabled={!table.getCanNextPage()}
+        >
+          <FaChevronRight />
         </button>
-        <button onClick={() => {
-          const lastPage = table.getPageCount() - 1;
-          table.setPageIndex(lastPage);
-          setPageIndex(lastPage);
-        }} disabled={!table.getCanNextPage()}>
-          Last page
+        {/* Last page button */}
+        <button
+          onClick={() => {
+            const lastPage = table.getPageCount() - 1;
+            table.setPageIndex(lastPage);
+            setPageIndex(lastPage);
+          }}
+          className="w3-button"
+          disabled={!table.getCanNextPage()}
+        >
+          <FaStepForward />
         </button>
-        <span>
-          Page{' '}
+        {/* Page info */}
+        <span className="w3-margin-left">
+          Page{" "}
           <strong>
-            {table.getState().pagination.pageIndex + 1} of {table.getPageCount()}
-          </strong>{' '}
+            {table.getState().pagination.pageIndex + 1} of{" "}
+            {table.getPageCount()}
+          </strong>{" "}
         </span>
-        {/* <span>
-          | Go to page:{' '}
-          <input
-            type="number"
-            defaultValue={table.getState().pagination.pageIndex + 1}
-            onChange={(e) => {
-              const page = e.target.value ? Number(e.target.value) - 1 : 0;
-              table.setPageIndex(page);
-              setPageIndex(page);
-            }}
-            style={{ width: '50px' }}
-          />
-        </span> */}
+        {/* Page size dropdown */}
         <select
+          className="w3-select w3-border w3-margin-left"
+          style={{ width: "auto" }}
           value={table.getState().pagination.pageSize}
           onChange={(e) => {
             const size = Number(e.target.value);
@@ -183,12 +258,32 @@ const BasicTable: React.FC = () => {
             table.setPageSize(size);
           }}
         >
-          {[10, 20, 30, 40, 50].map((size) => (
+          {[10, 20, 30, 40, 50, 100].map((size) => (
             <option key={size} value={size}>
               Show {size}
             </option>
           ))}
         </select>
+      </div>
+
+      {/* Download dropdown */}
+      <div className="w3-margin-top">
+        <select
+          className="w3-select w3-border w3-margin-right"
+          style={{ width: "auto" }}
+          value={selectedFormat}
+          onChange={(e) => setSelectedFormat(e.target.value)}
+        >
+          <option value="csv">CSV</option>
+          <option value="xlsx">XLSX</option>
+          <option value="json">JSON</option>
+        </select>
+        <button
+          className="w3-button w3-blue"
+          onClick={() => downloadFile(selectedFormat)}
+        >
+          Download
+        </button>
       </div>
     </div>
   );

@@ -1,0 +1,7002 @@
+[
+  {
+    "id": 1,
+    "movie_name": "Madame Curie",
+    "movie_type": "Drama",
+    "earning": "$42431.98",
+    "directer_name": "Jaymie"
+  },
+  {
+    "id": 2,
+    "movie_name": "H.O.T.S.",
+    "movie_type": "Comedy",
+    "earning": "$26267.75",
+    "directer_name": "Dulci"
+  },
+  {
+    "id": 3,
+    "movie_name": "Frankenstein's Army",
+    "movie_type": "Action|Horror|Sci-Fi",
+    "earning": "$70153.36",
+    "directer_name": "Consuelo"
+  },
+  {
+    "id": 4,
+    "movie_name": "Novo",
+    "movie_type": "Drama",
+    "earning": "$64964.26",
+    "directer_name": "Frederich"
+  },
+  {
+    "id": 5,
+    "movie_name": "HE Who Gets Slapped",
+    "movie_type": "Drama|Thriller",
+    "earning": "$62360.79",
+    "directer_name": "Sawyere"
+  },
+  {
+    "id": 6,
+    "movie_name": "Snakes and Earrings (Hebi ni piasu)",
+    "movie_type": "Drama|Thriller",
+    "earning": "$32148.58",
+    "directer_name": "Lea"
+  },
+  {
+    "id": 7,
+    "movie_name": "Exploding Girl, The",
+    "movie_type": "Drama",
+    "earning": "$68300.72",
+    "directer_name": "Saidee"
+  },
+  {
+    "id": 8,
+    "movie_name": "Mutants",
+    "movie_type": "Horror|Sci-Fi",
+    "earning": "$65594.45",
+    "directer_name": "Julia"
+  },
+  {
+    "id": 9,
+    "movie_name": "Love in the Time of Cholera",
+    "movie_type": "Drama|Romance",
+    "earning": "$63940.09",
+    "directer_name": "Barbette"
+  },
+  {
+    "id": 10,
+    "movie_name": "Computer Wore Tennis Shoes, The",
+    "movie_type": "Children|Comedy",
+    "earning": "$25739.47",
+    "directer_name": "Phaedra"
+  },
+  {
+    "id": 11,
+    "movie_name": "Bagdad Cafe (Out of Rosenheim)",
+    "movie_type": "Comedy|Drama",
+    "earning": "$54431.96",
+    "directer_name": "Ax"
+  },
+  {
+    "id": 12,
+    "movie_name": "Northwest Passage",
+    "movie_type": "Action|Adventure",
+    "earning": "$52101.30",
+    "directer_name": "Xenos"
+  },
+  {
+    "id": 13,
+    "movie_name": "Monsieur Lazhar",
+    "movie_type": "Children|Comedy|Drama",
+    "earning": "$21134.82",
+    "directer_name": "Cindelyn"
+  },
+  {
+    "id": 14,
+    "movie_name": "Carcasses",
+    "movie_type": "Documentary",
+    "earning": "$71948.95",
+    "directer_name": "Luci"
+  },
+  {
+    "id": 15,
+    "movie_name": "Hostel",
+    "movie_type": "Horror",
+    "earning": "$60198.95",
+    "directer_name": "Lia"
+  },
+  {
+    "id": 16,
+    "movie_name": "Purple Ball, The (Lilovyy shar)",
+    "movie_type": "Fantasy|Sci-Fi",
+    "earning": "$32319.30",
+    "directer_name": "Devonna"
+  },
+  {
+    "id": 17,
+    "movie_name": "Nobody Lives Forever",
+    "movie_type": "Crime|Drama|Film-Noir",
+    "earning": "$21849.83",
+    "directer_name": "Dewey"
+  },
+  {
+    "id": 18,
+    "movie_name": "High Tension ",
+    "movie_type": "Horror|Thriller",
+    "earning": "$51232.40",
+    "directer_name": "Thebault"
+  },
+  {
+    "id": 19,
+    "movie_name": "Millions Game, ",
+    "movie_type": "Action|Drama|Sci-Fi|Thriller",
+    "earning": "$41130.33",
+    "directer_name": "Vito"
+  },
+  {
+    "id": 20,
+    "movie_name": "Buy the Ticket, ",
+    "movie_type": "Documentary",
+    "earning": "$78207.68",
+    "directer_name": "Devi"
+  },
+  {
+    "id": 21,
+    "movie_name": "Lorna",
+    "movie_type": "Drama",
+    "earning": "$76201.66",
+    "directer_name": "Bron"
+  },
+  {
+    "id": 22,
+    "movie_name": "Within Limits (Liikkumavara)",
+    "movie_type": "Documentary",
+    "earning": "$25389.06",
+    "directer_name": "Adrianna"
+  },
+  {
+    "id": 23,
+    "movie_name": "Paprika (Papurika)",
+    "movie_type": "Animation|Mystery|Sci-Fi",
+    "earning": "$64256.65",
+    "directer_name": "Loutitia"
+  },
+  {
+    "id": 24,
+    "movie_name": "Cheap Thrills",
+    "movie_type": "Comedy|Thriller",
+    "earning": "$47192.93",
+    "directer_name": "Lizbeth"
+  },
+  {
+    "id": 25,
+    "movie_name": "Pentimento",
+    "movie_type": "Drama",
+    "earning": "$52418.52",
+    "directer_name": "Roselle"
+  },
+  {
+    "id": 26,
+    "movie_name": "How to Get Ahead in Advertising",
+    "movie_type": "Comedy|Fantasy",
+    "earning": "$45073.89",
+    "directer_name": "Marley"
+  },
+  {
+    "id": 27,
+    "movie_name": "Silent One, The",
+    "movie_type": "Adventure|Children|Drama",
+    "earning": "$74679.94",
+    "directer_name": "Donnajean"
+  },
+  {
+    "id": 28,
+    "movie_name": "Dead Calm",
+    "movie_type": "Thriller",
+    "earning": "$40493.20",
+    "directer_name": "Conway"
+  },
+  {
+    "id": 29,
+    "movie_name": "In July (Im Juli)",
+    "movie_type": "Comedy|Romance",
+    "earning": "$71294.41",
+    "directer_name": "Conrad"
+  },
+  {
+    "id": 30,
+    "movie_name": "How to Survive a Plague",
+    "movie_type": "Documentary",
+    "earning": "$58582.27",
+    "directer_name": "Sande"
+  },
+  {
+    "id": 31,
+    "movie_name": "These Girls",
+    "movie_type": "Comedy",
+    "earning": "$30864.17",
+    "directer_name": "Marysa"
+  },
+  {
+    "id": 32,
+    "movie_name": "Mannequin",
+    "movie_type": "Comedy|Romance",
+    "earning": "$62860.77",
+    "directer_name": "Blinny"
+  },
+  {
+    "id": 33,
+    "movie_name": "Charley Varrick",
+    "movie_type": "Crime|Drama|Thriller",
+    "earning": "$67929.81",
+    "directer_name": "Amabelle"
+  },
+  {
+    "id": 34,
+    "movie_name": "Animal Room",
+    "movie_type": "Drama|Thriller",
+    "earning": "$60621.58",
+    "directer_name": "Honey"
+  },
+  {
+    "id": 35,
+    "movie_name": "Tortilla Soup",
+    "movie_type": "Comedy|Romance",
+    "earning": "$73926.16",
+    "directer_name": "Franz"
+  },
+  {
+    "id": 36,
+    "movie_name": "Guardian, The",
+    "movie_type": "Horror|Thriller",
+    "earning": "$62217.23",
+    "directer_name": "Corenda"
+  },
+  {
+    "id": 37,
+    "movie_name": "Wild Party, The",
+    "movie_type": "Comedy|Drama",
+    "earning": "$38334.54",
+    "directer_name": "Gerick"
+  },
+  {
+    "id": 38,
+    "movie_name": "Defenders of Riga",
+    "movie_type": "Action|Drama|War",
+    "earning": "$56881.38",
+    "directer_name": "Efren"
+  },
+  {
+    "id": 39,
+    "movie_name": "Life On A String (Bian chang Bian Zou)",
+    "movie_type": "Adventure|Drama|Fantasy|Musical",
+    "earning": "$48074.10",
+    "directer_name": "Mahala"
+  },
+  {
+    "id": 40,
+    "movie_name": "Christmas Eve",
+    "movie_type": "Comedy|Drama",
+    "earning": "$57533.26",
+    "directer_name": "Amabelle"
+  },
+  {
+    "id": 41,
+    "movie_name": "No End in Sight",
+    "movie_type": "Documentary",
+    "earning": "$23389.14",
+    "directer_name": "Marlie"
+  },
+  {
+    "id": 42,
+    "movie_name": "Apartment, The (Appartement, L')",
+    "movie_type": "Drama|Mystery|Romance",
+    "earning": "$71808.25",
+    "directer_name": "Lorene"
+  },
+  {
+    "id": 43,
+    "movie_name": "Training Day",
+    "movie_type": "Crime|Drama|Thriller",
+    "earning": "$28077.91",
+    "directer_name": "Shaine"
+  },
+  {
+    "id": 44,
+    "movie_name": "Little World of Don Camillo, The (Petit monde de Don Camillo, Le)",
+    "movie_type": "Comedy",
+    "earning": "$70701.31",
+    "directer_name": "Dew"
+  },
+  {
+    "id": 45,
+    "movie_name": "Buck Privates",
+    "movie_type": "Comedy|Musical",
+    "earning": "$46548.41",
+    "directer_name": "Cullin"
+  },
+  {
+    "id": 46,
+    "movie_name": "Doodlebug",
+    "movie_type": "Fantasy|Mystery",
+    "earning": "$78356.84",
+    "directer_name": "Chlo"
+  },
+  {
+    "id": 47,
+    "movie_name": "African Queen, The",
+    "movie_type": "Adventure|Comedy|Romance|War",
+    "earning": "$30629.92",
+    "directer_name": "Ambrosi"
+  },
+  {
+    "id": 48,
+    "movie_name": "Living Sea, The",
+    "movie_type": "Documentary|IMAX",
+    "earning": "$67396.31",
+    "directer_name": "Jed"
+  },
+  {
+    "id": 49,
+    "movie_name": "Red State",
+    "movie_type": "Horror|Thriller",
+    "earning": "$65644.10",
+    "directer_name": "Curcio"
+  },
+  {
+    "id": 50,
+    "movie_name": "Strawberry and Chocolate (Fresa y chocolate)",
+    "movie_type": "Drama",
+    "earning": "$62547.80",
+    "directer_name": "Leandra"
+  },
+  {
+    "id": 51,
+    "movie_name": "Horse Rebellion, The (Pulakapina)",
+    "movie_type": "Drama",
+    "earning": "$41281.47",
+    "directer_name": "Britt"
+  },
+  {
+    "id": 52,
+    "movie_name": "Off the Charts: The Song-Poem Story",
+    "movie_type": "Documentary",
+    "earning": "$30119.82",
+    "directer_name": "Adelaide"
+  },
+  {
+    "id": 53,
+    "movie_name": "Agatha Christie's ",
+    "movie_type": "Mystery",
+    "earning": "$78146.45",
+    "directer_name": "Rossie"
+  },
+  {
+    "id": 54,
+    "movie_name": "Flying Down to Rio",
+    "movie_type": "Comedy|Musical|Romance",
+    "earning": "$31623.24",
+    "directer_name": "Candie"
+  },
+  {
+    "id": 55,
+    "movie_name": "Disaster L.A.",
+    "movie_type": "Action|Horror|Sci-Fi",
+    "earning": "$71733.65",
+    "directer_name": "Frasier"
+  },
+  {
+    "id": 56,
+    "movie_name": "Hotel Reserve",
+    "movie_type": "Thriller",
+    "earning": "$22931.33",
+    "directer_name": "Neila"
+  },
+  {
+    "id": 57,
+    "movie_name": "Legend of Boggy Creek, The",
+    "movie_type": "Drama|Horror|Mystery|Thriller",
+    "earning": "$68314.72",
+    "directer_name": "Dareen"
+  },
+  {
+    "id": 58,
+    "movie_name": "Native Son",
+    "movie_type": "Drama",
+    "earning": "$66368.02",
+    "directer_name": "Merlina"
+  },
+  {
+    "id": 59,
+    "movie_name": "Enlightenment Guaranteed ",
+    "movie_type": "Comedy|Drama",
+    "earning": "$65024.61",
+    "directer_name": "Bianca"
+  },
+  {
+    "id": 60,
+    "movie_name": "Fools' Parade",
+    "movie_type": "Comedy|Drama|Thriller",
+    "earning": "$28530.25",
+    "directer_name": "Brodie"
+  },
+  {
+    "id": 61,
+    "movie_name": "My Side of the Mountain",
+    "movie_type": "Adventure|Children",
+    "earning": "$59445.14",
+    "directer_name": "Shae"
+  },
+  {
+    "id": 62,
+    "movie_name": "12:01 PM",
+    "movie_type": "Sci-Fi",
+    "earning": "$60496.83",
+    "directer_name": "Ara"
+  },
+  {
+    "id": 63,
+    "movie_name": "Umbrellas of Cherbourg, The (Parapluies de Cherbourg, Les)",
+    "movie_type": "Drama|Musical|Romance",
+    "earning": "$65282.28",
+    "directer_name": "Nowell"
+  },
+  {
+    "id": 64,
+    "movie_name": "First Family",
+    "movie_type": "Comedy",
+    "earning": "$76492.74",
+    "directer_name": "Hilly"
+  },
+  {
+    "id": 65,
+    "movie_name": "9 Star Hotel (Malon 9 Kochavim)",
+    "movie_type": "Documentary",
+    "earning": "$28808.68",
+    "directer_name": "Tabbie"
+  },
+  {
+    "id": 66,
+    "movie_name": "Weekend at Bernie's",
+    "movie_type": "Comedy",
+    "earning": "$57051.83",
+    "directer_name": "Forrester"
+  },
+  {
+    "id": 67,
+    "movie_name": "Purge (Puhdistus)",
+    "movie_type": "Drama",
+    "earning": "$48269.48",
+    "directer_name": "Hewie"
+  },
+  {
+    "id": 68,
+    "movie_name": "Out of Towners, The",
+    "movie_type": "Comedy",
+    "earning": "$65386.68",
+    "directer_name": "Seward"
+  },
+  {
+    "id": 69,
+    "movie_name": "Elvira, Mistress of the Dark",
+    "movie_type": "Comedy|Horror",
+    "earning": "$32194.90",
+    "directer_name": "Brad"
+  },
+  {
+    "id": 70,
+    "movie_name": "Love Field",
+    "movie_type": "Drama",
+    "earning": "$46780.96",
+    "directer_name": "Jemimah"
+  },
+  {
+    "id": 71,
+    "movie_name": "House of Wax",
+    "movie_type": "Horror|Thriller",
+    "earning": "$71059.56",
+    "directer_name": "Chrissy"
+  },
+  {
+    "id": 72,
+    "movie_name": "Greed",
+    "movie_type": "Drama",
+    "earning": "$63440.99",
+    "directer_name": "Waneta"
+  },
+  {
+    "id": 73,
+    "movie_name": "Gumball Rally, The",
+    "movie_type": "Adventure|Comedy",
+    "earning": "$32425.38",
+    "directer_name": "Judie"
+  },
+  {
+    "id": 74,
+    "movie_name": "Apple Jack",
+    "movie_type": "Comedy|Drama",
+    "earning": "$79173.95",
+    "directer_name": "Lambert"
+  },
+  {
+    "id": 75,
+    "movie_name": "That Guy... Who Was in That Thing",
+    "movie_type": "Documentary",
+    "earning": "$27240.23",
+    "directer_name": "Batholomew"
+  },
+  {
+    "id": 76,
+    "movie_name": "Bernie",
+    "movie_type": "Comedy|Crime|Drama",
+    "earning": "$74779.24",
+    "directer_name": "Miguela"
+  },
+  {
+    "id": 77,
+    "movie_name": "Bird",
+    "movie_type": "Drama|Musical",
+    "earning": "$34228.11",
+    "directer_name": "Linea"
+  },
+  {
+    "id": 78,
+    "movie_name": "Girl with a Pearl Earring",
+    "movie_type": "Drama|Romance",
+    "earning": "$26735.40",
+    "directer_name": "Lorri"
+  },
+  {
+    "id": 79,
+    "movie_name": "PCU",
+    "movie_type": "Comedy",
+    "earning": "$35545.94",
+    "directer_name": "Shelly"
+  },
+  {
+    "id": 80,
+    "movie_name": "Money Pit, The",
+    "movie_type": "Comedy",
+    "earning": "$27715.10",
+    "directer_name": "Alexandr"
+  },
+  {
+    "id": 81,
+    "movie_name": "Miranda",
+    "movie_type": "Comedy|Fantasy|Romance",
+    "earning": "$44023.32",
+    "directer_name": "Marieann"
+  },
+  {
+    "id": 82,
+    "movie_name": "9 Star Hotel (Malon 9 Kochavim)",
+    "movie_type": "Documentary",
+    "earning": "$38850.80",
+    "directer_name": "Stormi"
+  },
+  {
+    "id": 83,
+    "movie_name": "The Passerby",
+    "movie_type": "Drama",
+    "earning": "$60994.42",
+    "directer_name": "Brody"
+  },
+  {
+    "id": 84,
+    "movie_name": "Carry On Teacher",
+    "movie_type": "Comedy",
+    "earning": "$78320.05",
+    "directer_name": "Sandi"
+  },
+  {
+    "id": 85,
+    "movie_name": "Thomas and the Magic Railroad",
+    "movie_type": "Children",
+    "earning": "$54961.73",
+    "directer_name": "Barbra"
+  },
+  {
+    "id": 86,
+    "movie_name": "Redbelt",
+    "movie_type": "Action|Drama",
+    "earning": "$24893.92",
+    "directer_name": "Ariella"
+  },
+  {
+    "id": 87,
+    "movie_name": "Dumbo",
+    "movie_type": "Animation|Children|Drama|Musical",
+    "earning": "$50878.29",
+    "directer_name": "Sawyere"
+  },
+  {
+    "id": 88,
+    "movie_name": "Pavilion of Women",
+    "movie_type": "Drama",
+    "earning": "$21914.23",
+    "directer_name": "Leonie"
+  },
+  {
+    "id": 89,
+    "movie_name": "Claire's Knee (Genou de Claire, Le)",
+    "movie_type": "Comedy|Romance",
+    "earning": "$21050.93",
+    "directer_name": "Hetty"
+  },
+  {
+    "id": 90,
+    "movie_name": "Love Me Tonight",
+    "movie_type": "Comedy|Musical",
+    "earning": "$21568.38",
+    "directer_name": "Katheryn"
+  },
+  {
+    "id": 91,
+    "movie_name": "Cross My Heart",
+    "movie_type": "Comedy|Romance",
+    "earning": "$70545.26",
+    "directer_name": "Karol"
+  },
+  {
+    "id": 92,
+    "movie_name": "Hitch",
+    "movie_type": "Comedy|Romance",
+    "earning": "$32519.92",
+    "directer_name": "Vladamir"
+  },
+  {
+    "id": 93,
+    "movie_name": "Chori Chori Chupke Chupke",
+    "movie_type": "Drama|Romance",
+    "earning": "$60787.38",
+    "directer_name": "Emili"
+  },
+  {
+    "id": 94,
+    "movie_name": "Shadow Dancer, The (Shadows in the Sun)",
+    "movie_type": "Comedy|Drama|Romance",
+    "earning": "$67701.53",
+    "directer_name": "Meghann"
+  },
+  {
+    "id": 95,
+    "movie_name": "Hitler's Children",
+    "movie_type": "Documentary",
+    "earning": "$71251.93",
+    "directer_name": "Ailyn"
+  },
+  {
+    "id": 96,
+    "movie_name": "Between Miracles",
+    "movie_type": "Comedy",
+    "earning": "$63613.89",
+    "directer_name": "Bradney"
+  },
+  {
+    "id": 97,
+    "movie_name": "Unconditional",
+    "movie_type": "Drama",
+    "earning": "$37918.62",
+    "directer_name": "Garey"
+  },
+  {
+    "id": 98,
+    "movie_name": "Betrayed (True and the Brave, The)",
+    "movie_type": "Drama|Romance|Thriller|War",
+    "earning": "$71183.47",
+    "directer_name": "Brigida"
+  },
+  {
+    "id": 99,
+    "movie_name": "So Much Water",
+    "movie_type": "Comedy|Drama",
+    "earning": "$25289.56",
+    "directer_name": "Debby"
+  },
+  {
+    "id": 100,
+    "movie_name": "Cool, Dry Place, A",
+    "movie_type": "Drama",
+    "earning": "$60797.84",
+    "directer_name": "Rafa"
+  },
+  {
+    "id": 101,
+    "movie_name": "My Sassy Girl",
+    "movie_type": "Comedy|Drama|Romance",
+    "earning": "$62876.25",
+    "directer_name": "Iago"
+  },
+  {
+    "id": 102,
+    "movie_name": "Intruder, The",
+    "movie_type": "Drama",
+    "earning": "$57040.75",
+    "directer_name": "Jemie"
+  },
+  {
+    "id": 103,
+    "movie_name": "Session 9",
+    "movie_type": "Horror|Thriller",
+    "earning": "$39388.80",
+    "directer_name": "Reena"
+  },
+  {
+    "id": 104,
+    "movie_name": "Kenny Begins",
+    "movie_type": "Action|Comedy|Sci-Fi",
+    "earning": "$24116.69",
+    "directer_name": "Sancho"
+  },
+  {
+    "id": 105,
+    "movie_name": "Sex and the Single Girl",
+    "movie_type": "Comedy|Romance",
+    "earning": "$75542.88",
+    "directer_name": "Shannen"
+  },
+  {
+    "id": 106,
+    "movie_name": "Fugitive Kind, The",
+    "movie_type": "Crime|Drama|Romance",
+    "earning": "$61977.36",
+    "directer_name": "Nissie"
+  },
+  {
+    "id": 107,
+    "movie_name": "Heldorado",
+    "movie_type": "Musical|Western",
+    "earning": "$38935.07",
+    "directer_name": "Jannelle"
+  },
+  {
+    "id": 108,
+    "movie_name": "Electra, My Love (Szerelmem, Elektra)",
+    "movie_type": "Drama",
+    "earning": "$45050.12",
+    "directer_name": "Tamera"
+  },
+  {
+    "id": 109,
+    "movie_name": "Ghost and Mrs. Muir, The",
+    "movie_type": "Drama|Fantasy|Romance",
+    "earning": "$55792.54",
+    "directer_name": "Almeria"
+  },
+  {
+    "id": 110,
+    "movie_name": "Homegrown",
+    "movie_type": "Comedy|Thriller",
+    "earning": "$55453.33",
+    "directer_name": "Pepi"
+  },
+  {
+    "id": 111,
+    "movie_name": "Freejack",
+    "movie_type": "Action|Sci-Fi",
+    "earning": "$40104.07",
+    "directer_name": "Zora"
+  },
+  {
+    "id": 112,
+    "movie_name": "Bathory",
+    "movie_type": "Drama|Fantasy",
+    "earning": "$42144.80",
+    "directer_name": "Sianna"
+  },
+  {
+    "id": 113,
+    "movie_name": "Dischord",
+    "movie_type": "Drama|Thriller",
+    "earning": "$78082.50",
+    "directer_name": "Ysabel"
+  },
+  {
+    "id": 114,
+    "movie_name": "Holy Man, The (Mahapurush)",
+    "movie_type": "Comedy",
+    "earning": "$37688.49",
+    "directer_name": "Jarid"
+  },
+  {
+    "id": 115,
+    "movie_name": "Black Death",
+    "movie_type": "Adventure|Drama|Horror|Mystery",
+    "earning": "$46894.35",
+    "directer_name": "Lance"
+  },
+  {
+    "id": 116,
+    "movie_name": "Felicia's Journey",
+    "movie_type": "Thriller",
+    "earning": "$48078.76",
+    "directer_name": "Emogene"
+  },
+  {
+    "id": 117,
+    "movie_name": "Creation",
+    "movie_type": "Drama",
+    "earning": "$24520.38",
+    "directer_name": "Carlen"
+  },
+  {
+    "id": 118,
+    "movie_name": "Kiss, The",
+    "movie_type": "Drama|Romance",
+    "earning": "$67688.79",
+    "directer_name": "Reube"
+  },
+  {
+    "id": 119,
+    "movie_name": "Ffolkes",
+    "movie_type": "Action|Adventure|Thriller",
+    "earning": "$56027.18",
+    "directer_name": "Porty"
+  },
+  {
+    "id": 120,
+    "movie_name": "Princesas",
+    "movie_type": "Drama",
+    "earning": "$27010.67",
+    "directer_name": "Ignatius"
+  },
+  {
+    "id": 121,
+    "movie_name": "Big Blonde, The (Iso vaalee)",
+    "movie_type": "Comedy|Drama",
+    "earning": "$45477.26",
+    "directer_name": "Chantal"
+  },
+  {
+    "id": 122,
+    "movie_name": "The Bride Wore Red",
+    "movie_type": "Comedy|Drama|Romance",
+    "earning": "$54243.25",
+    "directer_name": "Belva"
+  },
+  {
+    "id": 123,
+    "movie_name": "Kikujiro (Kikujirô no natsu)",
+    "movie_type": "Comedy|Drama",
+    "earning": "$34140.96",
+    "directer_name": "Jemmy"
+  },
+  {
+    "id": 124,
+    "movie_name": "We the Party",
+    "movie_type": "Comedy",
+    "earning": "$66313.98",
+    "directer_name": "Tate"
+  },
+  {
+    "id": 125,
+    "movie_name": "Scent of Green Papaya, The (Mùi du du xhan - L'odeur de la papaye verte)",
+    "movie_type": "Drama",
+    "earning": "$54546.36",
+    "directer_name": "Elie"
+  },
+  {
+    "id": 126,
+    "movie_name": "City of Lost Children, The (Cité des enfants perdus, La)",
+    "movie_type": "Adventure|Drama|Fantasy|Mystery|Sci-Fi",
+    "earning": "$37027.28",
+    "directer_name": "Willabella"
+  },
+  {
+    "id": 127,
+    "movie_name": "Father and Guns (De père en flic)",
+    "movie_type": "Comedy|Crime",
+    "earning": "$47787.18",
+    "directer_name": "Shane"
+  },
+  {
+    "id": 128,
+    "movie_name": "Girls! Girls! Girls!",
+    "movie_type": "Comedy|Musical",
+    "earning": "$26388.95",
+    "directer_name": "Ingra"
+  },
+  {
+    "id": 129,
+    "movie_name": "Strike (Stachka)",
+    "movie_type": "Drama",
+    "earning": "$24232.71",
+    "directer_name": "Wilbur"
+  },
+  {
+    "id": 130,
+    "movie_name": "Great Guy",
+    "movie_type": "Crime|Drama|Mystery",
+    "earning": "$61314.09",
+    "directer_name": "Findley"
+  },
+  {
+    "id": 131,
+    "movie_name": "Shut Up and Play the Hits",
+    "movie_type": "Documentary",
+    "earning": "$67596.99",
+    "directer_name": "Cloe"
+  },
+  {
+    "id": 132,
+    "movie_name": "Genova (Summer in Genoa, A)",
+    "movie_type": "Drama|Romance",
+    "earning": "$37034.99",
+    "directer_name": "Pepillo"
+  },
+  {
+    "id": 133,
+    "movie_name": "Birdemic: Shock and Terror",
+    "movie_type": "Romance|Thriller",
+    "earning": "$66276.00",
+    "directer_name": "Sidnee"
+  },
+  {
+    "id": 134,
+    "movie_name": "We Still Kill the Old Way",
+    "movie_type": "Crime",
+    "earning": "$76653.93",
+    "directer_name": "Maurizia"
+  },
+  {
+    "id": 135,
+    "movie_name": "Death in the Garden (Mort en ce jardin, La)",
+    "movie_type": "Drama",
+    "earning": "$36186.51",
+    "directer_name": "Broderick"
+  },
+  {
+    "id": 136,
+    "movie_name": "Klimt",
+    "movie_type": "Drama",
+    "earning": "$35000.15",
+    "directer_name": "Carina"
+  },
+  {
+    "id": 137,
+    "movie_name": "House of Sand and Fog",
+    "movie_type": "Drama",
+    "earning": "$41104.17",
+    "directer_name": "Kerri"
+  },
+  {
+    "id": 138,
+    "movie_name": "Deadly Circuit (Mortelle randonnée)",
+    "movie_type": "Crime|Mystery|Thriller",
+    "earning": "$59108.64",
+    "directer_name": "Lonny"
+  },
+  {
+    "id": 139,
+    "movie_name": "In Name Only",
+    "movie_type": "Drama|Romance",
+    "earning": "$51296.43",
+    "directer_name": "Tonnie"
+  },
+  {
+    "id": 140,
+    "movie_name": "Five-Year Engagement, The",
+    "movie_type": "Comedy|Romance",
+    "earning": "$64451.86",
+    "directer_name": "Bellina"
+  },
+  {
+    "id": 141,
+    "movie_name": "Gambler, The (Játékos, A)",
+    "movie_type": "Drama",
+    "earning": "$68991.86",
+    "directer_name": "Adorne"
+  },
+  {
+    "id": 142,
+    "movie_name": "Vampire Bat, The",
+    "movie_type": "Horror",
+    "earning": "$54421.76",
+    "directer_name": "Brew"
+  },
+  {
+    "id": 143,
+    "movie_name": "Mouchette",
+    "movie_type": "Drama",
+    "earning": "$20407.21",
+    "directer_name": "Jeff"
+  },
+  {
+    "id": 144,
+    "movie_name": "I Want to Live!",
+    "movie_type": "Crime|Drama",
+    "earning": "$79879.23",
+    "directer_name": "Lorianna"
+  },
+  {
+    "id": 145,
+    "movie_name": "Pure",
+    "movie_type": "Drama",
+    "earning": "$69296.70",
+    "directer_name": "Simonette"
+  },
+  {
+    "id": 146,
+    "movie_name": "Delusions of Grandeur (La folie des grandeurs)",
+    "movie_type": "Comedy",
+    "earning": "$21503.47",
+    "directer_name": "Minna"
+  },
+  {
+    "id": 147,
+    "movie_name": "Battle Royale (Batoru rowaiaru)",
+    "movie_type": "Action|Drama|Horror|Thriller",
+    "earning": "$52090.64",
+    "directer_name": "Lancelot"
+  },
+  {
+    "id": 148,
+    "movie_name": "Cattle Queen of Montana",
+    "movie_type": "Western",
+    "earning": "$71772.72",
+    "directer_name": "Crissie"
+  },
+  {
+    "id": 149,
+    "movie_name": "Magic Camp",
+    "movie_type": "Children|Documentary",
+    "earning": "$60841.93",
+    "directer_name": "Martainn"
+  },
+  {
+    "id": 150,
+    "movie_name": "Swing Vote",
+    "movie_type": "Comedy|Drama",
+    "earning": "$51768.60",
+    "directer_name": "Cynthia"
+  },
+  {
+    "id": 151,
+    "movie_name": "Romero",
+    "movie_type": "Drama",
+    "earning": "$21210.91",
+    "directer_name": "Reagen"
+  },
+  {
+    "id": 152,
+    "movie_name": "Outlander",
+    "movie_type": "Action|Adventure|Sci-Fi",
+    "earning": "$33139.78",
+    "directer_name": "Dorrie"
+  },
+  {
+    "id": 153,
+    "movie_name": "Instrument",
+    "movie_type": "Documentary",
+    "earning": "$66932.79",
+    "directer_name": "Henka"
+  },
+  {
+    "id": 154,
+    "movie_name": "Mighty Quinn, The",
+    "movie_type": "Crime|Mystery",
+    "earning": "$73510.42",
+    "directer_name": "Ginger"
+  },
+  {
+    "id": 155,
+    "movie_name": "Strange Days",
+    "movie_type": "Action|Crime|Drama|Mystery|Sci-Fi|Thriller",
+    "earning": "$61958.28",
+    "directer_name": "Idette"
+  },
+  {
+    "id": 156,
+    "movie_name": "Paths of Hate",
+    "movie_type": "Action|Animation|Drama|War",
+    "earning": "$34507.54",
+    "directer_name": "Byram"
+  },
+  {
+    "id": 157,
+    "movie_name": "Babysitter Wanted",
+    "movie_type": "Horror|Thriller",
+    "earning": "$23311.87",
+    "directer_name": "Fara"
+  },
+  {
+    "id": 158,
+    "movie_name": "Mean Girls",
+    "movie_type": "Comedy",
+    "earning": "$24727.76",
+    "directer_name": "Phylys"
+  },
+  {
+    "id": 159,
+    "movie_name": "Pigs",
+    "movie_type": "Comedy",
+    "earning": "$43103.36",
+    "directer_name": "Benedick"
+  },
+  {
+    "id": 160,
+    "movie_name": "Rise of the Guardians",
+    "movie_type": "Adventure|Animation|Fantasy|IMAX",
+    "earning": "$20841.26",
+    "directer_name": "Dorie"
+  },
+  {
+    "id": 161,
+    "movie_name": "Go for Sisters",
+    "movie_type": "Crime|Drama",
+    "earning": "$48783.16",
+    "directer_name": "Jeremy"
+  },
+  {
+    "id": 162,
+    "movie_name": "Extreme Movie",
+    "movie_type": "Comedy",
+    "earning": "$24056.69",
+    "directer_name": "Susanetta"
+  },
+  {
+    "id": 163,
+    "movie_name": "Highlander: Endgame (Highlander IV)",
+    "movie_type": "Action|Adventure|Fantasy",
+    "earning": "$34226.93",
+    "directer_name": "Land"
+  },
+  {
+    "id": 164,
+    "movie_name": "War Room, The",
+    "movie_type": "Documentary",
+    "earning": "$27082.61",
+    "directer_name": "Ricki"
+  },
+  {
+    "id": 165,
+    "movie_name": "Before Sunrise",
+    "movie_type": "Drama|Romance",
+    "earning": "$60977.64",
+    "directer_name": "Mallorie"
+  },
+  {
+    "id": 166,
+    "movie_name": "Living Proof",
+    "movie_type": "Drama",
+    "earning": "$21980.72",
+    "directer_name": "Lorne"
+  },
+  {
+    "id": 167,
+    "movie_name": "Borderland",
+    "movie_type": "Crime|Horror|Thriller",
+    "earning": "$33252.45",
+    "directer_name": "Octavius"
+  },
+  {
+    "id": 168,
+    "movie_name": "Towelhead (a.k.a. Nothing is Private)",
+    "movie_type": "Drama",
+    "earning": "$51142.22",
+    "directer_name": "Vladimir"
+  },
+  {
+    "id": 169,
+    "movie_name": "Guilty (Présumé coupable)",
+    "movie_type": "Drama",
+    "earning": "$71520.35",
+    "directer_name": "Sonny"
+  },
+  {
+    "id": 170,
+    "movie_name": "Valley of the Dolls",
+    "movie_type": "Drama",
+    "earning": "$60385.25",
+    "directer_name": "Desirae"
+  },
+  {
+    "id": 171,
+    "movie_name": "PCU",
+    "movie_type": "Comedy",
+    "earning": "$25421.12",
+    "directer_name": "Erastus"
+  },
+  {
+    "id": 172,
+    "movie_name": "Coffee Town",
+    "movie_type": "Comedy",
+    "earning": "$52295.82",
+    "directer_name": "Marilee"
+  },
+  {
+    "id": 173,
+    "movie_name": "Bab'Aziz -The Prince Who Contemplated His Soul",
+    "movie_type": "Drama",
+    "earning": "$61572.85",
+    "directer_name": "Chastity"
+  },
+  {
+    "id": 174,
+    "movie_name": "K2",
+    "movie_type": "Adventure|Drama",
+    "earning": "$46563.93",
+    "directer_name": "Mellicent"
+  },
+  {
+    "id": 175,
+    "movie_name": "3 Days to Kill",
+    "movie_type": "Action|Crime|Drama",
+    "earning": "$63216.76",
+    "directer_name": "Zollie"
+  },
+  {
+    "id": 176,
+    "movie_name": "Love and Other Drugs",
+    "movie_type": "Comedy|Drama|Romance",
+    "earning": "$23583.65",
+    "directer_name": "Port"
+  },
+  {
+    "id": 177,
+    "movie_name": "War on Democracy, The",
+    "movie_type": "Documentary",
+    "earning": "$42625.79",
+    "directer_name": "Noak"
+  },
+  {
+    "id": 178,
+    "movie_name": "Turbo",
+    "movie_type": "Adventure|Animation|Children|Comedy|Fantasy",
+    "earning": "$78316.18",
+    "directer_name": "Edwina"
+  },
+  {
+    "id": 179,
+    "movie_name": "The Affairs of Martha",
+    "movie_type": "Comedy|Romance",
+    "earning": "$39326.02",
+    "directer_name": "Wilfred"
+  },
+  {
+    "id": 180,
+    "movie_name": "Dylan Moran: Yeah, Yeah",
+    "movie_type": "Comedy",
+    "earning": "$77546.98",
+    "directer_name": "Clo"
+  },
+  {
+    "id": 181,
+    "movie_name": "Ten Violent Women",
+    "movie_type": "Action|Drama",
+    "earning": "$42520.54",
+    "directer_name": "Marcelline"
+  },
+  {
+    "id": 182,
+    "movie_name": "Petals on the Wind",
+    "movie_type": "Drama|Romance|Thriller",
+    "earning": "$49475.76",
+    "directer_name": "Boniface"
+  },
+  {
+    "id": 183,
+    "movie_name": "At Sea",
+    "movie_type": "Documentary",
+    "earning": "$38936.81",
+    "directer_name": "Daniel"
+  },
+  {
+    "id": 184,
+    "movie_name": "Bachelor Weekend, The",
+    "movie_type": "Comedy|Drama",
+    "earning": "$48388.60",
+    "directer_name": "Dick"
+  },
+  {
+    "id": 185,
+    "movie_name": "Citizen, The",
+    "movie_type": "Drama",
+    "earning": "$46421.83",
+    "directer_name": "Pavlov"
+  },
+  {
+    "id": 186,
+    "movie_name": "Hachiko: A Dog's Story (a.k.a. Hachi: A Dog's Tale)",
+    "movie_type": "Drama",
+    "earning": "$49339.26",
+    "directer_name": "Bertha"
+  },
+  {
+    "id": 187,
+    "movie_name": "Delicate Delinquent, The",
+    "movie_type": "Comedy",
+    "earning": "$57852.68",
+    "directer_name": "Yvonne"
+  },
+  {
+    "id": 188,
+    "movie_name": "Make It Happen",
+    "movie_type": "Drama",
+    "earning": "$63393.27",
+    "directer_name": "Anthia"
+  },
+  {
+    "id": 189,
+    "movie_name": "Singer, The (Quand j'étais chanteur)",
+    "movie_type": "Drama|Romance",
+    "earning": "$66092.78",
+    "directer_name": "Launce"
+  },
+  {
+    "id": 190,
+    "movie_name": "Don Juan DeMarco",
+    "movie_type": "Comedy|Drama|Romance",
+    "earning": "$64213.87",
+    "directer_name": "Con"
+  },
+  {
+    "id": 191,
+    "movie_name": "Maniac",
+    "movie_type": "Crime|Horror|Mystery|Romance|Thriller",
+    "earning": "$22696.09",
+    "directer_name": "Anette"
+  },
+  {
+    "id": 192,
+    "movie_name": "William S. Burroughs: A Man Within",
+    "movie_type": "Documentary",
+    "earning": "$36041.99",
+    "directer_name": "Dorry"
+  },
+  {
+    "id": 193,
+    "movie_name": "May 18 (Hwaryeohan hyuga)",
+    "movie_type": "Drama",
+    "earning": "$33963.26",
+    "directer_name": "Dacia"
+  },
+  {
+    "id": 194,
+    "movie_name": "Have Dreams, Will Travel",
+    "movie_type": "Drama|Romance",
+    "earning": "$52662.83",
+    "directer_name": "Eudora"
+  },
+  {
+    "id": 195,
+    "movie_name": "12:08 ",
+    "movie_type": "Comedy|Drama",
+    "earning": "$43504.35",
+    "directer_name": "Vidovic"
+  },
+  {
+    "id": 196,
+    "movie_name": "New Kind of Love, A",
+    "movie_type": "Comedy",
+    "earning": "$28131.59",
+    "directer_name": "Timmie"
+  },
+  {
+    "id": 197,
+    "movie_name": "Man Who Laughs, The",
+    "movie_type": "Drama|Romance",
+    "earning": "$38589.29",
+    "directer_name": "Erastus"
+  },
+  {
+    "id": 198,
+    "movie_name": "Baghead",
+    "movie_type": "Comedy|Drama|Horror",
+    "earning": "$24417.09",
+    "directer_name": "Bo"
+  },
+  {
+    "id": 199,
+    "movie_name": "House IV",
+    "movie_type": "Fantasy|Horror|Thriller",
+    "earning": "$76071.39",
+    "directer_name": "Hedda"
+  },
+  {
+    "id": 200,
+    "movie_name": "Hit and Run (Hit & Run)",
+    "movie_type": "Action|Comedy|Romance",
+    "earning": "$25678.98",
+    "directer_name": "Johnathan"
+  },
+  {
+    "id": 201,
+    "movie_name": "Map For Saturday, A",
+    "movie_type": "Documentary",
+    "earning": "$57819.72",
+    "directer_name": "Valerie"
+  },
+  {
+    "id": 202,
+    "movie_name": "Possession of Joel Delaney, The",
+    "movie_type": "Drama|Horror|Thriller",
+    "earning": "$50568.80",
+    "directer_name": "Simmonds"
+  },
+  {
+    "id": 203,
+    "movie_name": "First Nudie Musical, The",
+    "movie_type": "Comedy|Musical",
+    "earning": "$61431.69",
+    "directer_name": "Barbaraanne"
+  },
+  {
+    "id": 204,
+    "movie_name": "Rock & Rule",
+    "movie_type": "Animation|Fantasy|Musical|Sci-Fi",
+    "earning": "$39937.49",
+    "directer_name": "Hersh"
+  },
+  {
+    "id": 205,
+    "movie_name": "Concorde: Airport '79, The",
+    "movie_type": "Drama",
+    "earning": "$64024.90",
+    "directer_name": "Korney"
+  },
+  {
+    "id": 206,
+    "movie_name": "Orwell Rolls in His Grave",
+    "movie_type": "Documentary",
+    "earning": "$40166.47",
+    "directer_name": "Daniela"
+  },
+  {
+    "id": 207,
+    "movie_name": "Anthropophagus",
+    "movie_type": "Horror",
+    "earning": "$62916.70",
+    "directer_name": "Jermaine"
+  },
+  {
+    "id": 208,
+    "movie_name": "Cocaine Cowboys II: Hustlin' With the Godmother",
+    "movie_type": "Crime|Documentary",
+    "earning": "$52152.71",
+    "directer_name": "Freedman"
+  },
+  {
+    "id": 209,
+    "movie_name": "Twonky, The",
+    "movie_type": "Comedy|Sci-Fi",
+    "earning": "$44729.94",
+    "directer_name": "Ginnie"
+  },
+  {
+    "id": 210,
+    "movie_name": "DOA: Dead or Alive",
+    "movie_type": "Action|Adventure",
+    "earning": "$29717.49",
+    "directer_name": "Frayda"
+  },
+  {
+    "id": 211,
+    "movie_name": "Veronica Guerin",
+    "movie_type": "Crime|Drama|Thriller",
+    "earning": "$74160.35",
+    "directer_name": "Franny"
+  },
+  {
+    "id": 212,
+    "movie_name": "Bad and the Beautiful, The",
+    "movie_type": "Drama",
+    "earning": "$68405.51",
+    "directer_name": "Cal"
+  },
+  {
+    "id": 213,
+    "movie_name": "Mitchell",
+    "movie_type": "Action|Crime",
+    "earning": "$28658.86",
+    "directer_name": "Ingrid"
+  },
+  {
+    "id": 214,
+    "movie_name": "How She Move",
+    "movie_type": "Drama",
+    "earning": "$39625.73",
+    "directer_name": "Gerrard"
+  },
+  {
+    "id": 215,
+    "movie_name": "Divo, Il",
+    "movie_type": "Drama",
+    "earning": "$42696.88",
+    "directer_name": "Kameko"
+  },
+  {
+    "id": 216,
+    "movie_name": "Adventure of Sherlock Holmes' Smarter Brother, The",
+    "movie_type": "Comedy|Crime|Mystery",
+    "earning": "$69423.04",
+    "directer_name": "Kain"
+  },
+  {
+    "id": 217,
+    "movie_name": "Breakfast Club, The",
+    "movie_type": "Comedy|Drama",
+    "earning": "$70777.86",
+    "directer_name": "Kathie"
+  },
+  {
+    "id": 218,
+    "movie_name": "Architect, The",
+    "movie_type": "Drama",
+    "earning": "$35040.23",
+    "directer_name": "Rosamond"
+  },
+  {
+    "id": 219,
+    "movie_name": "Castle of Purity (El castillo de la pureza)",
+    "movie_type": "Drama",
+    "earning": "$21250.68",
+    "directer_name": "Hettie"
+  },
+  {
+    "id": 220,
+    "movie_name": "Satan's Sword II (Daibosatsu toge: Ryujin no maki)",
+    "movie_type": "Action|Drama",
+    "earning": "$29607.51",
+    "directer_name": "Orton"
+  },
+  {
+    "id": 221,
+    "movie_name": "Safe",
+    "movie_type": "Action|Crime|Thriller",
+    "earning": "$26214.91",
+    "directer_name": "Dulcea"
+  },
+  {
+    "id": 222,
+    "movie_name": "The Tree, the Mayor and the Mediatheque",
+    "movie_type": "Comedy",
+    "earning": "$74138.16",
+    "directer_name": "Orelle"
+  },
+  {
+    "id": 223,
+    "movie_name": "Where East Is East",
+    "movie_type": "Drama",
+    "earning": "$44028.07",
+    "directer_name": "Verne"
+  },
+  {
+    "id": 224,
+    "movie_name": "Battle Hymn",
+    "movie_type": "Drama",
+    "earning": "$61796.24",
+    "directer_name": "Sholom"
+  },
+  {
+    "id": 225,
+    "movie_name": "Raiders of the Lost Ark: The Adaptation",
+    "movie_type": "Action|Adventure|Thriller",
+    "earning": "$20544.22",
+    "directer_name": "Carlyle"
+  },
+  {
+    "id": 226,
+    "movie_name": "Batman: Under the Red Hood",
+    "movie_type": "Action|Animation",
+    "earning": "$32069.52",
+    "directer_name": "Stephen"
+  },
+  {
+    "id": 227,
+    "movie_name": "President's Last Bang, The (Geuddae geusaramdeul)",
+    "movie_type": "Comedy|Crime|Drama",
+    "earning": "$37108.68",
+    "directer_name": "Hillery"
+  },
+  {
+    "id": 228,
+    "movie_name": "Endless Love",
+    "movie_type": "Drama|Romance",
+    "earning": "$67629.52",
+    "directer_name": "Gabriele"
+  },
+  {
+    "id": 229,
+    "movie_name": "Cement Garden, The",
+    "movie_type": "Drama",
+    "earning": "$79677.47",
+    "directer_name": "Devy"
+  },
+  {
+    "id": 230,
+    "movie_name": "Oldboy",
+    "movie_type": "Action|Drama|Mystery",
+    "earning": "$71358.86",
+    "directer_name": "Brett"
+  },
+  {
+    "id": 231,
+    "movie_name": "Enthusiasm (Entuziazm: Simfoniya Donbassa)",
+    "movie_type": "Documentary",
+    "earning": "$39056.16",
+    "directer_name": "Mia"
+  },
+  {
+    "id": 232,
+    "movie_name": "Fall of the Roman Empire, The",
+    "movie_type": "Drama",
+    "earning": "$55427.36",
+    "directer_name": "Pansy"
+  },
+  {
+    "id": 233,
+    "movie_name": "Unknown Soldier, The (Tuntematon sotilas)",
+    "movie_type": "Drama|War",
+    "earning": "$27604.99",
+    "directer_name": "Darnall"
+  },
+  {
+    "id": 234,
+    "movie_name": "Dead Pit, The",
+    "movie_type": "Horror",
+    "earning": "$45184.38",
+    "directer_name": "Myrlene"
+  },
+  {
+    "id": 235,
+    "movie_name": "Surviving Christmas",
+    "movie_type": "Comedy",
+    "earning": "$71765.44",
+    "directer_name": "Serene"
+  },
+  {
+    "id": 236,
+    "movie_name": "Under African Skies",
+    "movie_type": "Documentary",
+    "earning": "$64248.80",
+    "directer_name": "Renaldo"
+  },
+  {
+    "id": 237,
+    "movie_name": "Mark of the Devil (Hexen bis aufs Blut gequält)",
+    "movie_type": "Drama|Horror",
+    "earning": "$70013.85",
+    "directer_name": "Pebrook"
+  },
+  {
+    "id": 238,
+    "movie_name": "Reincarnation of Peter Proud, The",
+    "movie_type": "Horror|Mystery",
+    "earning": "$58821.74",
+    "directer_name": "Denni"
+  },
+  {
+    "id": 239,
+    "movie_name": "True Grit",
+    "movie_type": "Western",
+    "earning": "$40215.67",
+    "directer_name": "Denys"
+  },
+  {
+    "id": 240,
+    "movie_name": "Moment by Moment",
+    "movie_type": "Drama|Romance",
+    "earning": "$28285.38",
+    "directer_name": "Quintin"
+  },
+  {
+    "id": 241,
+    "movie_name": "Creature Comforts",
+    "movie_type": "Animation|Comedy",
+    "earning": "$52483.43",
+    "directer_name": "Tristan"
+  },
+  {
+    "id": 242,
+    "movie_name": "Francis",
+    "movie_type": "Comedy",
+    "earning": "$53130.68",
+    "directer_name": "Christos"
+  },
+  {
+    "id": 243,
+    "movie_name": "Peking Opera Blues (Do ma daan)",
+    "movie_type": "Action|Comedy",
+    "earning": "$43853.31",
+    "directer_name": "Dougie"
+  },
+  {
+    "id": 244,
+    "movie_name": "Shamus",
+    "movie_type": "Crime|Mystery",
+    "earning": "$28821.01",
+    "directer_name": "Dieter"
+  },
+  {
+    "id": 245,
+    "movie_name": "Piñero",
+    "movie_type": "Drama",
+    "earning": "$67922.82",
+    "directer_name": "Duky"
+  },
+  {
+    "id": 246,
+    "movie_name": "Whoopee!",
+    "movie_type": "Comedy|Musical",
+    "earning": "$21279.60",
+    "directer_name": "Tan"
+  },
+  {
+    "id": 247,
+    "movie_name": "Too Tough to Die: A Tribute to Johnny Ramone",
+    "movie_type": "Documentary",
+    "earning": "$38643.98",
+    "directer_name": "Aili"
+  },
+  {
+    "id": 248,
+    "movie_name": "Every Man for Himself (Slow Motion) (Sauve qui peut (la vie))",
+    "movie_type": "Drama",
+    "earning": "$65638.24",
+    "directer_name": "Izzy"
+  },
+  {
+    "id": 249,
+    "movie_name": "Year One",
+    "movie_type": "Adventure|Comedy",
+    "earning": "$39929.74",
+    "directer_name": "Tonie"
+  },
+  {
+    "id": 250,
+    "movie_name": "Something Real and Good",
+    "movie_type": "Drama",
+    "earning": "$27862.08",
+    "directer_name": "Adelind"
+  },
+  {
+    "id": 251,
+    "movie_name": "Ruins",
+    "movie_type": "Documentary",
+    "earning": "$47328.69",
+    "directer_name": "Klarrisa"
+  },
+  {
+    "id": 252,
+    "movie_name": "Transfer",
+    "movie_type": "Drama|Sci-Fi",
+    "earning": "$36979.90",
+    "directer_name": "Freddie"
+  },
+  {
+    "id": 253,
+    "movie_name": "Swept Away",
+    "movie_type": "Comedy|Romance",
+    "earning": "$44334.43",
+    "directer_name": "Krista"
+  },
+  {
+    "id": 254,
+    "movie_name": "Underground Comedy Movie, The",
+    "movie_type": "Comedy",
+    "earning": "$62661.32",
+    "directer_name": "Robb"
+  },
+  {
+    "id": 255,
+    "movie_name": "On Golden Pond",
+    "movie_type": "Drama",
+    "earning": "$76343.95",
+    "directer_name": "Ertha"
+  },
+  {
+    "id": 256,
+    "movie_name": "Enemy",
+    "movie_type": "Mystery|Thriller",
+    "earning": "$48267.10",
+    "directer_name": "Phebe"
+  },
+  {
+    "id": 257,
+    "movie_name": "Grand Amour, Le",
+    "movie_type": "Comedy|Romance",
+    "earning": "$49130.43",
+    "directer_name": "Anneliese"
+  },
+  {
+    "id": 258,
+    "movie_name": "Folies Bergere de Paris",
+    "movie_type": "Comedy|Musical",
+    "earning": "$60675.63",
+    "directer_name": "Sauncho"
+  },
+  {
+    "id": 259,
+    "movie_name": "Long Day's Journey Into Night",
+    "movie_type": "Drama",
+    "earning": "$75680.51",
+    "directer_name": "Arni"
+  },
+  {
+    "id": 260,
+    "movie_name": "I'm Not There",
+    "movie_type": "Drama",
+    "earning": "$36732.90",
+    "directer_name": "Timothee"
+  },
+  {
+    "id": 261,
+    "movie_name": "King Kelly",
+    "movie_type": "Drama",
+    "earning": "$76880.56",
+    "directer_name": "Ursola"
+  },
+  {
+    "id": 262,
+    "movie_name": "Buying the Cow",
+    "movie_type": "Comedy|Romance",
+    "earning": "$28769.35",
+    "directer_name": "Shay"
+  },
+  {
+    "id": 263,
+    "movie_name": "Flesh and Blood",
+    "movie_type": "Drama",
+    "earning": "$23141.94",
+    "directer_name": "Fania"
+  },
+  {
+    "id": 264,
+    "movie_name": "Magic Trip",
+    "movie_type": "Documentary",
+    "earning": "$29535.79",
+    "directer_name": "Mercie"
+  },
+  {
+    "id": 265,
+    "movie_name": "Trick 'r Treat",
+    "movie_type": "Comedy|Horror|Thriller",
+    "earning": "$76208.23",
+    "directer_name": "Bartel"
+  },
+  {
+    "id": 266,
+    "movie_name": "Caged",
+    "movie_type": "Crime|Drama",
+    "earning": "$75251.04",
+    "directer_name": "Lion"
+  },
+  {
+    "id": 267,
+    "movie_name": "Small Time",
+    "movie_type": "Comedy|Drama",
+    "earning": "$25763.58",
+    "directer_name": "Dewey"
+  },
+  {
+    "id": 268,
+    "movie_name": "For Roseanna (Roseanna's Grave)",
+    "movie_type": "Comedy|Drama|Romance",
+    "earning": "$31252.97",
+    "directer_name": "Melessa"
+  },
+  {
+    "id": 269,
+    "movie_name": "Edison Kinetoscopic Record of a Sneeze",
+    "movie_type": "Documentary",
+    "earning": "$65594.46",
+    "directer_name": "Hazlett"
+  },
+  {
+    "id": 270,
+    "movie_name": "Unloved, The",
+    "movie_type": "Drama",
+    "earning": "$49150.51",
+    "directer_name": "Tedi"
+  },
+  {
+    "id": 271,
+    "movie_name": "Avengers Confidential: Black Widow & Punisher",
+    "movie_type": "Action|Animation|Sci-Fi",
+    "earning": "$60916.14",
+    "directer_name": "Maegan"
+  },
+  {
+    "id": 272,
+    "movie_name": "Too Shy to Try (Je suis timide... mais je me soigne)",
+    "movie_type": "Comedy",
+    "earning": "$31685.09",
+    "directer_name": "Weider"
+  },
+  {
+    "id": 273,
+    "movie_name": "Harry Potter and the Deathly Hallows: Part 1",
+    "movie_type": "Action|Adventure|Fantasy|IMAX",
+    "earning": "$45955.95",
+    "directer_name": "Judah"
+  },
+  {
+    "id": 274,
+    "movie_name": "Bill Burr: Why Do I Do This?",
+    "movie_type": "Comedy",
+    "earning": "$30585.29",
+    "directer_name": "Laurel"
+  },
+  {
+    "id": 275,
+    "movie_name": "Free Zone",
+    "movie_type": "Drama|War",
+    "earning": "$43086.54",
+    "directer_name": "Misty"
+  },
+  {
+    "id": 276,
+    "movie_name": "The Divine Woman",
+    "movie_type": "(no genres listed)",
+    "earning": "$30071.10",
+    "directer_name": "Jackquelin"
+  },
+  {
+    "id": 277,
+    "movie_name": "Village, The",
+    "movie_type": "Drama|Mystery|Thriller",
+    "earning": "$61441.92",
+    "directer_name": "Moyna"
+  },
+  {
+    "id": 278,
+    "movie_name": "Miss Sadie Thompson",
+    "movie_type": "Drama|Musical|Romance",
+    "earning": "$75587.95",
+    "directer_name": "Bess"
+  },
+  {
+    "id": 279,
+    "movie_name": "Becky Sharp",
+    "movie_type": "Drama|Romance|War",
+    "earning": "$67771.91",
+    "directer_name": "Harlie"
+  },
+  {
+    "id": 280,
+    "movie_name": "Visit, The",
+    "movie_type": "Drama",
+    "earning": "$31492.89",
+    "directer_name": "Loree"
+  },
+  {
+    "id": 281,
+    "movie_name": "Panic",
+    "movie_type": "Action|Thriller",
+    "earning": "$71672.87",
+    "directer_name": "Baillie"
+  },
+  {
+    "id": 282,
+    "movie_name": "Holy Man",
+    "movie_type": "Comedy",
+    "earning": "$21393.48",
+    "directer_name": "Lynnet"
+  },
+  {
+    "id": 283,
+    "movie_name": "Last Exorcism, The",
+    "movie_type": "Horror|Thriller",
+    "earning": "$48817.07",
+    "directer_name": "Fredrick"
+  },
+  {
+    "id": 284,
+    "movie_name": "Man on Fire",
+    "movie_type": "Action|Crime|Drama|Mystery|Thriller",
+    "earning": "$55437.39",
+    "directer_name": "Phyllis"
+  },
+  {
+    "id": 285,
+    "movie_name": "Doctor Zhivago",
+    "movie_type": "Drama|Romance|War",
+    "earning": "$21985.76",
+    "directer_name": "Madelin"
+  },
+  {
+    "id": 286,
+    "movie_name": "Track 29",
+    "movie_type": "Drama|Mystery",
+    "earning": "$61923.71",
+    "directer_name": "Lacy"
+  },
+  {
+    "id": 287,
+    "movie_name": "Last Year at Marienbad (L'Année dernière à Marienbad)",
+    "movie_type": "Drama|Mystery|Romance",
+    "earning": "$49779.57",
+    "directer_name": "Arielle"
+  },
+  {
+    "id": 288,
+    "movie_name": "Minnie and Moskowitz",
+    "movie_type": "Action",
+    "earning": "$53066.30",
+    "directer_name": "Samaria"
+  },
+  {
+    "id": 289,
+    "movie_name": "Dying Gaul, The",
+    "movie_type": "Drama|Romance",
+    "earning": "$30641.82",
+    "directer_name": "Shay"
+  },
+  {
+    "id": 290,
+    "movie_name": "Female Yakuza Tale: Inquisition and Torture (Yasagure anego den: sôkatsu rinchi)",
+    "movie_type": "Action|Crime|Drama|Thriller",
+    "earning": "$24587.12",
+    "directer_name": "Marjory"
+  },
+  {
+    "id": 291,
+    "movie_name": "Not on Your Life (Verdugo, El) (Executioner, The)",
+    "movie_type": "Comedy|Drama",
+    "earning": "$69473.92",
+    "directer_name": "Ilyssa"
+  },
+  {
+    "id": 292,
+    "movie_name": "Burglars, The (Le casse)",
+    "movie_type": "Action|Crime|Thriller",
+    "earning": "$56361.29",
+    "directer_name": "Janaye"
+  },
+  {
+    "id": 293,
+    "movie_name": "Thirty-Five Something (Tout pour plaire)",
+    "movie_type": "Comedy",
+    "earning": "$46094.74",
+    "directer_name": "Clarance"
+  },
+  {
+    "id": 294,
+    "movie_name": "Jewtopia",
+    "movie_type": "Comedy|Romance",
+    "earning": "$50523.50",
+    "directer_name": "Cordell"
+  },
+  {
+    "id": 295,
+    "movie_name": "Black Eagle",
+    "movie_type": "Action|Drama",
+    "earning": "$41286.84",
+    "directer_name": "Marcie"
+  },
+  {
+    "id": 296,
+    "movie_name": "The Fox and the Hare",
+    "movie_type": "Animation|Children",
+    "earning": "$76721.15",
+    "directer_name": "Saw"
+  },
+  {
+    "id": 297,
+    "movie_name": "Shadow Boxers",
+    "movie_type": "Documentary",
+    "earning": "$50003.90",
+    "directer_name": "Goldie"
+  },
+  {
+    "id": 298,
+    "movie_name": "Popeye",
+    "movie_type": "Adventure|Comedy|Musical",
+    "earning": "$43257.23",
+    "directer_name": "Ashil"
+  },
+  {
+    "id": 299,
+    "movie_name": "Red Angel (Akai tenshi)",
+    "movie_type": "Drama|Romance|War",
+    "earning": "$28048.68",
+    "directer_name": "Aurora"
+  },
+  {
+    "id": 300,
+    "movie_name": "Brannigan",
+    "movie_type": "Action",
+    "earning": "$61393.25",
+    "directer_name": "Stanton"
+  },
+  {
+    "id": 301,
+    "movie_name": "Man Push Cart",
+    "movie_type": "Drama",
+    "earning": "$49095.02",
+    "directer_name": "Dyann"
+  },
+  {
+    "id": 302,
+    "movie_name": "Epic Movie",
+    "movie_type": "Adventure|Comedy",
+    "earning": "$38740.44",
+    "directer_name": "Yolanthe"
+  },
+  {
+    "id": 303,
+    "movie_name": "Let the Good Times Roll",
+    "movie_type": "Documentary",
+    "earning": "$20968.18",
+    "directer_name": "Reinald"
+  },
+  {
+    "id": 304,
+    "movie_name": "Khroustaliov, My Car! (Khrustalyov, mashinu!)",
+    "movie_type": "Comedy|Drama",
+    "earning": "$26114.49",
+    "directer_name": "Monty"
+  },
+  {
+    "id": 305,
+    "movie_name": "Solo",
+    "movie_type": "Action|Sci-Fi|Thriller",
+    "earning": "$56968.95",
+    "directer_name": "Jonie"
+  },
+  {
+    "id": 306,
+    "movie_name": "Welcome to the Rileys",
+    "movie_type": "Drama",
+    "earning": "$20553.36",
+    "directer_name": "Elinor"
+  },
+  {
+    "id": 307,
+    "movie_name": "Magic of Méliès, The (magie Méliès, La)",
+    "movie_type": "Documentary",
+    "earning": "$41088.19",
+    "directer_name": "Eb"
+  },
+  {
+    "id": 308,
+    "movie_name": "Bullet for the General, A (Quién Sabe?)",
+    "movie_type": "Western",
+    "earning": "$20036.12",
+    "directer_name": "Mag"
+  },
+  {
+    "id": 309,
+    "movie_name": "Category 7: The End of the World",
+    "movie_type": "Action|Drama|Thriller",
+    "earning": "$33647.32",
+    "directer_name": "Osborne"
+  },
+  {
+    "id": 310,
+    "movie_name": "Symphony of the Soil",
+    "movie_type": "Adventure|Documentary",
+    "earning": "$54671.67",
+    "directer_name": "Martica"
+  },
+  {
+    "id": 311,
+    "movie_name": "Bustin' Down the Door",
+    "movie_type": "Documentary",
+    "earning": "$50104.16",
+    "directer_name": "Aundrea"
+  },
+  {
+    "id": 312,
+    "movie_name": "Bell Boy, The",
+    "movie_type": "Comedy",
+    "earning": "$53029.56",
+    "directer_name": "Guinevere"
+  },
+  {
+    "id": 313,
+    "movie_name": "Seems Like Old Times",
+    "movie_type": "Comedy|Romance",
+    "earning": "$77779.38",
+    "directer_name": "Emilia"
+  },
+  {
+    "id": 314,
+    "movie_name": "Intermezzo",
+    "movie_type": "Drama|Romance",
+    "earning": "$51096.95",
+    "directer_name": "Reeva"
+  },
+  {
+    "id": 315,
+    "movie_name": "Champion, The",
+    "movie_type": "Comedy",
+    "earning": "$49041.43",
+    "directer_name": "Walliw"
+  },
+  {
+    "id": 316,
+    "movie_name": "Night of the Running Man",
+    "movie_type": "Action|Crime|Thriller",
+    "earning": "$70358.82",
+    "directer_name": "Teddy"
+  },
+  {
+    "id": 317,
+    "movie_name": "Bad Boys",
+    "movie_type": "Action|Comedy|Crime|Drama|Thriller",
+    "earning": "$65333.14",
+    "directer_name": "Georgeanne"
+  },
+  {
+    "id": 318,
+    "movie_name": "Seconds Apart ",
+    "movie_type": "Horror|Thriller",
+    "earning": "$76185.56",
+    "directer_name": "Leonardo"
+  },
+  {
+    "id": 319,
+    "movie_name": "Films to Keep You Awake",
+    "movie_type": "Horror",
+    "earning": "$29612.47",
+    "directer_name": "Ulric"
+  },
+  {
+    "id": 320,
+    "movie_name": "Garçu, Le",
+    "movie_type": "Drama",
+    "earning": "$68678.97",
+    "directer_name": "Marthe"
+  },
+  {
+    "id": 321,
+    "movie_name": "Lower Depths, The (Donzoko)",
+    "movie_type": "Comedy|Drama",
+    "earning": "$38019.42",
+    "directer_name": "Lyell"
+  },
+  {
+    "id": 322,
+    "movie_name": "Kurt Cobain: Montage of Heck",
+    "movie_type": "Documentary",
+    "earning": "$31102.53",
+    "directer_name": "Conant"
+  },
+  {
+    "id": 323,
+    "movie_name": "Nightmare Alley",
+    "movie_type": "Drama|Film-Noir",
+    "earning": "$77280.00",
+    "directer_name": "Pandora"
+  },
+  {
+    "id": 324,
+    "movie_name": "Valentin (Valentín)",
+    "movie_type": "Drama",
+    "earning": "$42100.16",
+    "directer_name": "Jessalin"
+  },
+  {
+    "id": 325,
+    "movie_name": "Mary Poppins",
+    "movie_type": "Children|Comedy|Fantasy|Musical",
+    "earning": "$33800.98",
+    "directer_name": "Katuscha"
+  },
+  {
+    "id": 326,
+    "movie_name": "Mega Shark vs. Giant Octopus",
+    "movie_type": "Action|Horror",
+    "earning": "$41017.85",
+    "directer_name": "Sherwynd"
+  },
+  {
+    "id": 327,
+    "movie_name": "Twelve",
+    "movie_type": "Crime|Drama|Thriller",
+    "earning": "$28633.49",
+    "directer_name": "Aurelia"
+  },
+  {
+    "id": 328,
+    "movie_name": "Pokémon the Movie: White - Victini and Zekrom",
+    "movie_type": "Animation",
+    "earning": "$51770.65",
+    "directer_name": "Hayyim"
+  },
+  {
+    "id": 329,
+    "movie_name": "Treasure Island",
+    "movie_type": "Adventure",
+    "earning": "$23135.34",
+    "directer_name": "Theresina"
+  },
+  {
+    "id": 330,
+    "movie_name": "Redline",
+    "movie_type": "Action|Animation|Sci-Fi",
+    "earning": "$78032.13",
+    "directer_name": "Hollyanne"
+  },
+  {
+    "id": 331,
+    "movie_name": "Babel",
+    "movie_type": "Drama|Thriller",
+    "earning": "$29197.23",
+    "directer_name": "Vin"
+  },
+  {
+    "id": 332,
+    "movie_name": "Witching and Bitching (Brujas de Zugarramurdi, Las)",
+    "movie_type": "Comedy|Fantasy",
+    "earning": "$55415.13",
+    "directer_name": "Shepard"
+  },
+  {
+    "id": 333,
+    "movie_name": "Truth, The ",
+    "movie_type": "Thriller",
+    "earning": "$23935.57",
+    "directer_name": "Cort"
+  },
+  {
+    "id": 334,
+    "movie_name": "Perfect Score, The",
+    "movie_type": "Comedy|Crime",
+    "earning": "$48531.31",
+    "directer_name": "Traver"
+  },
+  {
+    "id": 335,
+    "movie_name": "The Encounter",
+    "movie_type": "Children|Drama",
+    "earning": "$35271.81",
+    "directer_name": "Blakelee"
+  },
+  {
+    "id": 336,
+    "movie_name": "Spare Bed-Room",
+    "movie_type": "(no genres listed)",
+    "earning": "$30705.61",
+    "directer_name": "Elihu"
+  },
+  {
+    "id": 337,
+    "movie_name": "Mann tut was Mann kann",
+    "movie_type": "Comedy",
+    "earning": "$55632.44",
+    "directer_name": "Caren"
+  },
+  {
+    "id": 338,
+    "movie_name": "Carefree",
+    "movie_type": "Comedy|Musical|Romance",
+    "earning": "$45715.54",
+    "directer_name": "Axe"
+  },
+  {
+    "id": 339,
+    "movie_name": "Tae Guk Gi: The Brotherhood of War (Taegukgi hwinalrimyeo)",
+    "movie_type": "Action|Drama|War",
+    "earning": "$57408.14",
+    "directer_name": "Marnie"
+  },
+  {
+    "id": 340,
+    "movie_name": "Upstream",
+    "movie_type": "Comedy|Drama",
+    "earning": "$36493.26",
+    "directer_name": "Valaria"
+  },
+  {
+    "id": 341,
+    "movie_name": "Old Acquaintance",
+    "movie_type": "Drama",
+    "earning": "$25835.33",
+    "directer_name": "Ardella"
+  },
+  {
+    "id": 342,
+    "movie_name": "Four Nights with Anna (Cztery noce z Anna)",
+    "movie_type": "Crime|Drama|Thriller",
+    "earning": "$45019.23",
+    "directer_name": "Rebecca"
+  },
+  {
+    "id": 343,
+    "movie_name": "Roman de gare",
+    "movie_type": "Drama",
+    "earning": "$34439.32",
+    "directer_name": "Jessalin"
+  },
+  {
+    "id": 344,
+    "movie_name": "Blind Horizon",
+    "movie_type": "Drama|Thriller",
+    "earning": "$75033.66",
+    "directer_name": "Evvy"
+  },
+  {
+    "id": 345,
+    "movie_name": "Against the Ropes",
+    "movie_type": "Comedy|Drama",
+    "earning": "$28830.05",
+    "directer_name": "Hedy"
+  },
+  {
+    "id": 346,
+    "movie_name": "Which Way Home",
+    "movie_type": "Documentary",
+    "earning": "$59518.06",
+    "directer_name": "Magnum"
+  },
+  {
+    "id": 347,
+    "movie_name": "Mission: Impossible III",
+    "movie_type": "Action|Adventure|Thriller",
+    "earning": "$38335.00",
+    "directer_name": "Clementia"
+  },
+  {
+    "id": 348,
+    "movie_name": "And Along Come Tourists (Am Ende kommen Touristen)",
+    "movie_type": "Drama",
+    "earning": "$24733.25",
+    "directer_name": "Chick"
+  },
+  {
+    "id": 349,
+    "movie_name": "Night the Lights Went Out in Georgia, The",
+    "movie_type": "Drama",
+    "earning": "$40418.68",
+    "directer_name": "Bil"
+  },
+  {
+    "id": 350,
+    "movie_name": "Mary and Martha",
+    "movie_type": "Drama",
+    "earning": "$61189.15",
+    "directer_name": "Guinna"
+  },
+  {
+    "id": 351,
+    "movie_name": "Shooting Gallery",
+    "movie_type": "Crime|Drama|Thriller",
+    "earning": "$69976.14",
+    "directer_name": "Drusi"
+  },
+  {
+    "id": 352,
+    "movie_name": "Joe Somebody",
+    "movie_type": "Comedy|Drama|Romance",
+    "earning": "$21239.52",
+    "directer_name": "Rafe"
+  },
+  {
+    "id": 353,
+    "movie_name": "Chasing Ghosts: Beyond the Arcade ",
+    "movie_type": "Documentary",
+    "earning": "$28637.61",
+    "directer_name": "Demetrius"
+  },
+  {
+    "id": 354,
+    "movie_name": "Pink Flamingos",
+    "movie_type": "Comedy",
+    "earning": "$41505.50",
+    "directer_name": "Somerset"
+  },
+  {
+    "id": 355,
+    "movie_name": "Common Wealth (Comunidad, La)",
+    "movie_type": "Comedy|Thriller",
+    "earning": "$70638.66",
+    "directer_name": "Barrie"
+  },
+  {
+    "id": 356,
+    "movie_name": "Black River (Kuroi kawa)",
+    "movie_type": "Drama",
+    "earning": "$77874.11",
+    "directer_name": "Laural"
+  },
+  {
+    "id": 357,
+    "movie_name": "Save the Tiger",
+    "movie_type": "Drama",
+    "earning": "$41019.25",
+    "directer_name": "Lorna"
+  },
+  {
+    "id": 358,
+    "movie_name": "Viva Villa!",
+    "movie_type": "Western",
+    "earning": "$41249.07",
+    "directer_name": "Aguie"
+  },
+  {
+    "id": 359,
+    "movie_name": "Speaking Parts",
+    "movie_type": "Drama",
+    "earning": "$74637.61",
+    "directer_name": "Laurella"
+  },
+  {
+    "id": 360,
+    "movie_name": "Hell Town (Born to the West)",
+    "movie_type": "Romance|Western",
+    "earning": "$62269.25",
+    "directer_name": "Adamo"
+  },
+  {
+    "id": 361,
+    "movie_name": "Project Grizzly",
+    "movie_type": "Documentary",
+    "earning": "$78874.50",
+    "directer_name": "Desi"
+  },
+  {
+    "id": 362,
+    "movie_name": "Alien Abduction",
+    "movie_type": "Horror|Mystery|Sci-Fi",
+    "earning": "$58122.78",
+    "directer_name": "Kati"
+  },
+  {
+    "id": 363,
+    "movie_name": "Brick Lane",
+    "movie_type": "Drama",
+    "earning": "$27472.17",
+    "directer_name": "Helaina"
+  },
+  {
+    "id": 364,
+    "movie_name": "Book of Fate, The (Kohtalon kirja)",
+    "movie_type": "Action|Horror|Sci-Fi|War|Western",
+    "earning": "$40168.55",
+    "directer_name": "Dyanne"
+  },
+  {
+    "id": 365,
+    "movie_name": "Forsaking All Others",
+    "movie_type": "Comedy|Drama|Romance",
+    "earning": "$31900.48",
+    "directer_name": "Jamima"
+  },
+  {
+    "id": 366,
+    "movie_name": "Hustler White",
+    "movie_type": "Romance",
+    "earning": "$23722.39",
+    "directer_name": "Damien"
+  },
+  {
+    "id": 367,
+    "movie_name": "Paper Man",
+    "movie_type": "Comedy|Drama",
+    "earning": "$74934.84",
+    "directer_name": "Ginger"
+  },
+  {
+    "id": 368,
+    "movie_name": "Mouse That Roared, The",
+    "movie_type": "Comedy|War",
+    "earning": "$33722.07",
+    "directer_name": "Emmie"
+  },
+  {
+    "id": 369,
+    "movie_name": "American Hustle",
+    "movie_type": "Crime|Drama",
+    "earning": "$75687.25",
+    "directer_name": "Agnes"
+  },
+  {
+    "id": 370,
+    "movie_name": "My Way (Mai Wei)",
+    "movie_type": "Action|Drama|War",
+    "earning": "$21381.04",
+    "directer_name": "Lexine"
+  },
+  {
+    "id": 371,
+    "movie_name": "Inseparable",
+    "movie_type": "Comedy|Drama|Mystery|Thriller",
+    "earning": "$47253.51",
+    "directer_name": "Domini"
+  },
+  {
+    "id": 372,
+    "movie_name": "Welcome, or No Trespassing",
+    "movie_type": "Children|Comedy",
+    "earning": "$78713.77",
+    "directer_name": "Kristen"
+  },
+  {
+    "id": 373,
+    "movie_name": "Home Sweet Hell",
+    "movie_type": "Comedy|Drama",
+    "earning": "$35140.32",
+    "directer_name": "Wye"
+  },
+  {
+    "id": 374,
+    "movie_name": "George Washington",
+    "movie_type": "Drama",
+    "earning": "$27922.84",
+    "directer_name": "Tine"
+  },
+  {
+    "id": 375,
+    "movie_name": "Game Over",
+    "movie_type": "Crime|Drama|Thriller",
+    "earning": "$24949.73",
+    "directer_name": "Minne"
+  },
+  {
+    "id": 376,
+    "movie_name": "To Each His Own Cinema ",
+    "movie_type": "Comedy|Drama",
+    "earning": "$73573.30",
+    "directer_name": "Chrysa"
+  },
+  {
+    "id": 377,
+    "movie_name": "Good Heart, The",
+    "movie_type": "Drama",
+    "earning": "$55231.92",
+    "directer_name": "Kirstyn"
+  },
+  {
+    "id": 378,
+    "movie_name": "Mail Order Bride",
+    "movie_type": "Comedy|Western",
+    "earning": "$36333.72",
+    "directer_name": "Cynthia"
+  },
+  {
+    "id": 379,
+    "movie_name": "Battle for the Planet of the Apes",
+    "movie_type": "Action|Sci-Fi",
+    "earning": "$38545.05",
+    "directer_name": "Duffie"
+  },
+  {
+    "id": 380,
+    "movie_name": "Eight Deadly Shots (Kahdeksan surmanluotia)",
+    "movie_type": "Drama",
+    "earning": "$28366.87",
+    "directer_name": "Constantine"
+  },
+  {
+    "id": 381,
+    "movie_name": "Greystoke: The Legend of Tarzan, Lord of the Apes",
+    "movie_type": "Adventure|Drama|Romance",
+    "earning": "$58082.55",
+    "directer_name": "Luella"
+  },
+  {
+    "id": 382,
+    "movie_name": "Cheech & Chong's The Corsican Brothers",
+    "movie_type": "Comedy",
+    "earning": "$78209.36",
+    "directer_name": "Stacy"
+  },
+  {
+    "id": 383,
+    "movie_name": "Vizontele",
+    "movie_type": "Comedy|Drama",
+    "earning": "$28865.58",
+    "directer_name": "Mechelle"
+  },
+  {
+    "id": 384,
+    "movie_name": "Resident Evil: Apocalypse",
+    "movie_type": "Action|Horror|Sci-Fi|Thriller",
+    "earning": "$39561.32",
+    "directer_name": "Ford"
+  },
+  {
+    "id": 385,
+    "movie_name": "Man in the Saddle",
+    "movie_type": "Western",
+    "earning": "$28602.34",
+    "directer_name": "Kirsti"
+  },
+  {
+    "id": 386,
+    "movie_name": "Duchess, The",
+    "movie_type": "Drama|Romance",
+    "earning": "$66495.26",
+    "directer_name": "Randa"
+  },
+  {
+    "id": 387,
+    "movie_name": "Allegro",
+    "movie_type": "Drama|Fantasy|Mystery|Romance|Sci-Fi",
+    "earning": "$29311.68",
+    "directer_name": "Orly"
+  },
+  {
+    "id": 388,
+    "movie_name": "Bridge of Dragons",
+    "movie_type": "Action|Romance|Sci-Fi|Thriller",
+    "earning": "$42832.37",
+    "directer_name": "Roseanna"
+  },
+  {
+    "id": 389,
+    "movie_name": "Beast, The",
+    "movie_type": "Drama|Horror|Thriller",
+    "earning": "$29959.46",
+    "directer_name": "Gert"
+  },
+  {
+    "id": 390,
+    "movie_name": "Last Call, The (Tercera Llamada)",
+    "movie_type": "Comedy|Drama",
+    "earning": "$31934.66",
+    "directer_name": "Pen"
+  },
+  {
+    "id": 391,
+    "movie_name": "Point of Order",
+    "movie_type": "Documentary",
+    "earning": "$21568.33",
+    "directer_name": "Cybill"
+  },
+  {
+    "id": 392,
+    "movie_name": "Cleanskin",
+    "movie_type": "Crime|Drama|Thriller",
+    "earning": "$72224.71",
+    "directer_name": "Fredia"
+  },
+  {
+    "id": 393,
+    "movie_name": "Balance",
+    "movie_type": "Animation|Drama",
+    "earning": "$31650.03",
+    "directer_name": "Carlynne"
+  },
+  {
+    "id": 394,
+    "movie_name": "Norte, El",
+    "movie_type": "Adventure|Drama",
+    "earning": "$47311.56",
+    "directer_name": "Cyndie"
+  },
+  {
+    "id": 395,
+    "movie_name": "Regeneration",
+    "movie_type": "Drama|War",
+    "earning": "$66215.26",
+    "directer_name": "Oran"
+  },
+  {
+    "id": 396,
+    "movie_name": "Dead Alive (Braindead)",
+    "movie_type": "Comedy|Fantasy|Horror",
+    "earning": "$70077.69",
+    "directer_name": "Debi"
+  },
+  {
+    "id": 397,
+    "movie_name": "Mystery on Monster Island",
+    "movie_type": "Adventure|Comedy",
+    "earning": "$50360.82",
+    "directer_name": "Amber"
+  },
+  {
+    "id": 398,
+    "movie_name": "Fat Girl (À ma soeur!)",
+    "movie_type": "Drama",
+    "earning": "$53194.41",
+    "directer_name": "Misti"
+  },
+  {
+    "id": 399,
+    "movie_name": "Triple Cross",
+    "movie_type": "Action|Adventure|Drama|Thriller|War",
+    "earning": "$24810.70",
+    "directer_name": "Terese"
+  },
+  {
+    "id": 400,
+    "movie_name": "Offence, The",
+    "movie_type": "Crime|Drama|Mystery",
+    "earning": "$59977.61",
+    "directer_name": "Dido"
+  },
+  {
+    "id": 401,
+    "movie_name": "Rob Roy",
+    "movie_type": "Action|Drama|Romance|War",
+    "earning": "$61366.36",
+    "directer_name": "Town"
+  },
+  {
+    "id": 402,
+    "movie_name": "Phantasm III: Lord of the Dead",
+    "movie_type": "Horror",
+    "earning": "$34866.91",
+    "directer_name": "Christal"
+  },
+  {
+    "id": 403,
+    "movie_name": "Django 2: Django Strikes Again",
+    "movie_type": "Western",
+    "earning": "$66390.23",
+    "directer_name": "Ulrikaumeko"
+  },
+  {
+    "id": 404,
+    "movie_name": "10th Judicial Court",
+    "movie_type": "Documentary",
+    "earning": "$61419.45",
+    "directer_name": "Aubry"
+  },
+  {
+    "id": 405,
+    "movie_name": "Gentlemen",
+    "movie_type": "Drama|Romance|Thriller",
+    "earning": "$22627.10",
+    "directer_name": "Lesley"
+  },
+  {
+    "id": 406,
+    "movie_name": "Baby, The",
+    "movie_type": "Horror",
+    "earning": "$41809.03",
+    "directer_name": "Alano"
+  },
+  {
+    "id": 407,
+    "movie_name": "Goalie's ",
+    "movie_type": "Drama",
+    "earning": "$76466.02",
+    "directer_name": "Sharai"
+  },
+  {
+    "id": 408,
+    "movie_name": "Instinct",
+    "movie_type": "Drama|Thriller",
+    "earning": "$35400.64",
+    "directer_name": "Hally"
+  },
+  {
+    "id": 409,
+    "movie_name": "Went the Day Well?",
+    "movie_type": "Thriller|War",
+    "earning": "$71470.01",
+    "directer_name": "Kai"
+  },
+  {
+    "id": 410,
+    "movie_name": "Stuart Little",
+    "movie_type": "Children|Comedy|Fantasy",
+    "earning": "$64617.87",
+    "directer_name": "Doralyn"
+  },
+  {
+    "id": 411,
+    "movie_name": "Snake of June, A (Rokugatsu no hebi)",
+    "movie_type": "Drama|Mystery",
+    "earning": "$41402.87",
+    "directer_name": "Dominica"
+  },
+  {
+    "id": 412,
+    "movie_name": "Without a Paddle: Nature's Calling",
+    "movie_type": "Adventure|Comedy",
+    "earning": "$23414.88",
+    "directer_name": "Xenos"
+  },
+  {
+    "id": 413,
+    "movie_name": "Something Is Happening (Kuch Kuch Hota Hai)",
+    "movie_type": "Comedy|Musical|Romance",
+    "earning": "$58734.43",
+    "directer_name": "Nils"
+  },
+  {
+    "id": 414,
+    "movie_name": "Fearless Hyena, The (Xiao quan guai zhao)",
+    "movie_type": "Action|Comedy",
+    "earning": "$78713.73",
+    "directer_name": "Bogart"
+  },
+  {
+    "id": 415,
+    "movie_name": "Time to Leave",
+    "movie_type": "Drama",
+    "earning": "$21578.97",
+    "directer_name": "Rhea"
+  },
+  {
+    "id": 416,
+    "movie_name": "Unspeakable Act, The",
+    "movie_type": "Drama",
+    "earning": "$62953.32",
+    "directer_name": "Alistair"
+  },
+  {
+    "id": 417,
+    "movie_name": "Lilies",
+    "movie_type": "Drama|Fantasy|Romance",
+    "earning": "$64127.76",
+    "directer_name": "Brett"
+  },
+  {
+    "id": 418,
+    "movie_name": "I Was a Teenage Zombie",
+    "movie_type": "Comedy|Horror",
+    "earning": "$36630.64",
+    "directer_name": "Vally"
+  },
+  {
+    "id": 419,
+    "movie_name": "Evening Star, The",
+    "movie_type": "Comedy|Drama",
+    "earning": "$57243.73",
+    "directer_name": "Allin"
+  },
+  {
+    "id": 420,
+    "movie_name": "My Friend Ivan Lapshin (Moy drug Ivan Lapshin)",
+    "movie_type": "Drama",
+    "earning": "$54707.67",
+    "directer_name": "Sean"
+  },
+  {
+    "id": 421,
+    "movie_name": "Brothers (Veljekset)",
+    "movie_type": "Drama",
+    "earning": "$21673.09",
+    "directer_name": "Rae"
+  },
+  {
+    "id": 422,
+    "movie_name": "What Goes Up",
+    "movie_type": "Drama",
+    "earning": "$47560.46",
+    "directer_name": "Cissiee"
+  },
+  {
+    "id": 423,
+    "movie_name": "Detective Story",
+    "movie_type": "Crime|Drama|Film-Noir",
+    "earning": "$56358.15",
+    "directer_name": "Rafi"
+  },
+  {
+    "id": 424,
+    "movie_name": "Mom's Night Out",
+    "movie_type": "Comedy",
+    "earning": "$75118.30",
+    "directer_name": "Rois"
+  },
+  {
+    "id": 425,
+    "movie_name": "This is Our Time",
+    "movie_type": "Drama",
+    "earning": "$26434.48",
+    "directer_name": "Tedda"
+  },
+  {
+    "id": 426,
+    "movie_name": "Spine Tingler!  The William Castle Story",
+    "movie_type": "Documentary",
+    "earning": "$58638.53",
+    "directer_name": "Henrietta"
+  },
+  {
+    "id": 427,
+    "movie_name": "The Devil Thumbs a Ride",
+    "movie_type": "Drama|Film-Noir",
+    "earning": "$78083.84",
+    "directer_name": "Jacobo"
+  },
+  {
+    "id": 428,
+    "movie_name": "Theory of Everything, The",
+    "movie_type": "Drama",
+    "earning": "$70271.21",
+    "directer_name": "Garrett"
+  },
+  {
+    "id": 429,
+    "movie_name": "Meatballs 4",
+    "movie_type": "Comedy",
+    "earning": "$28599.08",
+    "directer_name": "Jeannine"
+  },
+  {
+    "id": 430,
+    "movie_name": "Here Comes Cookie",
+    "movie_type": "Comedy",
+    "earning": "$56440.43",
+    "directer_name": "Fancie"
+  },
+  {
+    "id": 431,
+    "movie_name": "Danger: Diabolik (Diabolik)",
+    "movie_type": "Action|Crime|Thriller",
+    "earning": "$32963.49",
+    "directer_name": "Elvina"
+  },
+  {
+    "id": 432,
+    "movie_name": "Black Stallion Returns, The",
+    "movie_type": "Adventure|Children",
+    "earning": "$75854.30",
+    "directer_name": "Geoffry"
+  },
+  {
+    "id": 433,
+    "movie_name": "Beautiful City (Shah-re ziba)",
+    "movie_type": "Drama",
+    "earning": "$45924.87",
+    "directer_name": "Albertina"
+  },
+  {
+    "id": 434,
+    "movie_name": "She Done Him Wrong",
+    "movie_type": "Comedy|Romance",
+    "earning": "$23861.88",
+    "directer_name": "Gilli"
+  },
+  {
+    "id": 435,
+    "movie_name": "Angel Named Billy, An",
+    "movie_type": "Drama",
+    "earning": "$78475.66",
+    "directer_name": "Mara"
+  },
+  {
+    "id": 436,
+    "movie_name": "Swedish Love Story, A (Kärlekshistoria, En)",
+    "movie_type": "Drama|Romance",
+    "earning": "$43837.38",
+    "directer_name": "Zebadiah"
+  },
+  {
+    "id": 437,
+    "movie_name": "Santa Clause 2, The",
+    "movie_type": "Children|Comedy|Fantasy|Romance",
+    "earning": "$50250.81",
+    "directer_name": "Burke"
+  },
+  {
+    "id": 438,
+    "movie_name": "Arbitrage",
+    "movie_type": "Drama|Thriller",
+    "earning": "$43359.45",
+    "directer_name": "Mac"
+  },
+  {
+    "id": 439,
+    "movie_name": "PK",
+    "movie_type": "Comedy|Drama|Fantasy|Mystery|Romance",
+    "earning": "$69133.27",
+    "directer_name": "Chelsy"
+  },
+  {
+    "id": 440,
+    "movie_name": "Ali Baba Goes to Town",
+    "movie_type": "Comedy|Fantasy|Musical",
+    "earning": "$23485.33",
+    "directer_name": "Kacy"
+  },
+  {
+    "id": 441,
+    "movie_name": "Meet the Parents",
+    "movie_type": "Comedy",
+    "earning": "$73735.64",
+    "directer_name": "Nathaniel"
+  },
+  {
+    "id": 442,
+    "movie_name": "Wassup Rockers",
+    "movie_type": "Comedy|Drama",
+    "earning": "$77868.86",
+    "directer_name": "Kirsti"
+  },
+  {
+    "id": 443,
+    "movie_name": "For the Birds",
+    "movie_type": "Animation|Children|Comedy",
+    "earning": "$33113.02",
+    "directer_name": "Dierdre"
+  },
+  {
+    "id": 444,
+    "movie_name": "Mad Love (Juana la Loca)",
+    "movie_type": "Drama",
+    "earning": "$73494.60",
+    "directer_name": "Lorianne"
+  },
+  {
+    "id": 445,
+    "movie_name": "Book of Eli, The",
+    "movie_type": "Action|Adventure|Drama",
+    "earning": "$22839.10",
+    "directer_name": "Frieda"
+  },
+  {
+    "id": 446,
+    "movie_name": "Destruction Force",
+    "movie_type": "Crime",
+    "earning": "$34768.58",
+    "directer_name": "Willie"
+  },
+  {
+    "id": 447,
+    "movie_name": "Among Giants",
+    "movie_type": "Comedy|Drama|Romance",
+    "earning": "$44812.09",
+    "directer_name": "Terrell"
+  },
+  {
+    "id": 448,
+    "movie_name": "Last Winter (L'hiver dernier)",
+    "movie_type": "Drama",
+    "earning": "$22242.41",
+    "directer_name": "Ulric"
+  },
+  {
+    "id": 449,
+    "movie_name": "Princess Protection Program",
+    "movie_type": "Children|Drama",
+    "earning": "$42895.81",
+    "directer_name": "Julee"
+  },
+  {
+    "id": 450,
+    "movie_name": "Hitchhiker's Guide to the Galaxy, The",
+    "movie_type": "Adventure|Comedy|Sci-Fi",
+    "earning": "$42757.91",
+    "directer_name": "Dorene"
+  },
+  {
+    "id": 451,
+    "movie_name": "Adventures of Mark Twain, The",
+    "movie_type": "Adventure|Drama",
+    "earning": "$75055.55",
+    "directer_name": "Kalvin"
+  },
+  {
+    "id": 452,
+    "movie_name": "Adventures of Milo and Otis, The (Koneko monogatari)",
+    "movie_type": "Adventure|Children|Comedy|Drama",
+    "earning": "$27450.24",
+    "directer_name": "Karlie"
+  },
+  {
+    "id": 453,
+    "movie_name": "Eight Men Out",
+    "movie_type": "Drama",
+    "earning": "$76550.98",
+    "directer_name": "Katusha"
+  },
+  {
+    "id": 454,
+    "movie_name": "Cemetery Junction",
+    "movie_type": "Comedy|Drama|Romance",
+    "earning": "$76630.37",
+    "directer_name": "Nelli"
+  },
+  {
+    "id": 455,
+    "movie_name": "Newest Pledge, The",
+    "movie_type": "Comedy",
+    "earning": "$64812.57",
+    "directer_name": "Zaria"
+  },
+  {
+    "id": 456,
+    "movie_name": "Scarlet Letter, The",
+    "movie_type": "Drama",
+    "earning": "$70315.83",
+    "directer_name": "Ianthe"
+  },
+  {
+    "id": 457,
+    "movie_name": "Je, tu, il, elle (I, You, He, She)",
+    "movie_type": "Drama",
+    "earning": "$25979.31",
+    "directer_name": "Juliette"
+  },
+  {
+    "id": 458,
+    "movie_name": "Planet of Dinosaurs",
+    "movie_type": "Drama|Sci-Fi",
+    "earning": "$74968.56",
+    "directer_name": "Tallulah"
+  },
+  {
+    "id": 459,
+    "movie_name": "Cherry Crush",
+    "movie_type": "Drama|Thriller",
+    "earning": "$56950.82",
+    "directer_name": "Mauricio"
+  },
+  {
+    "id": 460,
+    "movie_name": "Big Boys Gone Bananas!*",
+    "movie_type": "Documentary",
+    "earning": "$50161.39",
+    "directer_name": "Ricky"
+  },
+  {
+    "id": 461,
+    "movie_name": "Henry's Crime",
+    "movie_type": "Comedy|Crime",
+    "earning": "$53658.94",
+    "directer_name": "Timothy"
+  },
+  {
+    "id": 462,
+    "movie_name": "Exposed",
+    "movie_type": "Drama",
+    "earning": "$63936.68",
+    "directer_name": "Tildie"
+  },
+  {
+    "id": 463,
+    "movie_name": "Microphone",
+    "movie_type": "Comedy|Drama|Musical",
+    "earning": "$27390.13",
+    "directer_name": "Maryellen"
+  },
+  {
+    "id": 464,
+    "movie_name": "Iron & Silk",
+    "movie_type": "Comedy|Drama",
+    "earning": "$69779.83",
+    "directer_name": "Virgina"
+  },
+  {
+    "id": 465,
+    "movie_name": "Tyler Perry's For Colored Girls",
+    "movie_type": "Drama",
+    "earning": "$73957.70",
+    "directer_name": "Galvan"
+  },
+  {
+    "id": 466,
+    "movie_name": "Dirty Dozen, The: The Fatal Mission",
+    "movie_type": "Action|Adventure|War",
+    "earning": "$44117.87",
+    "directer_name": "Lorrin"
+  },
+  {
+    "id": 467,
+    "movie_name": "Mackenna's Gold",
+    "movie_type": "Western",
+    "earning": "$25473.84",
+    "directer_name": "Glenine"
+  },
+  {
+    "id": 468,
+    "movie_name": "Animated Motion: Part 5",
+    "movie_type": "Animation|Documentary",
+    "earning": "$65470.44",
+    "directer_name": "Skippie"
+  },
+  {
+    "id": 469,
+    "movie_name": "World according to Ion B., The (Lumea vazuta de Ion B)",
+    "movie_type": "Documentary",
+    "earning": "$73578.49",
+    "directer_name": "Hattie"
+  },
+  {
+    "id": 470,
+    "movie_name": "Notorious Bettie Page, The",
+    "movie_type": "Drama",
+    "earning": "$68240.58",
+    "directer_name": "Frederico"
+  },
+  {
+    "id": 471,
+    "movie_name": "Rescue Dawn",
+    "movie_type": "Action|Adventure|Drama|War",
+    "earning": "$77599.33",
+    "directer_name": "Brittney"
+  },
+  {
+    "id": 472,
+    "movie_name": "Infidel, The",
+    "movie_type": "Comedy",
+    "earning": "$59631.39",
+    "directer_name": "Fenelia"
+  },
+  {
+    "id": 473,
+    "movie_name": "Stepfather, The",
+    "movie_type": "Horror|Thriller",
+    "earning": "$29290.73",
+    "directer_name": "Tate"
+  },
+  {
+    "id": 474,
+    "movie_name": "Night Terrors",
+    "movie_type": "Horror",
+    "earning": "$24501.37",
+    "directer_name": "Delcina"
+  },
+  {
+    "id": 475,
+    "movie_name": "Brick Lane",
+    "movie_type": "Drama",
+    "earning": "$32510.48",
+    "directer_name": "Octavius"
+  },
+  {
+    "id": 476,
+    "movie_name": "Adventures ",
+    "movie_type": "Action|Drama",
+    "earning": "$64160.96",
+    "directer_name": "Wally"
+  },
+  {
+    "id": 477,
+    "movie_name": "Ten Minutes Older: The Cello",
+    "movie_type": "Drama|Musical|Romance|Sci-Fi",
+    "earning": "$68491.50",
+    "directer_name": "Leicester"
+  },
+  {
+    "id": 478,
+    "movie_name": "Tarzan",
+    "movie_type": "Adventure|Animation|Children|Drama",
+    "earning": "$51872.81",
+    "directer_name": "Camila"
+  },
+  {
+    "id": 479,
+    "movie_name": "Once Around",
+    "movie_type": "Drama",
+    "earning": "$35904.98",
+    "directer_name": "Dina"
+  },
+  {
+    "id": 480,
+    "movie_name": "Lost Angels",
+    "movie_type": "Drama",
+    "earning": "$78834.23",
+    "directer_name": "Constance"
+  },
+  {
+    "id": 481,
+    "movie_name": "How to Eat Fried Worms",
+    "movie_type": "Children|Drama",
+    "earning": "$21995.25",
+    "directer_name": "Cathyleen"
+  },
+  {
+    "id": 482,
+    "movie_name": "Married Life",
+    "movie_type": "Crime|Drama|Romance",
+    "earning": "$74643.84",
+    "directer_name": "Allie"
+  },
+  {
+    "id": 483,
+    "movie_name": "Chaos",
+    "movie_type": "Crime|Drama|Horror",
+    "earning": "$51729.62",
+    "directer_name": "Bradley"
+  },
+  {
+    "id": 484,
+    "movie_name": "Race to Witch Mountain",
+    "movie_type": "Adventure|Sci-Fi|Thriller",
+    "earning": "$36185.37",
+    "directer_name": "Lane"
+  },
+  {
+    "id": 485,
+    "movie_name": "The Hound of the Baskervilles",
+    "movie_type": "Crime|Drama|Horror|Mystery",
+    "earning": "$39734.92",
+    "directer_name": "Sander"
+  },
+  {
+    "id": 486,
+    "movie_name": "License to Wed",
+    "movie_type": "Comedy|Romance",
+    "earning": "$43156.06",
+    "directer_name": "Jessika"
+  },
+  {
+    "id": 487,
+    "movie_name": "Lone Star",
+    "movie_type": "Drama|Mystery|Western",
+    "earning": "$54351.62",
+    "directer_name": "Tome"
+  },
+  {
+    "id": 488,
+    "movie_name": "Lady in Cement",
+    "movie_type": "Crime|Drama|Mystery|Thriller",
+    "earning": "$51426.78",
+    "directer_name": "Ashlan"
+  },
+  {
+    "id": 489,
+    "movie_name": "Joe Dirt",
+    "movie_type": "Adventure|Comedy|Mystery|Romance",
+    "earning": "$35931.18",
+    "directer_name": "Twyla"
+  },
+  {
+    "id": 490,
+    "movie_name": "Shakes the Clown",
+    "movie_type": "Comedy",
+    "earning": "$35699.95",
+    "directer_name": "Noah"
+  },
+  {
+    "id": 491,
+    "movie_name": "Air Doll (Kûki ningyô)",
+    "movie_type": "Drama",
+    "earning": "$66882.67",
+    "directer_name": "Genvieve"
+  },
+  {
+    "id": 492,
+    "movie_name": "Bill Bailey: Qualmpeddler",
+    "movie_type": "Comedy",
+    "earning": "$44662.02",
+    "directer_name": "Randi"
+  },
+  {
+    "id": 493,
+    "movie_name": "Amanece, que no es poco",
+    "movie_type": "Comedy",
+    "earning": "$41039.16",
+    "directer_name": "Jard"
+  },
+  {
+    "id": 494,
+    "movie_name": "Alexander the Great",
+    "movie_type": "Drama",
+    "earning": "$56374.85",
+    "directer_name": "Conni"
+  },
+  {
+    "id": 495,
+    "movie_name": "Strangler, The",
+    "movie_type": "Horror",
+    "earning": "$48894.42",
+    "directer_name": "Petr"
+  },
+  {
+    "id": 496,
+    "movie_name": "Warlords, The (Tau ming chong)",
+    "movie_type": "Action|Drama|War",
+    "earning": "$47870.97",
+    "directer_name": "Gwendolyn"
+  },
+  {
+    "id": 497,
+    "movie_name": "Vincere",
+    "movie_type": "Drama|Romance",
+    "earning": "$50490.05",
+    "directer_name": "Dallas"
+  },
+  {
+    "id": 498,
+    "movie_name": "Sylvia and the Ghost",
+    "movie_type": "Comedy|Fantasy|Romance",
+    "earning": "$64916.40",
+    "directer_name": "Allyson"
+  },
+  {
+    "id": 499,
+    "movie_name": "Nocturna Artificialia",
+    "movie_type": "Animation",
+    "earning": "$45283.98",
+    "directer_name": "Betti"
+  },
+  {
+    "id": 500,
+    "movie_name": "Fugitive, The",
+    "movie_type": "Drama",
+    "earning": "$52900.47",
+    "directer_name": "Wain"
+  },
+  {
+    "id": 501,
+    "movie_name": "Grotesque",
+    "movie_type": "Horror",
+    "earning": "$37117.36",
+    "directer_name": "Nikolaus"
+  },
+  {
+    "id": 502,
+    "movie_name": "Crew, The",
+    "movie_type": "Comedy",
+    "earning": "$47308.55",
+    "directer_name": "Webb"
+  },
+  {
+    "id": 503,
+    "movie_name": "Truth in 24",
+    "movie_type": "Documentary",
+    "earning": "$59710.64",
+    "directer_name": "Brandea"
+  },
+  {
+    "id": 504,
+    "movie_name": "For a Few Dollars More (Per qualche dollaro in più)",
+    "movie_type": "Action|Drama|Thriller|Western",
+    "earning": "$56214.67",
+    "directer_name": "Aarika"
+  },
+  {
+    "id": 505,
+    "movie_name": "Reality of Love, The (I Want to Marry Ryan Banks)",
+    "movie_type": "Comedy|Romance",
+    "earning": "$39217.80",
+    "directer_name": "Bertha"
+  },
+  {
+    "id": 506,
+    "movie_name": "Space Milkshake",
+    "movie_type": "Comedy|Sci-Fi",
+    "earning": "$28411.90",
+    "directer_name": "Celestine"
+  },
+  {
+    "id": 507,
+    "movie_name": "Paulie",
+    "movie_type": "Adventure|Children|Comedy",
+    "earning": "$60746.36",
+    "directer_name": "Sharia"
+  },
+  {
+    "id": 508,
+    "movie_name": "Don Juan",
+    "movie_type": "Adventure|Drama|Romance",
+    "earning": "$61692.39",
+    "directer_name": "Sutton"
+  },
+  {
+    "id": 509,
+    "movie_name": "976-EVIL",
+    "movie_type": "Horror",
+    "earning": "$44755.55",
+    "directer_name": "Silvio"
+  },
+  {
+    "id": 510,
+    "movie_name": "Forever Young",
+    "movie_type": "Drama|Romance|Sci-Fi",
+    "earning": "$71811.48",
+    "directer_name": "Sela"
+  },
+  {
+    "id": 511,
+    "movie_name": "This Island Earth",
+    "movie_type": "Sci-Fi",
+    "earning": "$70465.48",
+    "directer_name": "Lindi"
+  },
+  {
+    "id": 512,
+    "movie_name": "Everything Must Go",
+    "movie_type": "Comedy|Drama",
+    "earning": "$37040.23",
+    "directer_name": "Fee"
+  },
+  {
+    "id": 513,
+    "movie_name": "Off the Map",
+    "movie_type": "Comedy|Drama",
+    "earning": "$25792.73",
+    "directer_name": "Domenic"
+  },
+  {
+    "id": 514,
+    "movie_name": "Ugetsu (Ugetsu monogatari)",
+    "movie_type": "Drama|Thriller",
+    "earning": "$75214.83",
+    "directer_name": "Nichols"
+  },
+  {
+    "id": 515,
+    "movie_name": "Hard Man, The",
+    "movie_type": "Western",
+    "earning": "$76867.85",
+    "directer_name": "Genovera"
+  },
+  {
+    "id": 516,
+    "movie_name": "Shrine, The",
+    "movie_type": "Horror",
+    "earning": "$22990.67",
+    "directer_name": "Helga"
+  },
+  {
+    "id": 517,
+    "movie_name": "Firelight",
+    "movie_type": "Drama",
+    "earning": "$73679.46",
+    "directer_name": "Cam"
+  },
+  {
+    "id": 518,
+    "movie_name": "Outsourced",
+    "movie_type": "Comedy|Romance",
+    "earning": "$47378.24",
+    "directer_name": "Deane"
+  },
+  {
+    "id": 519,
+    "movie_name": "Smoking/No Smoking",
+    "movie_type": "Comedy",
+    "earning": "$32341.16",
+    "directer_name": "Ashley"
+  },
+  {
+    "id": 520,
+    "movie_name": "Standing Aside, Watching",
+    "movie_type": "Drama",
+    "earning": "$61874.37",
+    "directer_name": "Darline"
+  },
+  {
+    "id": 521,
+    "movie_name": "Million Dollar Mystery",
+    "movie_type": "Comedy",
+    "earning": "$21145.49",
+    "directer_name": "Courtnay"
+  },
+  {
+    "id": 522,
+    "movie_name": "What Women Want",
+    "movie_type": "Comedy|Romance",
+    "earning": "$73390.69",
+    "directer_name": "Jessamyn"
+  },
+  {
+    "id": 523,
+    "movie_name": "Until the End of the World (Bis ans Ende der Welt)",
+    "movie_type": "Adventure|Drama|Sci-Fi",
+    "earning": "$64930.13",
+    "directer_name": "Andy"
+  },
+  {
+    "id": 524,
+    "movie_name": "It's A Wonderful World",
+    "movie_type": "Comedy|Crime|Romance",
+    "earning": "$68092.81",
+    "directer_name": "Ibby"
+  },
+  {
+    "id": 525,
+    "movie_name": "Mountain, The",
+    "movie_type": "Adventure|Drama",
+    "earning": "$53673.77",
+    "directer_name": "Conchita"
+  },
+  {
+    "id": 526,
+    "movie_name": "Revenge of the Nerds II: Nerds in Paradise",
+    "movie_type": "Comedy",
+    "earning": "$24750.96",
+    "directer_name": "Rivkah"
+  },
+  {
+    "id": 527,
+    "movie_name": "Tom Sawyer",
+    "movie_type": "Adventure|Children|Musical",
+    "earning": "$33676.68",
+    "directer_name": "Toinette"
+  },
+  {
+    "id": 528,
+    "movie_name": "Reckoning, The",
+    "movie_type": "Crime|Mystery|Thriller",
+    "earning": "$33629.68",
+    "directer_name": "Tannie"
+  },
+  {
+    "id": 529,
+    "movie_name": "Tyler Perry's For Colored Girls",
+    "movie_type": "Drama",
+    "earning": "$60965.16",
+    "directer_name": "Elane"
+  },
+  {
+    "id": 530,
+    "movie_name": "Up the Sandbox",
+    "movie_type": "Comedy",
+    "earning": "$75427.47",
+    "directer_name": "Aindrea"
+  },
+  {
+    "id": 531,
+    "movie_name": "Six Pack",
+    "movie_type": "Comedy|Drama",
+    "earning": "$32672.26",
+    "directer_name": "Homere"
+  },
+  {
+    "id": 532,
+    "movie_name": "Un Poliziotto Scomodo",
+    "movie_type": "Action|Crime|Thriller",
+    "earning": "$45597.13",
+    "directer_name": "Wain"
+  },
+  {
+    "id": 533,
+    "movie_name": "The Hire: Hostage",
+    "movie_type": "Action|Adventure|Crime|Thriller",
+    "earning": "$38055.43",
+    "directer_name": "Gabey"
+  },
+  {
+    "id": 534,
+    "movie_name": "Man Who Sleeps, The (Un homme qui dort)",
+    "movie_type": "Drama",
+    "earning": "$29839.72",
+    "directer_name": "Gussi"
+  },
+  {
+    "id": 535,
+    "movie_name": "Onion Field, The",
+    "movie_type": "Drama",
+    "earning": "$66360.26",
+    "directer_name": "Cindelyn"
+  },
+  {
+    "id": 536,
+    "movie_name": "From the Orient with Fury",
+    "movie_type": "Action|Adventure|Comedy",
+    "earning": "$66887.47",
+    "directer_name": "Rebecca"
+  },
+  {
+    "id": 537,
+    "movie_name": "Wendigo",
+    "movie_type": "Drama|Horror",
+    "earning": "$51402.03",
+    "directer_name": "Sybille"
+  },
+  {
+    "id": 538,
+    "movie_name": "Leprechaun 2",
+    "movie_type": "Comedy|Fantasy|Horror",
+    "earning": "$53023.24",
+    "directer_name": "Scot"
+  },
+  {
+    "id": 539,
+    "movie_name": "Star Wreck: In the Pirkinning",
+    "movie_type": "Action|Comedy|Sci-Fi",
+    "earning": "$37720.86",
+    "directer_name": "Evita"
+  },
+  {
+    "id": 540,
+    "movie_name": "The Detective 2",
+    "movie_type": "Action",
+    "earning": "$20940.36",
+    "directer_name": "Lorne"
+  },
+  {
+    "id": 541,
+    "movie_name": "Persona",
+    "movie_type": "Drama",
+    "earning": "$46698.37",
+    "directer_name": "Myrta"
+  },
+  {
+    "id": 542,
+    "movie_name": "Revenge of the Pink Panther",
+    "movie_type": "Comedy|Crime",
+    "earning": "$65304.57",
+    "directer_name": "Phip"
+  },
+  {
+    "id": 543,
+    "movie_name": "Takeshis'",
+    "movie_type": "Comedy|Drama",
+    "earning": "$25567.21",
+    "directer_name": "Daile"
+  },
+  {
+    "id": 544,
+    "movie_name": "Day the Earth Stood Still, The",
+    "movie_type": "Drama|Sci-Fi|Thriller|IMAX",
+    "earning": "$38708.02",
+    "directer_name": "Brandy"
+  },
+  {
+    "id": 545,
+    "movie_name": "Client 9: The Rise and Fall of Eliot Spitzer",
+    "movie_type": "Documentary",
+    "earning": "$22647.78",
+    "directer_name": "Rufus"
+  },
+  {
+    "id": 546,
+    "movie_name": "Cousinhood (Primos)",
+    "movie_type": "Comedy",
+    "earning": "$60811.12",
+    "directer_name": "Liza"
+  },
+  {
+    "id": 547,
+    "movie_name": "Borrower, The",
+    "movie_type": "Comedy|Horror|Sci-Fi",
+    "earning": "$25687.69",
+    "directer_name": "Wally"
+  },
+  {
+    "id": 548,
+    "movie_name": "Venus Beauty Institute (Vénus beauté)",
+    "movie_type": "Comedy|Drama|Romance",
+    "earning": "$77013.71",
+    "directer_name": "Wilt"
+  },
+  {
+    "id": 549,
+    "movie_name": "Love, Money, Love",
+    "movie_type": "Drama|Romance",
+    "earning": "$42508.32",
+    "directer_name": "Gabriel"
+  },
+  {
+    "id": 550,
+    "movie_name": "Educating Rita",
+    "movie_type": "Comedy|Drama",
+    "earning": "$31545.67",
+    "directer_name": "Doralia"
+  },
+  {
+    "id": 551,
+    "movie_name": "Champagne for Caesar",
+    "movie_type": "Comedy",
+    "earning": "$49851.76",
+    "directer_name": "Franciskus"
+  },
+  {
+    "id": 552,
+    "movie_name": "Marrying Kind, The",
+    "movie_type": "Comedy|Drama",
+    "earning": "$27473.16",
+    "directer_name": "Theodore"
+  },
+  {
+    "id": 553,
+    "movie_name": "Young Winston",
+    "movie_type": "Adventure|Drama|War",
+    "earning": "$45810.21",
+    "directer_name": "Merilyn"
+  },
+  {
+    "id": 554,
+    "movie_name": "Shackleton's Antarctic Adventure",
+    "movie_type": "Documentary|IMAX",
+    "earning": "$30059.91",
+    "directer_name": "Roberta"
+  },
+  {
+    "id": 555,
+    "movie_name": "Intervista",
+    "movie_type": "Comedy|Drama",
+    "earning": "$58224.95",
+    "directer_name": "Margarette"
+  },
+  {
+    "id": 556,
+    "movie_name": "Summer of Blood",
+    "movie_type": "Comedy|Horror",
+    "earning": "$32535.53",
+    "directer_name": "Raimondo"
+  },
+  {
+    "id": 557,
+    "movie_name": "In Cold Blood",
+    "movie_type": "Crime|Drama",
+    "earning": "$40520.18",
+    "directer_name": "Lutero"
+  },
+  {
+    "id": 558,
+    "movie_name": "People on Sunday (Menschen am Sonntag)",
+    "movie_type": "Documentary|Drama|Romance",
+    "earning": "$53099.56",
+    "directer_name": "Royce"
+  },
+  {
+    "id": 559,
+    "movie_name": "Come Back to the Five and Dime, Jimmy Dean, Jimmy Dean",
+    "movie_type": "Drama",
+    "earning": "$68097.75",
+    "directer_name": "Daveen"
+  },
+  {
+    "id": 560,
+    "movie_name": "Impulse",
+    "movie_type": "Mystery|Thriller",
+    "earning": "$47032.94",
+    "directer_name": "Babs"
+  },
+  {
+    "id": 561,
+    "movie_name": "55 Days at Peking",
+    "movie_type": "Drama|War",
+    "earning": "$74685.53",
+    "directer_name": "Eartha"
+  },
+  {
+    "id": 562,
+    "movie_name": "Classic, The (Klassikko)",
+    "movie_type": "Comedy|Drama",
+    "earning": "$59925.55",
+    "directer_name": "Rosabella"
+  },
+  {
+    "id": 563,
+    "movie_name": "Superhero Movie",
+    "movie_type": "Action|Comedy|Sci-Fi",
+    "earning": "$76165.37",
+    "directer_name": "Jessica"
+  },
+  {
+    "id": 564,
+    "movie_name": "Devil's Knot",
+    "movie_type": "Crime|Drama|Thriller",
+    "earning": "$21836.26",
+    "directer_name": "Gusti"
+  },
+  {
+    "id": 565,
+    "movie_name": "Fat People (Gordos)",
+    "movie_type": "Comedy",
+    "earning": "$22057.23",
+    "directer_name": "Shaina"
+  },
+  {
+    "id": 566,
+    "movie_name": "Knute Rockne All American",
+    "movie_type": "Drama",
+    "earning": "$35050.29",
+    "directer_name": "Chloe"
+  },
+  {
+    "id": 567,
+    "movie_name": "Race",
+    "movie_type": "Action|Comedy",
+    "earning": "$63650.27",
+    "directer_name": "Babita"
+  },
+  {
+    "id": 568,
+    "movie_name": "If You Don't Stop It... You'll Go Blind!!!",
+    "movie_type": "Comedy",
+    "earning": "$61874.36",
+    "directer_name": "Hube"
+  },
+  {
+    "id": 569,
+    "movie_name": "Visitors, The",
+    "movie_type": "Crime|Drama|Thriller",
+    "earning": "$48766.20",
+    "directer_name": "Angie"
+  },
+  {
+    "id": 570,
+    "movie_name": "Brown of Harvard",
+    "movie_type": "Drama|Romance",
+    "earning": "$51270.25",
+    "directer_name": "Dolorita"
+  },
+  {
+    "id": 571,
+    "movie_name": "Noi the Albino (Nói albinói)",
+    "movie_type": "Drama",
+    "earning": "$70755.15",
+    "directer_name": "Helsa"
+  },
+  {
+    "id": 572,
+    "movie_name": "Colossus: The Forbin Project",
+    "movie_type": "Sci-Fi|Thriller",
+    "earning": "$76534.05",
+    "directer_name": "Boycey"
+  },
+  {
+    "id": 573,
+    "movie_name": "Arrival, The",
+    "movie_type": "Action|Sci-Fi|Thriller",
+    "earning": "$52750.00",
+    "directer_name": "Kerwin"
+  },
+  {
+    "id": 574,
+    "movie_name": "Spare Bed-Room",
+    "movie_type": "(no genres listed)",
+    "earning": "$20402.07",
+    "directer_name": "Keeley"
+  },
+  {
+    "id": 575,
+    "movie_name": "Stir Crazy",
+    "movie_type": "Comedy",
+    "earning": "$43403.75",
+    "directer_name": "Flinn"
+  },
+  {
+    "id": 576,
+    "movie_name": "Above and Beyond",
+    "movie_type": "Action|Drama",
+    "earning": "$73527.10",
+    "directer_name": "Kassia"
+  },
+  {
+    "id": 577,
+    "movie_name": "Highlander: Endgame (Highlander IV)",
+    "movie_type": "Action|Adventure|Fantasy",
+    "earning": "$78799.68",
+    "directer_name": "Juana"
+  },
+  {
+    "id": 578,
+    "movie_name": "Seventh Continent, The (Der siebente Kontinent)",
+    "movie_type": "Drama",
+    "earning": "$74472.60",
+    "directer_name": "Gregoor"
+  },
+  {
+    "id": 579,
+    "movie_name": "I Love You, Don't Touch Me!",
+    "movie_type": "Drama|Romance",
+    "earning": "$28965.49",
+    "directer_name": "Prudy"
+  },
+  {
+    "id": 580,
+    "movie_name": "Of Gods and Men (Des hommes et des dieux)",
+    "movie_type": "Drama",
+    "earning": "$21219.19",
+    "directer_name": "Nert"
+  },
+  {
+    "id": 581,
+    "movie_name": "The Raid: Redemption",
+    "movie_type": "Action|Crime",
+    "earning": "$50369.61",
+    "directer_name": "Bourke"
+  },
+  {
+    "id": 582,
+    "movie_name": "Do You Remember Dolly Bell? (Sjecas li se, Dolly Bell)",
+    "movie_type": "Comedy|Drama|Romance",
+    "earning": "$39939.15",
+    "directer_name": "Livy"
+  },
+  {
+    "id": 583,
+    "movie_name": "The Divine Woman",
+    "movie_type": "(no genres listed)",
+    "earning": "$61410.51",
+    "directer_name": "Deborah"
+  },
+  {
+    "id": 584,
+    "movie_name": "Glass Menagerie, The",
+    "movie_type": "Drama",
+    "earning": "$32193.82",
+    "directer_name": "Tudor"
+  },
+  {
+    "id": 585,
+    "movie_name": "Town Called Hell, A",
+    "movie_type": "Action|Comedy|Drama|Western",
+    "earning": "$75575.08",
+    "directer_name": "Carol"
+  },
+  {
+    "id": 586,
+    "movie_name": "Floundering",
+    "movie_type": "Comedy",
+    "earning": "$57193.54",
+    "directer_name": "Zara"
+  },
+  {
+    "id": 587,
+    "movie_name": "Vampire Bat, The",
+    "movie_type": "Horror",
+    "earning": "$43045.27",
+    "directer_name": "Hunfredo"
+  },
+  {
+    "id": 588,
+    "movie_name": "Blues in the Night",
+    "movie_type": "Drama|Film-Noir|Musical",
+    "earning": "$75320.46",
+    "directer_name": "Lona"
+  },
+  {
+    "id": 589,
+    "movie_name": "Valerie",
+    "movie_type": "Drama",
+    "earning": "$59243.44",
+    "directer_name": "Dita"
+  },
+  {
+    "id": 590,
+    "movie_name": "Ironclad",
+    "movie_type": "Action|Adventure",
+    "earning": "$39767.82",
+    "directer_name": "Constancia"
+  },
+  {
+    "id": 591,
+    "movie_name": "Heathcliff: The Movie",
+    "movie_type": "Animation|Comedy",
+    "earning": "$39276.56",
+    "directer_name": "Rockie"
+  },
+  {
+    "id": 592,
+    "movie_name": "Foreign Letters",
+    "movie_type": "Comedy|Drama",
+    "earning": "$65283.40",
+    "directer_name": "Oralee"
+  },
+  {
+    "id": 593,
+    "movie_name": "Li'l Quinquin",
+    "movie_type": "(no genres listed)",
+    "earning": "$37446.10",
+    "directer_name": "Annaliese"
+  },
+  {
+    "id": 594,
+    "movie_name": "Murder on Monday",
+    "movie_type": "Crime|Drama|Mystery",
+    "earning": "$53205.47",
+    "directer_name": "Nelli"
+  },
+  {
+    "id": 595,
+    "movie_name": "Holocaust",
+    "movie_type": "Drama|Romance|War",
+    "earning": "$68202.34",
+    "directer_name": "Abbe"
+  },
+  {
+    "id": 596,
+    "movie_name": "Inherent Vice",
+    "movie_type": "Comedy|Crime|Drama|Mystery|Romance",
+    "earning": "$73569.58",
+    "directer_name": "Stacee"
+  },
+  {
+    "id": 597,
+    "movie_name": "Just Ask My Children",
+    "movie_type": "Drama",
+    "earning": "$57775.09",
+    "directer_name": "Trip"
+  },
+  {
+    "id": 598,
+    "movie_name": "Wolf Man, The",
+    "movie_type": "Drama|Fantasy|Horror",
+    "earning": "$49712.42",
+    "directer_name": "Adara"
+  },
+  {
+    "id": 599,
+    "movie_name": "WW III: World War III (Der 3. Weltkrieg)",
+    "movie_type": "Documentary|War",
+    "earning": "$66757.80",
+    "directer_name": "Kane"
+  },
+  {
+    "id": 600,
+    "movie_name": "Half Life of Timofey Berezin, The (PU-239)",
+    "movie_type": "Drama",
+    "earning": "$22901.44",
+    "directer_name": "Tobye"
+  },
+  {
+    "id": 601,
+    "movie_name": "Doll, The (Lalka)",
+    "movie_type": "Drama|Romance",
+    "earning": "$60768.05",
+    "directer_name": "Dean"
+  },
+  {
+    "id": 602,
+    "movie_name": "Banshee Chapter, The",
+    "movie_type": "Horror|Thriller",
+    "earning": "$72167.18",
+    "directer_name": "Welsh"
+  },
+  {
+    "id": 603,
+    "movie_name": "Miracle Worker, The",
+    "movie_type": "Drama",
+    "earning": "$43930.87",
+    "directer_name": "Sapphira"
+  },
+  {
+    "id": 604,
+    "movie_name": "Rocky Balboa",
+    "movie_type": "Action|Drama",
+    "earning": "$47618.56",
+    "directer_name": "Harmonia"
+  },
+  {
+    "id": 605,
+    "movie_name": "No Deposit, No Return",
+    "movie_type": "Children|Comedy",
+    "earning": "$46700.51",
+    "directer_name": "Morgun"
+  },
+  {
+    "id": 606,
+    "movie_name": "Devil",
+    "movie_type": "Horror|Mystery|Thriller",
+    "earning": "$66721.82",
+    "directer_name": "Rockwell"
+  },
+  {
+    "id": 607,
+    "movie_name": "Beach Red",
+    "movie_type": "Drama|War",
+    "earning": "$40661.06",
+    "directer_name": "Camilla"
+  },
+  {
+    "id": 608,
+    "movie_name": "Jeopardy (a.k.a. A Woman in Jeopardy)",
+    "movie_type": "Film-Noir|Thriller",
+    "earning": "$45006.01",
+    "directer_name": "Orville"
+  },
+  {
+    "id": 609,
+    "movie_name": "Perfect Human, The (Perfekte Menneske, Det)",
+    "movie_type": "Documentary",
+    "earning": "$38544.33",
+    "directer_name": "Brand"
+  },
+  {
+    "id": 610,
+    "movie_name": "Somewhere in Palilula (Undeva la Palilula)",
+    "movie_type": "Drama",
+    "earning": "$61780.41",
+    "directer_name": "Valaree"
+  },
+  {
+    "id": 611,
+    "movie_name": "Burma Conspiracy, The (Largo Winch II)",
+    "movie_type": "Action|Adventure|Thriller",
+    "earning": "$57079.41",
+    "directer_name": "Elnora"
+  },
+  {
+    "id": 612,
+    "movie_name": "Kinjite: Forbidden Subjects",
+    "movie_type": "Crime|Thriller",
+    "earning": "$58883.14",
+    "directer_name": "Angelo"
+  },
+  {
+    "id": 613,
+    "movie_name": "Jubal",
+    "movie_type": "Western",
+    "earning": "$20794.10",
+    "directer_name": "Nona"
+  },
+  {
+    "id": 614,
+    "movie_name": "Scanners II: The New Order",
+    "movie_type": "Action|Horror|Sci-Fi",
+    "earning": "$27361.02",
+    "directer_name": "Sigrid"
+  },
+  {
+    "id": 615,
+    "movie_name": "Very Social Secretary, A",
+    "movie_type": "Comedy|Drama",
+    "earning": "$58397.40",
+    "directer_name": "Dorette"
+  },
+  {
+    "id": 616,
+    "movie_name": "YellowBrickRoad",
+    "movie_type": "Horror|Thriller",
+    "earning": "$55715.50",
+    "directer_name": "Horatius"
+  },
+  {
+    "id": 617,
+    "movie_name": "Dragon Ball Z:",
+    "movie_type": "Action|Adventure|Animation",
+    "earning": "$72336.90",
+    "directer_name": "Ethyl"
+  },
+  {
+    "id": 618,
+    "movie_name": "Hatari!",
+    "movie_type": "Adventure|Comedy",
+    "earning": "$62377.10",
+    "directer_name": "Josiah"
+  },
+  {
+    "id": 619,
+    "movie_name": "Nazareno Cruz and the Wolf",
+    "movie_type": "(no genres listed)",
+    "earning": "$63495.00",
+    "directer_name": "Christye"
+  },
+  {
+    "id": 620,
+    "movie_name": "Good Guys Wear Black",
+    "movie_type": "Action",
+    "earning": "$62180.29",
+    "directer_name": "Lee"
+  },
+  {
+    "id": 621,
+    "movie_name": "Starship Troopers 2: Hero of the Federation",
+    "movie_type": "Action|Horror|Sci-Fi|War",
+    "earning": "$67420.20",
+    "directer_name": "Kean"
+  },
+  {
+    "id": 622,
+    "movie_name": "Jackpot 2",
+    "movie_type": "Sci-Fi",
+    "earning": "$60283.39",
+    "directer_name": "Lane"
+  },
+  {
+    "id": 623,
+    "movie_name": "Solyaris",
+    "movie_type": "Drama|Sci-Fi",
+    "earning": "$29807.36",
+    "directer_name": "Dacie"
+  },
+  {
+    "id": 624,
+    "movie_name": "47  Ronin (Shijûshichinin no shikaku)",
+    "movie_type": "Action|Drama",
+    "earning": "$58260.22",
+    "directer_name": "Burty"
+  },
+  {
+    "id": 625,
+    "movie_name": "Sharktopus",
+    "movie_type": "Action|Horror|Sci-Fi",
+    "earning": "$56813.59",
+    "directer_name": "Eran"
+  },
+  {
+    "id": 626,
+    "movie_name": "Take Her, She's Mine",
+    "movie_type": "Comedy",
+    "earning": "$48124.60",
+    "directer_name": "Mariellen"
+  },
+  {
+    "id": 627,
+    "movie_name": "Ivan's Childhood (a.k.a. My Name is Ivan) (Ivanovo detstvo)",
+    "movie_type": "Drama|War",
+    "earning": "$22591.29",
+    "directer_name": "Tandie"
+  },
+  {
+    "id": 628,
+    "movie_name": "Silencers, The",
+    "movie_type": "Action|Comedy",
+    "earning": "$74960.11",
+    "directer_name": "Garry"
+  },
+  {
+    "id": 629,
+    "movie_name": "Lasa y Zabala",
+    "movie_type": "(no genres listed)",
+    "earning": "$50639.63",
+    "directer_name": "Edik"
+  },
+  {
+    "id": 630,
+    "movie_name": "Inhuman Resources (Redd Inc.)",
+    "movie_type": "Horror|Thriller",
+    "earning": "$29836.29",
+    "directer_name": "Debee"
+  },
+  {
+    "id": 631,
+    "movie_name": "Asthenic Syndrome, The (Astenicheskiy sindrom)",
+    "movie_type": "Drama",
+    "earning": "$69874.52",
+    "directer_name": "Alyosha"
+  },
+  {
+    "id": 632,
+    "movie_name": "Venom",
+    "movie_type": "Horror|Thriller",
+    "earning": "$37512.51",
+    "directer_name": "Nickolas"
+  },
+  {
+    "id": 633,
+    "movie_name": "Project Wild Thing",
+    "movie_type": "Adventure|Children|Documentary|Drama",
+    "earning": "$75145.70",
+    "directer_name": "Carolus"
+  },
+  {
+    "id": 634,
+    "movie_name": "Life with Father",
+    "movie_type": "Comedy",
+    "earning": "$63363.15",
+    "directer_name": "Dasya"
+  },
+  {
+    "id": 635,
+    "movie_name": "Little Hamlet",
+    "movie_type": "(no genres listed)",
+    "earning": "$50562.10",
+    "directer_name": "Lizzie"
+  },
+  {
+    "id": 636,
+    "movie_name": "Invisible Ray, The",
+    "movie_type": "Horror|Sci-Fi",
+    "earning": "$26355.26",
+    "directer_name": "Stephi"
+  },
+  {
+    "id": 637,
+    "movie_name": "Giallo",
+    "movie_type": "Crime|Horror|Thriller",
+    "earning": "$77143.72",
+    "directer_name": "Penny"
+  },
+  {
+    "id": 638,
+    "movie_name": "Desert of the Tartars, The (Deserto dei Tartari, Il)",
+    "movie_type": "Drama|War",
+    "earning": "$24274.97",
+    "directer_name": "Flor"
+  },
+  {
+    "id": 639,
+    "movie_name": "Hoax, The",
+    "movie_type": "Crime|Drama",
+    "earning": "$58403.48",
+    "directer_name": "Cristobal"
+  },
+  {
+    "id": 640,
+    "movie_name": "Repo! The Genetic Opera",
+    "movie_type": "Fantasy|Horror|Musical",
+    "earning": "$47571.47",
+    "directer_name": "Monty"
+  },
+  {
+    "id": 641,
+    "movie_name": "Alien: Resurrection",
+    "movie_type": "Action|Horror|Sci-Fi",
+    "earning": "$29393.29",
+    "directer_name": "Dorisa"
+  },
+  {
+    "id": 642,
+    "movie_name": "Dead Space: Aftermath",
+    "movie_type": "Animation|Horror|Sci-Fi",
+    "earning": "$64433.77",
+    "directer_name": "Shamus"
+  },
+  {
+    "id": 643,
+    "movie_name": "Mortadelo & Filemon",
+    "movie_type": "Action|Adventure|Comedy",
+    "earning": "$37376.97",
+    "directer_name": "Kasper"
+  },
+  {
+    "id": 644,
+    "movie_name": "Freedom Writers",
+    "movie_type": "Drama",
+    "earning": "$38071.29",
+    "directer_name": "Alejandro"
+  },
+  {
+    "id": 645,
+    "movie_name": "Plaza Suite",
+    "movie_type": "Comedy",
+    "earning": "$36367.46",
+    "directer_name": "Caleb"
+  },
+  {
+    "id": 646,
+    "movie_name": "L'homme qui rit",
+    "movie_type": "Drama|Fantasy|Romance",
+    "earning": "$72336.27",
+    "directer_name": "Zsazsa"
+  },
+  {
+    "id": 647,
+    "movie_name": "Invisible Invaders",
+    "movie_type": "Horror|Sci-Fi",
+    "earning": "$60630.19",
+    "directer_name": "Lambert"
+  },
+  {
+    "id": 648,
+    "movie_name": "Vizontele",
+    "movie_type": "Comedy|Drama",
+    "earning": "$51812.67",
+    "directer_name": "Cassy"
+  },
+  {
+    "id": 649,
+    "movie_name": "Six Ways to Sunday",
+    "movie_type": "Comedy",
+    "earning": "$32989.93",
+    "directer_name": "Amie"
+  },
+  {
+    "id": 650,
+    "movie_name": "B. Monkey",
+    "movie_type": "Crime|Romance|Thriller",
+    "earning": "$27501.72",
+    "directer_name": "Jeana"
+  },
+  {
+    "id": 651,
+    "movie_name": "Man from Planet X, The",
+    "movie_type": "Horror|Romance|Sci-Fi",
+    "earning": "$52191.64",
+    "directer_name": "Luelle"
+  },
+  {
+    "id": 652,
+    "movie_name": "Cookie",
+    "movie_type": "Comedy|Crime",
+    "earning": "$30837.27",
+    "directer_name": "Crosby"
+  },
+  {
+    "id": 653,
+    "movie_name": "Tarzan and His Mate",
+    "movie_type": "Action|Adventure",
+    "earning": "$63238.69",
+    "directer_name": "Markos"
+  },
+  {
+    "id": 654,
+    "movie_name": "Stooge, The",
+    "movie_type": "Comedy",
+    "earning": "$63875.33",
+    "directer_name": "Lauritz"
+  },
+  {
+    "id": 655,
+    "movie_name": "Dim Sum: A Little Bit of Heart",
+    "movie_type": "Comedy",
+    "earning": "$34938.91",
+    "directer_name": "Goddart"
+  },
+  {
+    "id": 656,
+    "movie_name": "Solomon Kane",
+    "movie_type": "Action|Adventure|Fantasy|Horror",
+    "earning": "$26812.66",
+    "directer_name": "Roseanne"
+  },
+  {
+    "id": 657,
+    "movie_name": "Beatdown",
+    "movie_type": "Action|Crime|Thriller",
+    "earning": "$21023.82",
+    "directer_name": "Niel"
+  },
+  {
+    "id": 658,
+    "movie_name": "Judgement Day",
+    "movie_type": "(no genres listed)",
+    "earning": "$30477.70",
+    "directer_name": "Chandra"
+  },
+  {
+    "id": 659,
+    "movie_name": "Angus, Thongs and Perfect Snogging",
+    "movie_type": "Comedy|Romance",
+    "earning": "$23209.14",
+    "directer_name": "Hillyer"
+  },
+  {
+    "id": 660,
+    "movie_name": "On the Beach",
+    "movie_type": "Drama|Sci-Fi",
+    "earning": "$56335.95",
+    "directer_name": "Libby"
+  },
+  {
+    "id": 661,
+    "movie_name": "Creature",
+    "movie_type": "Documentary",
+    "earning": "$56553.98",
+    "directer_name": "Ole"
+  },
+  {
+    "id": 662,
+    "movie_name": "Nymph",
+    "movie_type": "Fantasy|Horror",
+    "earning": "$48854.93",
+    "directer_name": "Aundrea"
+  },
+  {
+    "id": 663,
+    "movie_name": "Ménilmontant",
+    "movie_type": "Comedy|Drama",
+    "earning": "$42047.89",
+    "directer_name": "Maggi"
+  },
+  {
+    "id": 664,
+    "movie_name": "Girl with the Dragon Tattoo, The",
+    "movie_type": "Drama|Thriller",
+    "earning": "$32791.50",
+    "directer_name": "Athene"
+  },
+  {
+    "id": 665,
+    "movie_name": "Some Folks Call It a Sling Blade",
+    "movie_type": "Drama|Thriller",
+    "earning": "$31647.25",
+    "directer_name": "Arron"
+  },
+  {
+    "id": 666,
+    "movie_name": "In God's Hands",
+    "movie_type": "Action|Drama",
+    "earning": "$56616.58",
+    "directer_name": "Ali"
+  },
+  {
+    "id": 667,
+    "movie_name": "Al-risâlah",
+    "movie_type": "Adventure|Drama|War",
+    "earning": "$40439.51",
+    "directer_name": "Benny"
+  },
+  {
+    "id": 668,
+    "movie_name": "Leprechaun 3",
+    "movie_type": "Comedy|Fantasy|Horror",
+    "earning": "$77815.17",
+    "directer_name": "Dolores"
+  },
+  {
+    "id": 669,
+    "movie_name": "Drew: The Man Behind the Poster",
+    "movie_type": "Documentary",
+    "earning": "$76883.57",
+    "directer_name": "Dalton"
+  },
+  {
+    "id": 670,
+    "movie_name": "Things I Like, Things I Don't Like (Foutaises)",
+    "movie_type": "Comedy",
+    "earning": "$63121.80",
+    "directer_name": "Coretta"
+  },
+  {
+    "id": 671,
+    "movie_name": "Plastic",
+    "movie_type": "Action|Crime",
+    "earning": "$23772.39",
+    "directer_name": "Paula"
+  },
+  {
+    "id": 672,
+    "movie_name": "And Now a Word from Our Sponsor",
+    "movie_type": "Comedy|Drama",
+    "earning": "$44647.43",
+    "directer_name": "Ariel"
+  },
+  {
+    "id": 673,
+    "movie_name": "Mississippi Mermaid (Sirène du Mississipi, La)",
+    "movie_type": "Crime|Drama|Romance",
+    "earning": "$49535.54",
+    "directer_name": "Gladi"
+  },
+  {
+    "id": 674,
+    "movie_name": "Everything",
+    "movie_type": "Drama|Mystery",
+    "earning": "$78549.36",
+    "directer_name": "Denys"
+  },
+  {
+    "id": 675,
+    "movie_name": "Starry starry night (Xing kong)",
+    "movie_type": "Children|Drama|Fantasy",
+    "earning": "$45099.49",
+    "directer_name": "Sofie"
+  },
+  {
+    "id": 676,
+    "movie_name": "Counterfeit Traitor, The",
+    "movie_type": "Thriller|War",
+    "earning": "$45909.30",
+    "directer_name": "Eddie"
+  },
+  {
+    "id": 677,
+    "movie_name": "Kanal",
+    "movie_type": "Drama|War",
+    "earning": "$60855.66",
+    "directer_name": "Mano"
+  },
+  {
+    "id": 678,
+    "movie_name": "Baby Face",
+    "movie_type": "Drama",
+    "earning": "$48821.58",
+    "directer_name": "Adrian"
+  },
+  {
+    "id": 679,
+    "movie_name": "Honkytonk Man",
+    "movie_type": "Comedy|Drama",
+    "earning": "$21875.99",
+    "directer_name": "Brigitte"
+  },
+  {
+    "id": 680,
+    "movie_name": "Thing with Two Heads, The",
+    "movie_type": "Comedy|Horror|Sci-Fi",
+    "earning": "$31310.93",
+    "directer_name": "Shirlene"
+  },
+  {
+    "id": 681,
+    "movie_name": "Ricky Gervais Live 2: Politics",
+    "movie_type": "Comedy",
+    "earning": "$42117.92",
+    "directer_name": "Schuyler"
+  },
+  {
+    "id": 682,
+    "movie_name": "Des roses en hiver",
+    "movie_type": "Drama",
+    "earning": "$50443.77",
+    "directer_name": "Mortimer"
+  },
+  {
+    "id": 683,
+    "movie_name": "Bloody Murder 2: Closing Camp",
+    "movie_type": "Drama|Horror|Mystery|Thriller",
+    "earning": "$79051.77",
+    "directer_name": "Abbott"
+  },
+  {
+    "id": 684,
+    "movie_name": "Inside Moves",
+    "movie_type": "Drama",
+    "earning": "$58737.66",
+    "directer_name": "Chrystal"
+  },
+  {
+    "id": 685,
+    "movie_name": "The Importance of Being Earnest",
+    "movie_type": "Comedy|Romance",
+    "earning": "$47344.70",
+    "directer_name": "Arther"
+  },
+  {
+    "id": 686,
+    "movie_name": "Ninja",
+    "movie_type": "Action|Crime|Drama|Thriller",
+    "earning": "$32137.10",
+    "directer_name": "Sandy"
+  },
+  {
+    "id": 687,
+    "movie_name": "(Absolutions) Pipilotti's Mistakes ((Entlastungen) Pipilottis Fehler)",
+    "movie_type": "(no genres listed)",
+    "earning": "$59327.44",
+    "directer_name": "Curry"
+  },
+  {
+    "id": 688,
+    "movie_name": "Pinochet Case, The (Cas Pinochet, Le)",
+    "movie_type": "Documentary",
+    "earning": "$45850.53",
+    "directer_name": "Aryn"
+  },
+  {
+    "id": 689,
+    "movie_name": "White Mischief",
+    "movie_type": "Crime|Drama|Romance|Thriller",
+    "earning": "$79517.38",
+    "directer_name": "Inga"
+  },
+  {
+    "id": 690,
+    "movie_name": "Price of Milk, The",
+    "movie_type": "Comedy|Drama|Fantasy|Romance",
+    "earning": "$31813.50",
+    "directer_name": "Boyce"
+  },
+  {
+    "id": 691,
+    "movie_name": "Watcher, The",
+    "movie_type": "Crime|Thriller",
+    "earning": "$33018.69",
+    "directer_name": "Fulvia"
+  },
+  {
+    "id": 692,
+    "movie_name": "Osmosis (Osmose)",
+    "movie_type": "Comedy|Drama|Romance",
+    "earning": "$30533.12",
+    "directer_name": "Darcy"
+  },
+  {
+    "id": 693,
+    "movie_name": "Romeo and Juliet",
+    "movie_type": "Drama|Romance",
+    "earning": "$75183.31",
+    "directer_name": "Bari"
+  },
+  {
+    "id": 694,
+    "movie_name": "Sugar Town",
+    "movie_type": "Comedy",
+    "earning": "$72557.64",
+    "directer_name": "Ede"
+  },
+  {
+    "id": 695,
+    "movie_name": "Perrier's Bounty",
+    "movie_type": "Action|Comedy|Crime|Drama",
+    "earning": "$32026.48",
+    "directer_name": "Gilles"
+  },
+  {
+    "id": 696,
+    "movie_name": "Mummy's Ghost, The",
+    "movie_type": "Horror",
+    "earning": "$73668.23",
+    "directer_name": "Erinna"
+  },
+  {
+    "id": 697,
+    "movie_name": "On the Beach",
+    "movie_type": "Drama",
+    "earning": "$53274.93",
+    "directer_name": "Malissa"
+  },
+  {
+    "id": 698,
+    "movie_name": "Guard Post, The (G.P. 506)",
+    "movie_type": "Horror",
+    "earning": "$70231.07",
+    "directer_name": "Freedman"
+  },
+  {
+    "id": 699,
+    "movie_name": "Millennium",
+    "movie_type": "Drama|Sci-Fi|Thriller",
+    "earning": "$23580.29",
+    "directer_name": "Pierson"
+  },
+  {
+    "id": 700,
+    "movie_name": "The Last Word",
+    "movie_type": "Drama|Romance",
+    "earning": "$71520.52",
+    "directer_name": "Caresa"
+  },
+  {
+    "id": 701,
+    "movie_name": "The Shadow of the Eagle",
+    "movie_type": "Crime|Drama|Mystery|Thriller",
+    "earning": "$64723.62",
+    "directer_name": "Niko"
+  },
+  {
+    "id": 702,
+    "movie_name": "Fun in Acapulco",
+    "movie_type": "Comedy|Musical",
+    "earning": "$41050.57",
+    "directer_name": "Reinhold"
+  },
+  {
+    "id": 703,
+    "movie_name": "Georgia Rule",
+    "movie_type": "Comedy|Drama|Romance",
+    "earning": "$30922.28",
+    "directer_name": "Mandy"
+  },
+  {
+    "id": 704,
+    "movie_name": "Majesteit",
+    "movie_type": "Drama",
+    "earning": "$33881.59",
+    "directer_name": "Justen"
+  },
+  {
+    "id": 705,
+    "movie_name": "Paralyzing Fear: The Story of Polio in America, A",
+    "movie_type": "Documentary",
+    "earning": "$45841.74",
+    "directer_name": "Florentia"
+  },
+  {
+    "id": 706,
+    "movie_name": "Kids of the Round Table",
+    "movie_type": "Adventure|Children|Fantasy",
+    "earning": "$21939.32",
+    "directer_name": "Felipe"
+  },
+  {
+    "id": 707,
+    "movie_name": "Cube Zero",
+    "movie_type": "Horror|Mystery|Sci-Fi|Thriller",
+    "earning": "$52449.95",
+    "directer_name": "Clari"
+  },
+  {
+    "id": 708,
+    "movie_name": "Fist of Fury (Chinese Connection, The) (Jing wu men)",
+    "movie_type": "Action|Drama|Romance|Thriller",
+    "earning": "$23701.08",
+    "directer_name": "Velma"
+  },
+  {
+    "id": 709,
+    "movie_name": "Otaku",
+    "movie_type": "Documentary",
+    "earning": "$27542.47",
+    "directer_name": "Bard"
+  },
+  {
+    "id": 710,
+    "movie_name": "Happiest Girl in the World, The (Cea mai fericita fata din lume)",
+    "movie_type": "Drama",
+    "earning": "$46238.05",
+    "directer_name": "Jessie"
+  },
+  {
+    "id": 711,
+    "movie_name": "Chasing Sleep",
+    "movie_type": "Horror|Thriller",
+    "earning": "$66674.33",
+    "directer_name": "Murdoch"
+  },
+  {
+    "id": 712,
+    "movie_name": "Doppelgänger Paul",
+    "movie_type": "(no genres listed)",
+    "earning": "$29803.29",
+    "directer_name": "Sileas"
+  },
+  {
+    "id": 713,
+    "movie_name": "Bohème, La",
+    "movie_type": "Drama|Romance",
+    "earning": "$31104.46",
+    "directer_name": "Claudette"
+  },
+  {
+    "id": 714,
+    "movie_name": "Day for Night (La Nuit Américaine)",
+    "movie_type": "Comedy|Drama|Romance",
+    "earning": "$65768.31",
+    "directer_name": "Eydie"
+  },
+  {
+    "id": 715,
+    "movie_name": "Suburbia",
+    "movie_type": "Drama",
+    "earning": "$63190.18",
+    "directer_name": "Kelly"
+  },
+  {
+    "id": 716,
+    "movie_name": "Elles",
+    "movie_type": "Drama",
+    "earning": "$58852.70",
+    "directer_name": "Reggy"
+  },
+  {
+    "id": 717,
+    "movie_name": "Streets of Fire",
+    "movie_type": "Action|Romance",
+    "earning": "$55896.89",
+    "directer_name": "Renata"
+  },
+  {
+    "id": 718,
+    "movie_name": "Hondo",
+    "movie_type": "Western",
+    "earning": "$50172.86",
+    "directer_name": "Milt"
+  },
+  {
+    "id": 719,
+    "movie_name": "Defender",
+    "movie_type": "Action",
+    "earning": "$70047.81",
+    "directer_name": "Deb"
+  },
+  {
+    "id": 720,
+    "movie_name": "Going Overboard",
+    "movie_type": "Comedy",
+    "earning": "$59275.66",
+    "directer_name": "Ada"
+  },
+  {
+    "id": 721,
+    "movie_name": "Flight That Fought Back, The",
+    "movie_type": "Drama",
+    "earning": "$71161.22",
+    "directer_name": "Arne"
+  },
+  {
+    "id": 722,
+    "movie_name": "Ringer, The",
+    "movie_type": "Comedy",
+    "earning": "$51376.80",
+    "directer_name": "Maurene"
+  },
+  {
+    "id": 723,
+    "movie_name": "Police State",
+    "movie_type": "Drama",
+    "earning": "$49755.04",
+    "directer_name": "Lorry"
+  },
+  {
+    "id": 724,
+    "movie_name": "Fanfan la Tulipe (Fan-Fan the Tulip)",
+    "movie_type": "Action|Adventure|Comedy|Romance|War",
+    "earning": "$52863.22",
+    "directer_name": "Kristien"
+  },
+  {
+    "id": 725,
+    "movie_name": "Ah, Wilderness!",
+    "movie_type": "Comedy|Drama",
+    "earning": "$48885.76",
+    "directer_name": "Almire"
+  },
+  {
+    "id": 726,
+    "movie_name": "Off Beat",
+    "movie_type": "Drama|Romance",
+    "earning": "$44090.38",
+    "directer_name": "Jan"
+  },
+  {
+    "id": 727,
+    "movie_name": "Petits Freres (Petits Frères)",
+    "movie_type": "Drama",
+    "earning": "$20190.14",
+    "directer_name": "Ellene"
+  },
+  {
+    "id": 728,
+    "movie_name": "Electric Dreams",
+    "movie_type": "Comedy|Drama|Romance|Sci-Fi",
+    "earning": "$32738.70",
+    "directer_name": "Alexi"
+  },
+  {
+    "id": 729,
+    "movie_name": "Lords of Discipline, The",
+    "movie_type": "Thriller",
+    "earning": "$24983.44",
+    "directer_name": "Irvine"
+  },
+  {
+    "id": 730,
+    "movie_name": "Murder by Contract",
+    "movie_type": "Crime|Drama|Film-Noir|Thriller",
+    "earning": "$20704.18",
+    "directer_name": "Blair"
+  },
+  {
+    "id": 731,
+    "movie_name": "Endangered Species",
+    "movie_type": "Mystery|Sci-Fi|Thriller",
+    "earning": "$25772.95",
+    "directer_name": "Rebeka"
+  },
+  {
+    "id": 732,
+    "movie_name": "Killer Inside Me, The",
+    "movie_type": "Crime|Drama|Thriller|Western",
+    "earning": "$74593.50",
+    "directer_name": "Hunter"
+  },
+  {
+    "id": 733,
+    "movie_name": "Neurons to Nirvana",
+    "movie_type": "Documentary",
+    "earning": "$43640.20",
+    "directer_name": "Mel"
+  },
+  {
+    "id": 734,
+    "movie_name": "My Mom Is a Character",
+    "movie_type": "Comedy",
+    "earning": "$69609.27",
+    "directer_name": "Sylas"
+  },
+  {
+    "id": 735,
+    "movie_name": "Female Agents (Les femmes de l'ombre)",
+    "movie_type": "Drama|War",
+    "earning": "$39696.71",
+    "directer_name": "Kelcy"
+  },
+  {
+    "id": 736,
+    "movie_name": "Innocent, The",
+    "movie_type": "Drama",
+    "earning": "$26195.97",
+    "directer_name": "Myles"
+  },
+  {
+    "id": 737,
+    "movie_name": "For Love of Ivy",
+    "movie_type": "Comedy|Drama|Romance",
+    "earning": "$25016.95",
+    "directer_name": "Jacki"
+  },
+  {
+    "id": 738,
+    "movie_name": "Blue Like Jazz",
+    "movie_type": "Comedy|Drama",
+    "earning": "$69769.92",
+    "directer_name": "Diana"
+  },
+  {
+    "id": 739,
+    "movie_name": "Mrs. Palfrey at the Claremont",
+    "movie_type": "Comedy|Drama",
+    "earning": "$61498.97",
+    "directer_name": "Nora"
+  },
+  {
+    "id": 740,
+    "movie_name": "Crisis",
+    "movie_type": "Drama|Thriller",
+    "earning": "$78230.07",
+    "directer_name": "Dollie"
+  },
+  {
+    "id": 741,
+    "movie_name": "I Married A Strange Person!",
+    "movie_type": "Animation|Comedy|Fantasy|Sci-Fi",
+    "earning": "$68736.01",
+    "directer_name": "Chrysler"
+  },
+  {
+    "id": 742,
+    "movie_name": "Ace Ventura: Pet Detective",
+    "movie_type": "Comedy",
+    "earning": "$77031.86",
+    "directer_name": "Chery"
+  },
+  {
+    "id": 743,
+    "movie_name": "One Shot",
+    "movie_type": "Documentary",
+    "earning": "$44746.15",
+    "directer_name": "Neile"
+  },
+  {
+    "id": 744,
+    "movie_name": "Cutting Edge: The Magic of Movie Editing, The",
+    "movie_type": "Documentary",
+    "earning": "$77997.44",
+    "directer_name": "Bernete"
+  },
+  {
+    "id": 745,
+    "movie_name": "Quill",
+    "movie_type": "Drama",
+    "earning": "$75618.84",
+    "directer_name": "Brigit"
+  },
+  {
+    "id": 746,
+    "movie_name": "Now, Voyager",
+    "movie_type": "Drama|Romance",
+    "earning": "$65002.45",
+    "directer_name": "Perri"
+  },
+  {
+    "id": 747,
+    "movie_name": "Leslie",
+    "movie_type": "Comedy|Crime|Fantasy",
+    "earning": "$42654.76",
+    "directer_name": "Anita"
+  },
+  {
+    "id": 748,
+    "movie_name": "Miss Congeniality",
+    "movie_type": "Comedy|Crime",
+    "earning": "$44967.48",
+    "directer_name": "Phyllis"
+  },
+  {
+    "id": 749,
+    "movie_name": "Local Color",
+    "movie_type": "Drama",
+    "earning": "$58601.91",
+    "directer_name": "Elsworth"
+  },
+  {
+    "id": 750,
+    "movie_name": "Panic in Year Zero!",
+    "movie_type": "Horror|Sci-Fi|Thriller",
+    "earning": "$65078.09",
+    "directer_name": "Ethelbert"
+  },
+  {
+    "id": 751,
+    "movie_name": "Starflight: The Plane That Couldn't Land",
+    "movie_type": "Drama|Sci-Fi",
+    "earning": "$22654.93",
+    "directer_name": "Eliza"
+  },
+  {
+    "id": 752,
+    "movie_name": "Hell's Hinges",
+    "movie_type": "Romance|Western",
+    "earning": "$51127.81",
+    "directer_name": "Sarene"
+  },
+  {
+    "id": 753,
+    "movie_name": "Game Over: Kasparov and the Machine",
+    "movie_type": "Documentary",
+    "earning": "$78429.81",
+    "directer_name": "Chaunce"
+  },
+  {
+    "id": 754,
+    "movie_name": "Angels Fall",
+    "movie_type": "Drama|Romance|Thriller",
+    "earning": "$65134.09",
+    "directer_name": "Noella"
+  },
+  {
+    "id": 755,
+    "movie_name": "Cesar Chavez",
+    "movie_type": "Drama",
+    "earning": "$51860.01",
+    "directer_name": "Sabine"
+  },
+  {
+    "id": 756,
+    "movie_name": "Target",
+    "movie_type": "Action|Drama|Thriller",
+    "earning": "$50221.85",
+    "directer_name": "Grete"
+  },
+  {
+    "id": 757,
+    "movie_name": "Drei Stunden",
+    "movie_type": "Comedy|Romance",
+    "earning": "$74997.80",
+    "directer_name": "Barbaraanne"
+  },
+  {
+    "id": 758,
+    "movie_name": "21 tapaa pilata avioliitto",
+    "movie_type": "Comedy|Romance",
+    "earning": "$38612.97",
+    "directer_name": "Pincas"
+  },
+  {
+    "id": 759,
+    "movie_name": "Our Hospitality",
+    "movie_type": "Comedy",
+    "earning": "$32836.42",
+    "directer_name": "Luis"
+  },
+  {
+    "id": 760,
+    "movie_name": "So I Married an Axe Murderer",
+    "movie_type": "Comedy|Romance|Thriller",
+    "earning": "$75322.26",
+    "directer_name": "Win"
+  },
+  {
+    "id": 761,
+    "movie_name": "Safety of Objects, The",
+    "movie_type": "Drama",
+    "earning": "$24409.64",
+    "directer_name": "Aliza"
+  },
+  {
+    "id": 762,
+    "movie_name": "Black Tar Heroin: The Dark End of the Street",
+    "movie_type": "Documentary",
+    "earning": "$70239.89",
+    "directer_name": "Irina"
+  },
+  {
+    "id": 763,
+    "movie_name": "Taxi",
+    "movie_type": "Action|Comedy",
+    "earning": "$24322.47",
+    "directer_name": "Arlette"
+  },
+  {
+    "id": 764,
+    "movie_name": "Fighter, The",
+    "movie_type": "Drama",
+    "earning": "$36830.01",
+    "directer_name": "Silvia"
+  },
+  {
+    "id": 765,
+    "movie_name": "Passion of Mind",
+    "movie_type": "Drama|Mystery|Romance",
+    "earning": "$77364.98",
+    "directer_name": "Damara"
+  },
+  {
+    "id": 766,
+    "movie_name": "City in the Sea",
+    "movie_type": "Adventure|Fantasy|Sci-Fi",
+    "earning": "$31769.75",
+    "directer_name": "Xerxes"
+  },
+  {
+    "id": 767,
+    "movie_name": "Coneheads",
+    "movie_type": "Comedy|Sci-Fi",
+    "earning": "$44315.88",
+    "directer_name": "Meade"
+  },
+  {
+    "id": 768,
+    "movie_name": "Flow",
+    "movie_type": "Documentary",
+    "earning": "$66031.90",
+    "directer_name": "Pepi"
+  },
+  {
+    "id": 769,
+    "movie_name": "Manchurian Candidate, The",
+    "movie_type": "Crime|Thriller|War",
+    "earning": "$44959.68",
+    "directer_name": "Aurelea"
+  },
+  {
+    "id": 770,
+    "movie_name": "Other Boleyn Girl, The",
+    "movie_type": "Drama|Romance",
+    "earning": "$26421.54",
+    "directer_name": "Rica"
+  },
+  {
+    "id": 771,
+    "movie_name": "Elektra",
+    "movie_type": "Action|Adventure|Crime|Drama",
+    "earning": "$75233.02",
+    "directer_name": "Minny"
+  },
+  {
+    "id": 772,
+    "movie_name": "25th Hour",
+    "movie_type": "Crime|Drama",
+    "earning": "$58651.72",
+    "directer_name": "Adan"
+  },
+  {
+    "id": 773,
+    "movie_name": "Breaking the Surface: The Greg Louganis Story",
+    "movie_type": "Drama",
+    "earning": "$22866.42",
+    "directer_name": "Floris"
+  },
+  {
+    "id": 774,
+    "movie_name": "Retreat",
+    "movie_type": "Thriller",
+    "earning": "$72130.04",
+    "directer_name": "Noak"
+  },
+  {
+    "id": 775,
+    "movie_name": "From Dusk Till Dawn 3: The Hangman's Daughter",
+    "movie_type": "Horror|Thriller|Western",
+    "earning": "$49913.48",
+    "directer_name": "Bendick"
+  },
+  {
+    "id": 776,
+    "movie_name": "Herbie Goes to Monte Carlo",
+    "movie_type": "Adventure|Children|Comedy",
+    "earning": "$48593.76",
+    "directer_name": "Carroll"
+  },
+  {
+    "id": 777,
+    "movie_name": "Rat Pfink a Boo Boo",
+    "movie_type": "Action|Comedy",
+    "earning": "$77519.98",
+    "directer_name": "Shir"
+  },
+  {
+    "id": 778,
+    "movie_name": "Thesis on a Homicide",
+    "movie_type": "Crime|Mystery|Thriller",
+    "earning": "$33219.85",
+    "directer_name": "Mada"
+  },
+  {
+    "id": 779,
+    "movie_name": "Factotum",
+    "movie_type": "Drama",
+    "earning": "$62858.63",
+    "directer_name": "Allison"
+  },
+  {
+    "id": 780,
+    "movie_name": "Vai~E~Vem",
+    "movie_type": "Comedy|Drama",
+    "earning": "$77848.32",
+    "directer_name": "Dina"
+  },
+  {
+    "id": 781,
+    "movie_name": "Midnight (Primeiro Dia, O)",
+    "movie_type": "Drama",
+    "earning": "$26747.67",
+    "directer_name": "Amelie"
+  },
+  {
+    "id": 782,
+    "movie_name": "Garfield: The Movie",
+    "movie_type": "Animation|Children|Comedy",
+    "earning": "$28475.94",
+    "directer_name": "Dorelia"
+  },
+  {
+    "id": 783,
+    "movie_name": "Rough Night in Jericho",
+    "movie_type": "Western",
+    "earning": "$78499.99",
+    "directer_name": "Nikolaos"
+  },
+  {
+    "id": 784,
+    "movie_name": "Killing Auntie (Zabicie ciotki)",
+    "movie_type": "Drama|Thriller",
+    "earning": "$35700.87",
+    "directer_name": "Lucias"
+  },
+  {
+    "id": 785,
+    "movie_name": "Visual Acoustics",
+    "movie_type": "Documentary",
+    "earning": "$43282.05",
+    "directer_name": "Joni"
+  },
+  {
+    "id": 786,
+    "movie_name": "Take Her, She's Mine",
+    "movie_type": "Comedy",
+    "earning": "$46818.54",
+    "directer_name": "Lou"
+  },
+  {
+    "id": 787,
+    "movie_name": "Shake It (En kort en lang)",
+    "movie_type": "Comedy|Drama|Romance",
+    "earning": "$52227.01",
+    "directer_name": "Terrell"
+  },
+  {
+    "id": 788,
+    "movie_name": "Monster Club, The",
+    "movie_type": "Comedy|Horror",
+    "earning": "$68266.20",
+    "directer_name": "Sloane"
+  },
+  {
+    "id": 789,
+    "movie_name": "Amazing Journey: The Story of The Who",
+    "movie_type": "Documentary",
+    "earning": "$71021.13",
+    "directer_name": "Bordie"
+  },
+  {
+    "id": 790,
+    "movie_name": "Forbidden",
+    "movie_type": "Drama|Thriller",
+    "earning": "$49352.04",
+    "directer_name": "Corby"
+  },
+  {
+    "id": 791,
+    "movie_name": "Legend of the Boneknapper Dragon",
+    "movie_type": "Animation|Fantasy",
+    "earning": "$78890.80",
+    "directer_name": "Desirae"
+  },
+  {
+    "id": 792,
+    "movie_name": "Take the Lead",
+    "movie_type": "Drama",
+    "earning": "$56193.68",
+    "directer_name": "Vickie"
+  },
+  {
+    "id": 793,
+    "movie_name": "All Through the Night",
+    "movie_type": "Action|Comedy|Drama|Thriller|War",
+    "earning": "$33873.11",
+    "directer_name": "Mattheus"
+  },
+  {
+    "id": 794,
+    "movie_name": "From Beijing with Love",
+    "movie_type": "Action|Comedy",
+    "earning": "$50835.97",
+    "directer_name": "Constancia"
+  },
+  {
+    "id": 795,
+    "movie_name": "Amen.",
+    "movie_type": "Drama",
+    "earning": "$20376.14",
+    "directer_name": "Norma"
+  },
+  {
+    "id": 796,
+    "movie_name": "Fast Food Nation",
+    "movie_type": "Drama",
+    "earning": "$59473.61",
+    "directer_name": "Paulina"
+  },
+  {
+    "id": 797,
+    "movie_name": "Super Size Me",
+    "movie_type": "Comedy|Documentary|Drama",
+    "earning": "$72494.08",
+    "directer_name": "Vito"
+  },
+  {
+    "id": 798,
+    "movie_name": "Age of Dinosaurs",
+    "movie_type": "Action|Sci-Fi",
+    "earning": "$74582.69",
+    "directer_name": "Corella"
+  },
+  {
+    "id": 799,
+    "movie_name": "Promised Land",
+    "movie_type": "Drama",
+    "earning": "$30492.03",
+    "directer_name": "Viv"
+  },
+  {
+    "id": 800,
+    "movie_name": "Latcho Drom",
+    "movie_type": "Documentary|Musical",
+    "earning": "$56343.77",
+    "directer_name": "Clarabelle"
+  },
+  {
+    "id": 801,
+    "movie_name": "Design for Living",
+    "movie_type": "Comedy|Romance",
+    "earning": "$44237.97",
+    "directer_name": "Reade"
+  },
+  {
+    "id": 802,
+    "movie_name": "Piranha 3DD (a.k.a. Piranha DD)",
+    "movie_type": "Comedy|Horror",
+    "earning": "$55376.45",
+    "directer_name": "Eunice"
+  },
+  {
+    "id": 803,
+    "movie_name": "Secrets, The (Sodot, Ha-)",
+    "movie_type": "Drama|Romance",
+    "earning": "$55937.24",
+    "directer_name": "Ardis"
+  },
+  {
+    "id": 804,
+    "movie_name": "Sanctum",
+    "movie_type": "Action|Adventure|Drama|Thriller|IMAX",
+    "earning": "$27095.14",
+    "directer_name": "Aileen"
+  },
+  {
+    "id": 805,
+    "movie_name": "Wrong Turn",
+    "movie_type": "Horror|Thriller",
+    "earning": "$61892.55",
+    "directer_name": "Alva"
+  },
+  {
+    "id": 806,
+    "movie_name": "Arcade",
+    "movie_type": "Horror|Sci-Fi",
+    "earning": "$70914.26",
+    "directer_name": "Xerxes"
+  },
+  {
+    "id": 807,
+    "movie_name": "Veer Zaara",
+    "movie_type": "Drama|Musical|Romance",
+    "earning": "$47718.85",
+    "directer_name": "Lavinie"
+  },
+  {
+    "id": 808,
+    "movie_name": "Amityville 3-D",
+    "movie_type": "Horror",
+    "earning": "$33514.69",
+    "directer_name": "Nikolos"
+  },
+  {
+    "id": 809,
+    "movie_name": "Death and Cremation",
+    "movie_type": "Thriller",
+    "earning": "$71403.46",
+    "directer_name": "Karyn"
+  },
+  {
+    "id": 810,
+    "movie_name": "The Hanoi Hilton",
+    "movie_type": "Drama|War",
+    "earning": "$47703.22",
+    "directer_name": "Talyah"
+  },
+  {
+    "id": 811,
+    "movie_name": "Rain People, The",
+    "movie_type": "Drama",
+    "earning": "$21278.30",
+    "directer_name": "Miltie"
+  },
+  {
+    "id": 812,
+    "movie_name": "After the Life",
+    "movie_type": "Crime|Drama",
+    "earning": "$46344.56",
+    "directer_name": "Randy"
+  },
+  {
+    "id": 813,
+    "movie_name": "Great Stone Face, The",
+    "movie_type": "Documentary",
+    "earning": "$73322.52",
+    "directer_name": "Corette"
+  },
+  {
+    "id": 814,
+    "movie_name": "Lady Terminator (Pembalasan ratu pantai selatan)",
+    "movie_type": "Action|Adventure|Horror|Sci-Fi|Thriller",
+    "earning": "$47464.46",
+    "directer_name": "Erik"
+  },
+  {
+    "id": 815,
+    "movie_name": "Twelve Chairs, The",
+    "movie_type": "Comedy",
+    "earning": "$21695.77",
+    "directer_name": "Davin"
+  },
+  {
+    "id": 816,
+    "movie_name": "Minuscule: Valley of the Lost Ants (Minuscule - La vallée des fourmis perdues)",
+    "movie_type": "Adventure|Animation|Children",
+    "earning": "$79727.29",
+    "directer_name": "Jasmine"
+  },
+  {
+    "id": 817,
+    "movie_name": "New Town Killers",
+    "movie_type": "Drama",
+    "earning": "$73328.84",
+    "directer_name": "Jimmie"
+  },
+  {
+    "id": 818,
+    "movie_name": "Miracle of Morgan's Creek, The",
+    "movie_type": "Comedy|Romance",
+    "earning": "$42824.48",
+    "directer_name": "Nikolai"
+  },
+  {
+    "id": 819,
+    "movie_name": "Red Balloon, The (Ballon rouge, Le)",
+    "movie_type": "Children|Fantasy",
+    "earning": "$77004.65",
+    "directer_name": "Charo"
+  },
+  {
+    "id": 820,
+    "movie_name": "Flying Fleet, The",
+    "movie_type": "Adventure|Drama|Romance",
+    "earning": "$55860.83",
+    "directer_name": "Beverlie"
+  },
+  {
+    "id": 821,
+    "movie_name": "Long John Silver",
+    "movie_type": "Action|Adventure",
+    "earning": "$78739.43",
+    "directer_name": "Heywood"
+  },
+  {
+    "id": 822,
+    "movie_name": "Life Before Her Eyes, The",
+    "movie_type": "Drama|Thriller",
+    "earning": "$62777.16",
+    "directer_name": "Burr"
+  },
+  {
+    "id": 823,
+    "movie_name": "Tortured",
+    "movie_type": "Crime|Thriller",
+    "earning": "$22404.21",
+    "directer_name": "Fredek"
+  },
+  {
+    "id": 824,
+    "movie_name": "Twilight Zone: The Movie",
+    "movie_type": "Fantasy|Horror|Sci-Fi|Thriller",
+    "earning": "$25811.49",
+    "directer_name": "Pooh"
+  },
+  {
+    "id": 825,
+    "movie_name": "One Night at McCool's",
+    "movie_type": "Comedy",
+    "earning": "$40980.25",
+    "directer_name": "Willi"
+  },
+  {
+    "id": 826,
+    "movie_name": "Cockpit",
+    "movie_type": "Comedy",
+    "earning": "$26757.98",
+    "directer_name": "Rachele"
+  },
+  {
+    "id": 827,
+    "movie_name": "Thirty-Two Short Films About Glenn Gould",
+    "movie_type": "Drama|Musical",
+    "earning": "$30203.59",
+    "directer_name": "Renault"
+  },
+  {
+    "id": 828,
+    "movie_name": "November",
+    "movie_type": "Drama|Mystery",
+    "earning": "$50178.78",
+    "directer_name": "Ado"
+  },
+  {
+    "id": 829,
+    "movie_name": "Liam",
+    "movie_type": "Drama",
+    "earning": "$72700.49",
+    "directer_name": "Malva"
+  },
+  {
+    "id": 830,
+    "movie_name": "Nanny McPhee Returns (a.k.a. Nanny McPhee and the Big Bang)",
+    "movie_type": "Children|Comedy|Fantasy",
+    "earning": "$39941.62",
+    "directer_name": "Ephrem"
+  },
+  {
+    "id": 831,
+    "movie_name": "Basket Case 2",
+    "movie_type": "Comedy|Horror",
+    "earning": "$40810.27",
+    "directer_name": "Karola"
+  },
+  {
+    "id": 832,
+    "movie_name": "Blue Spring (Aoi haru)",
+    "movie_type": "Drama",
+    "earning": "$59614.91",
+    "directer_name": "Haze"
+  },
+  {
+    "id": 833,
+    "movie_name": "Living Skeleton, The (Kyûketsu dokuro-sen)",
+    "movie_type": "Horror",
+    "earning": "$62370.37",
+    "directer_name": "Gerti"
+  },
+  {
+    "id": 834,
+    "movie_name": "Santa Claus: The Movie",
+    "movie_type": "Adventure|Children|Fantasy",
+    "earning": "$38133.52",
+    "directer_name": "Neal"
+  },
+  {
+    "id": 835,
+    "movie_name": "Where the Trail Ends",
+    "movie_type": "Adventure|Documentary|Drama",
+    "earning": "$25316.72",
+    "directer_name": "Aryn"
+  },
+  {
+    "id": 836,
+    "movie_name": "Taps",
+    "movie_type": "Drama",
+    "earning": "$77994.43",
+    "directer_name": "Christophe"
+  },
+  {
+    "id": 837,
+    "movie_name": "Injury to One, An",
+    "movie_type": "Documentary",
+    "earning": "$63897.87",
+    "directer_name": "Darren"
+  },
+  {
+    "id": 838,
+    "movie_name": "Bachelor Mother",
+    "movie_type": "Comedy|Romance",
+    "earning": "$24249.00",
+    "directer_name": "Chris"
+  },
+  {
+    "id": 839,
+    "movie_name": "Babe: Pig in the City",
+    "movie_type": "Adventure|Children|Drama",
+    "earning": "$22818.93",
+    "directer_name": "Tobe"
+  },
+  {
+    "id": 840,
+    "movie_name": "Michael Collins",
+    "movie_type": "Drama",
+    "earning": "$54296.53",
+    "directer_name": "Cristabel"
+  },
+  {
+    "id": 841,
+    "movie_name": "Beautiful People",
+    "movie_type": "Comedy",
+    "earning": "$26921.18",
+    "directer_name": "Sanford"
+  },
+  {
+    "id": 842,
+    "movie_name": "29 Palms",
+    "movie_type": "Comedy|Drama|Thriller",
+    "earning": "$41305.93",
+    "directer_name": "Nikolai"
+  },
+  {
+    "id": 843,
+    "movie_name": "Susan Lenox (Her Fall and Rise)",
+    "movie_type": "Adventure|Drama|Romance",
+    "earning": "$71498.30",
+    "directer_name": "Frederick"
+  },
+  {
+    "id": 844,
+    "movie_name": "Sins",
+    "movie_type": "Drama|Romance",
+    "earning": "$51003.66",
+    "directer_name": "Katleen"
+  },
+  {
+    "id": 845,
+    "movie_name": "In Gold We Trust (600 kilos d'or pur)",
+    "movie_type": "Adventure",
+    "earning": "$40571.69",
+    "directer_name": "Everett"
+  },
+  {
+    "id": 846,
+    "movie_name": "Item, The",
+    "movie_type": "Action|Horror",
+    "earning": "$75494.28",
+    "directer_name": "Cassy"
+  },
+  {
+    "id": 847,
+    "movie_name": "Born Yesterday",
+    "movie_type": "Comedy",
+    "earning": "$72967.26",
+    "directer_name": "Haily"
+  },
+  {
+    "id": 848,
+    "movie_name": "Big Picture, The",
+    "movie_type": "Comedy|Drama",
+    "earning": "$61903.66",
+    "directer_name": "Reed"
+  },
+  {
+    "id": 849,
+    "movie_name": "Songs From the Second Floor ",
+    "movie_type": "Drama",
+    "earning": "$25141.69",
+    "directer_name": "Alexander"
+  },
+  {
+    "id": 850,
+    "movie_name": "WALL·E",
+    "movie_type": "Adventure",
+    "earning": "$61193.54",
+    "directer_name": "Berny"
+  },
+  {
+    "id": 851,
+    "movie_name": "Gang Related",
+    "movie_type": "Crime",
+    "earning": "$74884.81",
+    "directer_name": "Klarrisa"
+  },
+  {
+    "id": 852,
+    "movie_name": "Your Friends and Neighbors",
+    "movie_type": "Comedy|Drama",
+    "earning": "$25322.33",
+    "directer_name": "Horst"
+  },
+  {
+    "id": 853,
+    "movie_name": "Sunfish, The (Klumpfisken)",
+    "movie_type": "Drama",
+    "earning": "$66588.35",
+    "directer_name": "Maynord"
+  },
+  {
+    "id": 854,
+    "movie_name": "Kid, The",
+    "movie_type": "Comedy|Fantasy",
+    "earning": "$25156.79",
+    "directer_name": "Shanan"
+  },
+  {
+    "id": 855,
+    "movie_name": "Kiss Me, Guido",
+    "movie_type": "Comedy",
+    "earning": "$32637.53",
+    "directer_name": "Emmery"
+  },
+  {
+    "id": 856,
+    "movie_name": "Dilwale Dulhania Le Jayenge",
+    "movie_type": "Comedy|Musical|Romance",
+    "earning": "$26944.01",
+    "directer_name": "Alejandro"
+  },
+  {
+    "id": 857,
+    "movie_name": "Nim's Island",
+    "movie_type": "Adventure|Comedy|Fantasy",
+    "earning": "$56989.86",
+    "directer_name": "Hershel"
+  },
+  {
+    "id": 858,
+    "movie_name": "I Got Next",
+    "movie_type": "Documentary",
+    "earning": "$77754.78",
+    "directer_name": "Ursa"
+  },
+  {
+    "id": 859,
+    "movie_name": "Condition Red (Beyond the Law)",
+    "movie_type": "Action|Drama|Thriller",
+    "earning": "$47415.80",
+    "directer_name": "Jeff"
+  },
+  {
+    "id": 860,
+    "movie_name": "Baby Geniuses",
+    "movie_type": "Comedy",
+    "earning": "$73606.93",
+    "directer_name": "Blair"
+  },
+  {
+    "id": 861,
+    "movie_name": "Set It Off",
+    "movie_type": "Action|Crime",
+    "earning": "$36783.33",
+    "directer_name": "Selena"
+  },
+  {
+    "id": 862,
+    "movie_name": "High School Musical",
+    "movie_type": "Children|Comedy|Drama|Musical|Romance",
+    "earning": "$37665.06",
+    "directer_name": "Far"
+  },
+  {
+    "id": 863,
+    "movie_name": "Enquiring Minds: The Untold Story of the Man Behind the National Enquirer",
+    "movie_type": "Documentary",
+    "earning": "$25942.24",
+    "directer_name": "Lazar"
+  },
+  {
+    "id": 864,
+    "movie_name": "Monster, The (Mostro, Il)",
+    "movie_type": "Comedy",
+    "earning": "$40169.25",
+    "directer_name": "Emmet"
+  },
+  {
+    "id": 865,
+    "movie_name": "Superclásico",
+    "movie_type": "Comedy|Drama",
+    "earning": "$48833.32",
+    "directer_name": "Miguelita"
+  },
+  {
+    "id": 866,
+    "movie_name": "Favor",
+    "movie_type": "Thriller",
+    "earning": "$35631.88",
+    "directer_name": "Yasmin"
+  },
+  {
+    "id": 867,
+    "movie_name": "Singles",
+    "movie_type": "Comedy|Drama|Romance",
+    "earning": "$57870.02",
+    "directer_name": "Warden"
+  },
+  {
+    "id": 868,
+    "movie_name": "Visioneers",
+    "movie_type": "Comedy",
+    "earning": "$42445.22",
+    "directer_name": "Rene"
+  },
+  {
+    "id": 869,
+    "movie_name": "Just Married",
+    "movie_type": "Comedy|Romance",
+    "earning": "$57869.25",
+    "directer_name": "Phil"
+  },
+  {
+    "id": 870,
+    "movie_name": "Phoenix",
+    "movie_type": "Drama",
+    "earning": "$62894.92",
+    "directer_name": "Dorisa"
+  },
+  {
+    "id": 871,
+    "movie_name": "Sketches of Frank Gehry",
+    "movie_type": "Documentary",
+    "earning": "$33949.95",
+    "directer_name": "Quinta"
+  },
+  {
+    "id": 872,
+    "movie_name": "Pacific Rim",
+    "movie_type": "Action|Adventure|Sci-Fi|IMAX",
+    "earning": "$38510.79",
+    "directer_name": "Findlay"
+  },
+  {
+    "id": 873,
+    "movie_name": "Inuyasha the Movie: The Castle Beyond the Looking Glass",
+    "movie_type": "Action|Animation|Comedy|Romance",
+    "earning": "$28751.25",
+    "directer_name": "Royall"
+  },
+  {
+    "id": 874,
+    "movie_name": "18 Years Old and Rising (J'aime regarder les filles)",
+    "movie_type": "Comedy",
+    "earning": "$20930.55",
+    "directer_name": "Clarissa"
+  },
+  {
+    "id": 875,
+    "movie_name": "Legend of the Black Scorpion (a.k.a. The Banquet) (Ye yan)",
+    "movie_type": "Action|Drama|Fantasy|War",
+    "earning": "$70318.86",
+    "directer_name": "Fabien"
+  },
+  {
+    "id": 876,
+    "movie_name": "Emperor's New Groove 2: Kronk's New Groove, The",
+    "movie_type": "Animation|Children|Comedy",
+    "earning": "$76780.91",
+    "directer_name": "Delora"
+  },
+  {
+    "id": 877,
+    "movie_name": "Alexander Nevsky (Aleksandr Nevskiy)",
+    "movie_type": "Action|Drama|War",
+    "earning": "$26561.97",
+    "directer_name": "Teriann"
+  },
+  {
+    "id": 878,
+    "movie_name": "Mac & Devin Go to High School",
+    "movie_type": "Comedy",
+    "earning": "$79772.43",
+    "directer_name": "Frederigo"
+  },
+  {
+    "id": 879,
+    "movie_name": "Rocking Horse Winner, The",
+    "movie_type": "Drama|Horror",
+    "earning": "$55370.68",
+    "directer_name": "Clarey"
+  },
+  {
+    "id": 880,
+    "movie_name": "How the West Was Won",
+    "movie_type": "Adventure|Drama|Western",
+    "earning": "$61775.02",
+    "directer_name": "Tillie"
+  },
+  {
+    "id": 881,
+    "movie_name": "Quantum of Solace",
+    "movie_type": "Action|Adventure|Thriller",
+    "earning": "$54911.45",
+    "directer_name": "Cornall"
+  },
+  {
+    "id": 882,
+    "movie_name": "Four Brothers",
+    "movie_type": "Action|Crime|Drama",
+    "earning": "$52764.36",
+    "directer_name": "Bonnibelle"
+  },
+  {
+    "id": 883,
+    "movie_name": "My Father and the Man in Black",
+    "movie_type": "Documentary",
+    "earning": "$50801.46",
+    "directer_name": "Nathan"
+  },
+  {
+    "id": 884,
+    "movie_name": "Plainsman, The",
+    "movie_type": "War|Western",
+    "earning": "$23797.14",
+    "directer_name": "Theodor"
+  },
+  {
+    "id": 885,
+    "movie_name": "Beauty and the Beast: The Enchanted Christmas",
+    "movie_type": "Animation|Children|Fantasy|Musical",
+    "earning": "$79472.14",
+    "directer_name": "Dalt"
+  },
+  {
+    "id": 886,
+    "movie_name": "American Adobo",
+    "movie_type": "Comedy",
+    "earning": "$51929.92",
+    "directer_name": "Cally"
+  },
+  {
+    "id": 887,
+    "movie_name": "Welcome to Sherwood! The Story of 'The Adventures of Robin Hood'",
+    "movie_type": "Documentary",
+    "earning": "$50084.95",
+    "directer_name": "Gilly"
+  },
+  {
+    "id": 888,
+    "movie_name": "Mass Effect: Paragon Lost",
+    "movie_type": "Action|Animation|Sci-Fi",
+    "earning": "$63079.50",
+    "directer_name": "Weylin"
+  },
+  {
+    "id": 889,
+    "movie_name": "The Hire: Hostage",
+    "movie_type": "Action|Adventure|Crime|Thriller",
+    "earning": "$70077.09",
+    "directer_name": "Maria"
+  },
+  {
+    "id": 890,
+    "movie_name": "The Rebel",
+    "movie_type": "Action|Crime|Drama|Thriller",
+    "earning": "$56366.04",
+    "directer_name": "Alanah"
+  },
+  {
+    "id": 891,
+    "movie_name": "Dresser, The",
+    "movie_type": "Drama",
+    "earning": "$74436.11",
+    "directer_name": "Dudley"
+  },
+  {
+    "id": 892,
+    "movie_name": "Garden of the Finzi-Continis, The (Giardino dei Finzi-Contini, Il)",
+    "movie_type": "Drama",
+    "earning": "$56164.70",
+    "directer_name": "Haze"
+  },
+  {
+    "id": 893,
+    "movie_name": "Speedy",
+    "movie_type": "Action|Comedy",
+    "earning": "$43304.40",
+    "directer_name": "Aksel"
+  },
+  {
+    "id": 894,
+    "movie_name": "Where East Is East",
+    "movie_type": "Drama",
+    "earning": "$50333.99",
+    "directer_name": "Pearline"
+  },
+  {
+    "id": 895,
+    "movie_name": "Pekka ja Pätkä lumimiehen jäljillä",
+    "movie_type": "Comedy",
+    "earning": "$47126.38",
+    "directer_name": "Paulina"
+  },
+  {
+    "id": 896,
+    "movie_name": "Innkeepers, The",
+    "movie_type": "Horror|Thriller",
+    "earning": "$24659.22",
+    "directer_name": "Johnathon"
+  },
+  {
+    "id": 897,
+    "movie_name": "Django the Bastard (Strangers Gundown, The) (Django il bastardo)",
+    "movie_type": "Action|Thriller|Western",
+    "earning": "$47982.04",
+    "directer_name": "Willie"
+  },
+  {
+    "id": 898,
+    "movie_name": "Colorado Territory",
+    "movie_type": "Western",
+    "earning": "$76258.25",
+    "directer_name": "Ettore"
+  },
+  {
+    "id": 899,
+    "movie_name": "Doll's House, A",
+    "movie_type": "Drama",
+    "earning": "$70060.00",
+    "directer_name": "Nate"
+  },
+  {
+    "id": 900,
+    "movie_name": "Way, Way Back, The",
+    "movie_type": "Comedy|Drama",
+    "earning": "$42230.91",
+    "directer_name": "Farand"
+  },
+  {
+    "id": 901,
+    "movie_name": "Boeing, Boeing",
+    "movie_type": "Comedy",
+    "earning": "$33342.52",
+    "directer_name": "Sadella"
+  },
+  {
+    "id": 902,
+    "movie_name": "Zatoichi",
+    "movie_type": "Action|Drama",
+    "earning": "$32413.37",
+    "directer_name": "Romonda"
+  },
+  {
+    "id": 903,
+    "movie_name": "Camp",
+    "movie_type": "Comedy|Musical",
+    "earning": "$65209.30",
+    "directer_name": "Janella"
+  },
+  {
+    "id": 904,
+    "movie_name": "Courtship of Eddie's Father, The",
+    "movie_type": "Comedy",
+    "earning": "$38238.83",
+    "directer_name": "Geneva"
+  },
+  {
+    "id": 905,
+    "movie_name": "American Nightmare, The",
+    "movie_type": "Documentary",
+    "earning": "$39988.89",
+    "directer_name": "Arline"
+  },
+  {
+    "id": 906,
+    "movie_name": "Seven Years in Tibet",
+    "movie_type": "Adventure|Drama|War",
+    "earning": "$62583.75",
+    "directer_name": "Clotilda"
+  },
+  {
+    "id": 907,
+    "movie_name": "Hereafter",
+    "movie_type": "Drama|Fantasy",
+    "earning": "$56135.34",
+    "directer_name": "Nisse"
+  },
+  {
+    "id": 908,
+    "movie_name": "Paz!",
+    "movie_type": "Comedy",
+    "earning": "$49521.33",
+    "directer_name": "Corabel"
+  },
+  {
+    "id": 909,
+    "movie_name": "Desert Trail, The",
+    "movie_type": "Western",
+    "earning": "$47083.10",
+    "directer_name": "Bay"
+  },
+  {
+    "id": 910,
+    "movie_name": "Young at Heart (a.k.a. Young@Heart)",
+    "movie_type": "Documentary|Musical",
+    "earning": "$60453.37",
+    "directer_name": "Garik"
+  },
+  {
+    "id": 911,
+    "movie_name": "Control",
+    "movie_type": "Drama",
+    "earning": "$65367.79",
+    "directer_name": "Calhoun"
+  },
+  {
+    "id": 912,
+    "movie_name": "Daddy (Tato)",
+    "movie_type": "Drama",
+    "earning": "$31855.75",
+    "directer_name": "Cherye"
+  },
+  {
+    "id": 913,
+    "movie_name": "Grace",
+    "movie_type": "Drama|Horror|Thriller",
+    "earning": "$29680.63",
+    "directer_name": "Cahra"
+  },
+  {
+    "id": 914,
+    "movie_name": "I Love Your Work",
+    "movie_type": "Drama|Mystery",
+    "earning": "$27071.85",
+    "directer_name": "Kally"
+  },
+  {
+    "id": 915,
+    "movie_name": "What Price Hollywood?",
+    "movie_type": "Drama",
+    "earning": "$58380.26",
+    "directer_name": "Alain"
+  },
+  {
+    "id": 916,
+    "movie_name": "Tae Guk Gi: The Brotherhood of War (Taegukgi hwinalrimyeo)",
+    "movie_type": "Action|Drama|War",
+    "earning": "$60597.85",
+    "directer_name": "Jenilee"
+  },
+  {
+    "id": 917,
+    "movie_name": "Faces of Death",
+    "movie_type": "Documentary|Horror",
+    "earning": "$52196.74",
+    "directer_name": "Garner"
+  },
+  {
+    "id": 918,
+    "movie_name": "Other Side of Bollywood, The",
+    "movie_type": "Documentary",
+    "earning": "$62680.19",
+    "directer_name": "Kelby"
+  },
+  {
+    "id": 919,
+    "movie_name": "Icon",
+    "movie_type": "Action|Adventure|Crime|Drama|Thriller",
+    "earning": "$49586.83",
+    "directer_name": "Daisie"
+  },
+  {
+    "id": 920,
+    "movie_name": "Psycho II",
+    "movie_type": "Horror|Mystery|Thriller",
+    "earning": "$78201.46",
+    "directer_name": "Nikolaus"
+  },
+  {
+    "id": 921,
+    "movie_name": "Airspeed",
+    "movie_type": "Action|Adventure|Drama|Thriller",
+    "earning": "$55951.19",
+    "directer_name": "Gillie"
+  },
+  {
+    "id": 922,
+    "movie_name": "Crystal Lake Memories: The Complete History of Friday the 13th",
+    "movie_type": "Documentary|Horror",
+    "earning": "$36830.22",
+    "directer_name": "Latrena"
+  },
+  {
+    "id": 923,
+    "movie_name": "Anonymous",
+    "movie_type": "Drama",
+    "earning": "$22426.26",
+    "directer_name": "Maryjane"
+  },
+  {
+    "id": 924,
+    "movie_name": "Last Stop for Paul",
+    "movie_type": "Comedy",
+    "earning": "$32183.38",
+    "directer_name": "Nichols"
+  },
+  {
+    "id": 925,
+    "movie_name": "Safe Men",
+    "movie_type": "Comedy",
+    "earning": "$67912.17",
+    "directer_name": "Merwyn"
+  },
+  {
+    "id": 926,
+    "movie_name": "Roads to Koktebel (Koktebel)",
+    "movie_type": "Drama|Romance",
+    "earning": "$58794.11",
+    "directer_name": "Geordie"
+  },
+  {
+    "id": 927,
+    "movie_name": "No Nukes",
+    "movie_type": "Documentary|Musical",
+    "earning": "$34973.30",
+    "directer_name": "Meredith"
+  },
+  {
+    "id": 928,
+    "movie_name": "Sleepless Night (Nuit blanche)",
+    "movie_type": "Action|Crime|Thriller",
+    "earning": "$57884.39",
+    "directer_name": "Eduino"
+  },
+  {
+    "id": 929,
+    "movie_name": "In the Bedroom",
+    "movie_type": "Drama",
+    "earning": "$67067.27",
+    "directer_name": "Niko"
+  },
+  {
+    "id": 930,
+    "movie_name": "Two for the Seesaw",
+    "movie_type": "Drama|Romance",
+    "earning": "$44427.08",
+    "directer_name": "Briana"
+  },
+  {
+    "id": 931,
+    "movie_name": "My Name Is Bruce",
+    "movie_type": "Comedy|Horror",
+    "earning": "$50124.94",
+    "directer_name": "Osgood"
+  },
+  {
+    "id": 932,
+    "movie_name": "Arena",
+    "movie_type": "Action|Thriller",
+    "earning": "$45606.92",
+    "directer_name": "Elton"
+  },
+  {
+    "id": 933,
+    "movie_name": "Black Magic ",
+    "movie_type": "Comedy|Crime|Drama",
+    "earning": "$32027.02",
+    "directer_name": "Kyrstin"
+  },
+  {
+    "id": 934,
+    "movie_name": "Golden Earrings",
+    "movie_type": "Adventure|Romance|War",
+    "earning": "$52590.39",
+    "directer_name": "Vassily"
+  },
+  {
+    "id": 935,
+    "movie_name": "I Will Follow You Into the Dark",
+    "movie_type": "Drama|Horror|Romance",
+    "earning": "$78318.66",
+    "directer_name": "Marcile"
+  },
+  {
+    "id": 936,
+    "movie_name": "Yrrol:",
+    "movie_type": "Comedy",
+    "earning": "$44157.86",
+    "directer_name": "Dee dee"
+  },
+  {
+    "id": 937,
+    "movie_name": "How to Die in Oregon",
+    "movie_type": "Documentary|Drama",
+    "earning": "$76887.51",
+    "directer_name": "Granthem"
+  },
+  {
+    "id": 938,
+    "movie_name": "Offence, The",
+    "movie_type": "Crime|Drama|Mystery",
+    "earning": "$24677.65",
+    "directer_name": "Elvira"
+  },
+  {
+    "id": 939,
+    "movie_name": "Rebel, The",
+    "movie_type": "Action|Drama|Romance",
+    "earning": "$34049.18",
+    "directer_name": "Cecilius"
+  },
+  {
+    "id": 940,
+    "movie_name": "100 Rifles",
+    "movie_type": "Adventure|War|Western",
+    "earning": "$79830.73",
+    "directer_name": "Glen"
+  },
+  {
+    "id": 941,
+    "movie_name": "Virgin Stripped Bare by Her Bachelors (Oh! Soo-jung)",
+    "movie_type": "Drama",
+    "earning": "$77929.20",
+    "directer_name": "Mano"
+  },
+  {
+    "id": 942,
+    "movie_name": "Auntie from Chicago, The (I theia apo to Chicago)",
+    "movie_type": "Comedy|Romance",
+    "earning": "$40212.79",
+    "directer_name": "Marion"
+  },
+  {
+    "id": 943,
+    "movie_name": "Money Train",
+    "movie_type": "Action|Comedy|Crime|Drama|Thriller",
+    "earning": "$70623.14",
+    "directer_name": "Lotty"
+  },
+  {
+    "id": 944,
+    "movie_name": "Alice in the Cities (Alice in den Stadten)",
+    "movie_type": "Drama",
+    "earning": "$40933.86",
+    "directer_name": "Carney"
+  },
+  {
+    "id": 945,
+    "movie_name": "Life and Times of Judge Roy Bean, The",
+    "movie_type": "Comedy|Western",
+    "earning": "$68004.45",
+    "directer_name": "Nicolai"
+  },
+  {
+    "id": 946,
+    "movie_name": "I.O.U.S.A. (a.k.a. IOUSA)",
+    "movie_type": "Documentary",
+    "earning": "$23487.30",
+    "directer_name": "Danie"
+  },
+  {
+    "id": 947,
+    "movie_name": "Vicious Kind, The",
+    "movie_type": "Comedy|Drama",
+    "earning": "$75907.62",
+    "directer_name": "Meredith"
+  },
+  {
+    "id": 948,
+    "movie_name": "Thr3e (Three)",
+    "movie_type": "Drama|Horror|Mystery|Thriller",
+    "earning": "$34646.50",
+    "directer_name": "Scarface"
+  },
+  {
+    "id": 949,
+    "movie_name": "America, America",
+    "movie_type": "Drama",
+    "earning": "$52431.42",
+    "directer_name": "Chrissy"
+  },
+  {
+    "id": 950,
+    "movie_name": "Pulgasari",
+    "movie_type": "Action|Drama|Fantasy",
+    "earning": "$35488.46",
+    "directer_name": "Vidovik"
+  },
+  {
+    "id": 951,
+    "movie_name": "The Butterfly Effect 3: Revelations",
+    "movie_type": "Drama|Fantasy|Sci-Fi|Thriller",
+    "earning": "$72689.35",
+    "directer_name": "Estelle"
+  },
+  {
+    "id": 952,
+    "movie_name": "Yellow Submarine",
+    "movie_type": "Adventure|Animation|Comedy|Fantasy|Musical",
+    "earning": "$63513.79",
+    "directer_name": "Gay"
+  },
+  {
+    "id": 953,
+    "movie_name": "Beautiful Darling",
+    "movie_type": "Documentary",
+    "earning": "$34662.65",
+    "directer_name": "Kissee"
+  },
+  {
+    "id": 954,
+    "movie_name": "K.G. (Karate Girl)",
+    "movie_type": "Action",
+    "earning": "$51809.00",
+    "directer_name": "Emmalyn"
+  },
+  {
+    "id": 955,
+    "movie_name": "Portrait Werner Herzog",
+    "movie_type": "Documentary",
+    "earning": "$76823.05",
+    "directer_name": "Rainer"
+  },
+  {
+    "id": 956,
+    "movie_name": "Dead Man's Shoes",
+    "movie_type": "Crime|Thriller",
+    "earning": "$72026.10",
+    "directer_name": "Drusilla"
+  },
+  {
+    "id": 957,
+    "movie_name": "Life Without Dick",
+    "movie_type": "Comedy|Crime|Romance",
+    "earning": "$32780.04",
+    "directer_name": "Hal"
+  },
+  {
+    "id": 958,
+    "movie_name": "Miracle on 34th Street",
+    "movie_type": "Comedy|Drama",
+    "earning": "$67615.66",
+    "directer_name": "Arnoldo"
+  },
+  {
+    "id": 959,
+    "movie_name": "Bridge on the River Kwai, The",
+    "movie_type": "Adventure|Drama|War",
+    "earning": "$43242.44",
+    "directer_name": "Felicle"
+  },
+  {
+    "id": 960,
+    "movie_name": "Süperseks",
+    "movie_type": "Comedy",
+    "earning": "$56311.26",
+    "directer_name": "Alena"
+  },
+  {
+    "id": 961,
+    "movie_name": "Under the Bombs",
+    "movie_type": "Drama|War",
+    "earning": "$21088.91",
+    "directer_name": "Lindsay"
+  },
+  {
+    "id": 962,
+    "movie_name": "Merchants of Doubt",
+    "movie_type": "Documentary",
+    "earning": "$25981.80",
+    "directer_name": "Cookie"
+  },
+  {
+    "id": 963,
+    "movie_name": "Place in the Sun, A (En plats i solen)",
+    "movie_type": "Crime|Drama|Thriller",
+    "earning": "$76135.19",
+    "directer_name": "Chariot"
+  },
+  {
+    "id": 964,
+    "movie_name": "Shockproof",
+    "movie_type": "Crime|Drama|Film-Noir",
+    "earning": "$63457.70",
+    "directer_name": "Salomo"
+  },
+  {
+    "id": 965,
+    "movie_name": "Elevator Girl",
+    "movie_type": "Comedy|Romance",
+    "earning": "$57657.52",
+    "directer_name": "Allard"
+  },
+  {
+    "id": 966,
+    "movie_name": "Dopamine",
+    "movie_type": "Comedy|Drama|Romance",
+    "earning": "$31972.86",
+    "directer_name": "Sheelah"
+  },
+  {
+    "id": 967,
+    "movie_name": "Ruby Gentry",
+    "movie_type": "Drama",
+    "earning": "$54010.30",
+    "directer_name": "Goldarina"
+  },
+  {
+    "id": 968,
+    "movie_name": "Little Nicholas (Le petit Nicolas)",
+    "movie_type": "Comedy|Drama",
+    "earning": "$51748.05",
+    "directer_name": "Dee dee"
+  },
+  {
+    "id": 969,
+    "movie_name": "Miracle of Marcelino, The (Marcelino pan y vino)",
+    "movie_type": "Comedy|Drama",
+    "earning": "$55161.31",
+    "directer_name": "Waneta"
+  },
+  {
+    "id": 970,
+    "movie_name": "Afro Samurai: Resurrection",
+    "movie_type": "Animation",
+    "earning": "$32129.14",
+    "directer_name": "Cary"
+  },
+  {
+    "id": 971,
+    "movie_name": "Hiroshima",
+    "movie_type": "Comedy",
+    "earning": "$77247.76",
+    "directer_name": "Janaya"
+  },
+  {
+    "id": 972,
+    "movie_name": "Opportunity Knocks",
+    "movie_type": "Comedy",
+    "earning": "$41363.55",
+    "directer_name": "Kean"
+  },
+  {
+    "id": 973,
+    "movie_name": "Inevitable Defeat of Mister & Pete, The",
+    "movie_type": "Drama",
+    "earning": "$74727.00",
+    "directer_name": "Tiffi"
+  },
+  {
+    "id": 974,
+    "movie_name": "Rudolph, the Red-Nosed Reindeer",
+    "movie_type": "Adventure|Animation|Children|Fantasy|Musical",
+    "earning": "$22627.46",
+    "directer_name": "Simonette"
+  },
+  {
+    "id": 975,
+    "movie_name": "Camouflage",
+    "movie_type": "Action|Comedy",
+    "earning": "$79842.08",
+    "directer_name": "Katherine"
+  },
+  {
+    "id": 976,
+    "movie_name": "We the Party",
+    "movie_type": "Comedy",
+    "earning": "$28611.49",
+    "directer_name": "Meade"
+  },
+  {
+    "id": 977,
+    "movie_name": "A Husband of Round Trip",
+    "movie_type": "Comedy|Fantasy",
+    "earning": "$56561.33",
+    "directer_name": "Rachael"
+  },
+  {
+    "id": 978,
+    "movie_name": "She Cried No (Freshman Fall)",
+    "movie_type": "Crime|Drama",
+    "earning": "$48240.61",
+    "directer_name": "Sukey"
+  },
+  {
+    "id": 979,
+    "movie_name": "You're Missing the Point",
+    "movie_type": "Comedy",
+    "earning": "$61694.14",
+    "directer_name": "Guglielmo"
+  },
+  {
+    "id": 980,
+    "movie_name": "Krrish",
+    "movie_type": "Adventure|Musical|Romance|Sci-Fi",
+    "earning": "$79436.71",
+    "directer_name": "Milicent"
+  },
+  {
+    "id": 981,
+    "movie_name": "Road, The",
+    "movie_type": "Crime|Drama|Horror|Thriller",
+    "earning": "$35102.32",
+    "directer_name": "Ninnetta"
+  },
+  {
+    "id": 982,
+    "movie_name": "Jacqueline Susann's Once Is Not Enough",
+    "movie_type": "Drama|Romance",
+    "earning": "$46006.48",
+    "directer_name": "Gayla"
+  },
+  {
+    "id": 983,
+    "movie_name": "Jennifer 8",
+    "movie_type": "Mystery|Thriller",
+    "earning": "$62224.96",
+    "directer_name": "Bobette"
+  },
+  {
+    "id": 984,
+    "movie_name": "Jeanne and the Perfect Guy (Jeanne et le garçon formidable)",
+    "movie_type": "Comedy|Drama|Romance",
+    "earning": "$72941.33",
+    "directer_name": "Raffaello"
+  },
+  {
+    "id": 985,
+    "movie_name": "Holidays by the Sea (Ni à vendre ni à louer)",
+    "movie_type": "Comedy",
+    "earning": "$40914.88",
+    "directer_name": "Dorothee"
+  },
+  {
+    "id": 986,
+    "movie_name": "Wedding Singer, The",
+    "movie_type": "Comedy|Romance",
+    "earning": "$75075.10",
+    "directer_name": "Flor"
+  },
+  {
+    "id": 987,
+    "movie_name": "Wonderful World",
+    "movie_type": "Drama|Romance",
+    "earning": "$41511.30",
+    "directer_name": "Glynis"
+  },
+  {
+    "id": 988,
+    "movie_name": "Täynnä Tarmoa",
+    "movie_type": "Documentary",
+    "earning": "$71918.76",
+    "directer_name": "Harlene"
+  },
+  {
+    "id": 989,
+    "movie_name": "Earthquake",
+    "movie_type": "Action|Drama|Thriller",
+    "earning": "$33812.10",
+    "directer_name": "Katherine"
+  },
+  {
+    "id": 990,
+    "movie_name": "Skin, Skin (Käpy selän alla)",
+    "movie_type": "Drama",
+    "earning": "$29893.14",
+    "directer_name": "Esther"
+  },
+  {
+    "id": 991,
+    "movie_name": "Wild About Harry",
+    "movie_type": "Comedy|Drama|Romance",
+    "earning": "$69014.62",
+    "directer_name": "Mariam"
+  },
+  {
+    "id": 992,
+    "movie_name": "Shriek of the Mutilated",
+    "movie_type": "Horror",
+    "earning": "$69756.14",
+    "directer_name": "Melinde"
+  },
+  {
+    "id": 993,
+    "movie_name": "Blind Massage (Tui na)",
+    "movie_type": "Drama",
+    "earning": "$42231.90",
+    "directer_name": "Tito"
+  },
+  {
+    "id": 994,
+    "movie_name": "Rumor Has It...",
+    "movie_type": "Comedy|Drama|Romance",
+    "earning": "$28072.15",
+    "directer_name": "Craggy"
+  },
+  {
+    "id": 995,
+    "movie_name": "Deep End, The",
+    "movie_type": "Drama",
+    "earning": "$34764.24",
+    "directer_name": "Mercedes"
+  },
+  {
+    "id": 996,
+    "movie_name": "Smilin' Through",
+    "movie_type": "Drama|Romance",
+    "earning": "$63275.43",
+    "directer_name": "Bathsheba"
+  },
+  {
+    "id": 997,
+    "movie_name": "Taste of Tea, The (Cha no aji)",
+    "movie_type": "Comedy|Drama",
+    "earning": "$37905.05",
+    "directer_name": "Burk"
+  },
+  {
+    "id": 998,
+    "movie_name": "Dragon Hunter",
+    "movie_type": "Action|Adventure|Fantasy",
+    "earning": "$37275.74",
+    "directer_name": "Enriqueta"
+  },
+  {
+    "id": 999,
+    "movie_name": "Cloud-Capped Star",
+    "movie_type": "Drama",
+    "earning": "$72437.09",
+    "directer_name": "Iris"
+  },
+  {
+    "id": 1000,
+    "movie_name": "Pahat pojat",
+    "movie_type": "Action|Crime|Drama",
+    "earning": "$48900.43",
+    "directer_name": "Amble"
+  }
+]
