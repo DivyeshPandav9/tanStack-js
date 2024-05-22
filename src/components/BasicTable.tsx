@@ -2,8 +2,7 @@ import { useState } from "react";
 import {
   FaStepBackward,
   FaStepForward,
-  FaChevronLeft,
-  FaChevronRight,
+
 } from "react-icons/fa";
 import {
   useReactTable,
@@ -17,11 +16,10 @@ import {
   ColumnFiltersState,
 } from "@tanstack/react-table";
 import * as XLSX from "xlsx";
-import jsPDF from 'jspdf';
-import 'jspdf-autotable';
+import jsPDF from "jspdf";
+import "jspdf-autotable";
 
-
-declare module 'jspdf' {
+declare module "jspdf" {
   interface jsPDF {
     autoTable: (config: any) => jsPDF;
   }
@@ -29,7 +27,6 @@ declare module 'jspdf' {
 interface BasicTableProps<Data> {
   data: Data[];
   columns: ColumnDef<Data>[];
-  
 }
 
 const BasicTable = <Data,>({ data, columns }: BasicTableProps<Data>) => {
@@ -42,7 +39,6 @@ const BasicTable = <Data,>({ data, columns }: BasicTableProps<Data>) => {
   );
   const [selectedFormat, setSelectedFormat] = useState<string>("csv");
 
-  
   const table = useReactTable({
     data,
     columns,
@@ -88,7 +84,6 @@ const BasicTable = <Data,>({ data, columns }: BasicTableProps<Data>) => {
       downloadBlob(pdfContent, "application/pdf", "table_data.pdf");
     }
   };
-  
 
   const downloadBlob = (
     content: string | Blob,
@@ -119,10 +114,9 @@ const BasicTable = <Data,>({ data, columns }: BasicTableProps<Data>) => {
       head: [headers],
       body: rows,
     });
-    return doc.output('blob');
+    return doc.output("blob");
   };
-  
-  
+
   const convertToCSV = async (data: Data[], columns: ColumnDef<Data>[]) => {
     const headers = columns.map((col) => col.header as string);
     const rows = data.map((row) =>
@@ -156,19 +150,26 @@ const BasicTable = <Data,>({ data, columns }: BasicTableProps<Data>) => {
     return blob;
   };
 
-  return (
-    <div className="w3-container">
-      <p>Click headers for sorting values</p>
 
-      <div style={{ display: "flex", marginBlock: "20px" }}>
+
+  return (
+
+
+
+    <div className="container mx-auto">
+      <p className="mb-4">Click headers for sorting values</p>
+
+      <div className="flex items-center mb-4">
         <select
-          className="w3-select w3-border"
-          style={{ width: "30%", marginRight: "10px" }}
+          className="border w-1/3 mr-2 p-2"
           value={filterColumn}
           onChange={(e) => setFilterColumn(e.target.value)}
         >
           {columns.map((column) => (
-            <option key={column.accessorKey as string} value={column.accessorKey as string}>
+            <option
+              key={column.accessorKey as string}
+              value={column.accessorKey as string}
+            >
               {column.header as string}
             </option>
           ))}
@@ -176,13 +177,12 @@ const BasicTable = <Data,>({ data, columns }: BasicTableProps<Data>) => {
 
         <input
           placeholder="Search here..."
-          className="w3-input w3-border"
-          style={{ width: "70%" }}
+          className="border w-2/3 p-2"
           type="text"
           value={
-            (columnFilters.find((filter) => filter.id === filterColumn)?.value as string | readonly string[] | number | undefined) ?? ""
+            (columnFilters.find((filter) => filter.id === filterColumn)
+              ?.value as string | readonly string[] | number | undefined) ?? ""
           }
-                  
           onChange={(e) =>
             setColumnFilters((filters) => {
               const newFilters = filters.filter((f) => f.id !== filterColumn);
@@ -195,76 +195,87 @@ const BasicTable = <Data,>({ data, columns }: BasicTableProps<Data>) => {
         />
       </div>
 
-      <table className="w3-table-all w3-hoverable">
-        {/* Table header */}
-        <thead className="w3-light-grey">
-          {table.getHeaderGroups().map((headerGroup) => (
-            <tr key={headerGroup.id}>
-              {headerGroup.headers.map((header) => (
-                <th
-                  key={header.id}
-                  onClick={header.column.getToggleSortingHandler()}
-                  className="w3-hoverable"
-                >
-                  {!header.isPlaceholder && (
-                    <div>
-                      {typeof header.column.columnDef.header === "function"
-                        ? flexRender(
-                            header.column.columnDef.header,
-                            header.getContext()
-                          )
-                        : header.column.columnDef.header}
-                      {header.column.getIsSorted() ? (
-                        header.column.getIsSorted() === "desc" ? (
-                          "🔽"
-                        ) : (
-                          "🔼"
+      <table className="w-full border-collapse">
+      {/* Table header */}
+      <thead className="bg-gray-200">
+        {table.getHeaderGroups().map((headerGroup) => (
+          <tr key={headerGroup.id}>
+            {headerGroup.headers.map((header) => (
+              <th
+                key={header.id}
+                onClick={header.column.getToggleSortingHandler()}
+                className="cursor-pointer p-2"
+              >
+                {!header.isPlaceholder && (
+                  <div className="flex items-center justify-between">
+                    {typeof header.column.columnDef.header === "function"
+                      ? flexRender(
+                          header.column.columnDef.header,
+                          header.getContext()
                         )
+                      : header.column.columnDef.header}
+                    {header.column.getIsSorted() ? (
+                      header.column.getIsSorted() === "desc" ? (
+                        "🔽"
                       ) : (
-                        // Default sorting icon here
-                        <span>⇅</span>
-                      )}
-                    </div>
-                  )}
-                </th>
+                        "🔼"
+                      )
+                    ) : (
+                      // Default sorting icon here
+                      <span>⇅</span>
+                    )}
+                  </div>
+                )}
+              </th>
+            ))}
+          </tr>
+        ))}
+      </thead>
+
+      {/* Table body */}
+      <tbody>
+        {table.getRowModel().rows.length === 0 ? (
+          <tr>
+            <td colSpan={columns.length} className="p-2">
+              {table.getState().columnFilters.length > 0 ? "No data found" : "Loading..."}
+            </td>
+          </tr>
+        ) : (
+          table.getRowModel().rows.map((row, index) => (
+            <tr
+              key={row.id}
+              className={
+                index % 2 === 0
+                  ? "bg-gray-100 hover:bg-gray-200"
+                  : "hover:bg-gray-200"
+              }
+            >
+              {row.getVisibleCells().map((cell) => (
+                <td key={cell.id} className="border p-2">
+                  {flexRender(cell.column.columnDef.cell, cell.getContext())}
+                </td>
               ))}
             </tr>
-          ))}
-        </thead>
-
-        {/* Table body */}
-        <tbody>
-          {table.getRowModel().rows.length === 0 ? (
-            <tr>
-              <td colSpan={columns.length}>
-                {columnFilters.length > 0 ? "No data found" : "Loading..."}
-              </td>
-            </tr>
-          ) : (
-            table.getRowModel().rows.map((row) => (
-              <tr key={row.id}>
-                {row.getVisibleCells().map((cell) => (
-                  <td key={cell.id}>
-                    {flexRender(cell.column.columnDef.cell, cell.getContext())}
-                  </td>
-                ))}
-              </tr>
-            ))
-          )}
-        </tbody>
-      </table>
+          ))
+        )}
+      </tbody>
+    </table>
 
       {/* Pagination */}
-      <div className="w3-bar w3-center">
+      <div className="flex justify-center items-center my-4">
         <button
           onClick={() => {
             table.setPageIndex(0);
             setPageIndex(0);
           }}
-          className="w3-button"
+          className="btn mr-2"
           disabled={!table.getCanPreviousPage()}
         >
-          <FaStepBackward />
+          <FaStepBackward
+            className={
+              table.getCanPreviousPage() ? "text-black" : "text-gray-400"
+            }
+          />
         </button>
         {/* Previous page button */}
         <button
@@ -272,10 +283,17 @@ const BasicTable = <Data,>({ data, columns }: BasicTableProps<Data>) => {
             table.previousPage();
             setPageIndex(table.getState().pagination.pageIndex - 1);
           }}
-          className="w3-button"
+          className="btn mr-2"
           disabled={!table.getCanPreviousPage()}
         >
-          <FaChevronLeft />
+          {/* <FaChevronLeft
+            className={
+              table.getCanPreviousPage() ? "text-black" : "text-gray-400"
+            }
+          /> */}
+          <div style={{ border: "1px solid black", padding: "5px",color:'gray'}}>
+            {table.getState().pagination.pageIndex}
+          </div>
         </button>
         {/* Next page button */}
         <button
@@ -283,10 +301,15 @@ const BasicTable = <Data,>({ data, columns }: BasicTableProps<Data>) => {
             table.nextPage();
             setPageIndex(table.getState().pagination.pageIndex + 1);
           }}
-          className="w3-button"
+          className="btn mr-2"
           disabled={!table.getCanNextPage()}
         >
-          <FaChevronRight />
+          {/* <FaChevronRight
+            className={table.getCanNextPage() ? "text-black" : "text-gray-400"}
+          /> */}
+          <div style={{ border: "1px solid black" ,padding:'5px'}}>
+            {table.getState().pagination.pageIndex + 1}
+          </div>
         </button>
         {/* Last page button */}
         <button
@@ -295,13 +318,15 @@ const BasicTable = <Data,>({ data, columns }: BasicTableProps<Data>) => {
             table.setPageIndex(lastPage);
             setPageIndex(lastPage);
           }}
-          className="w3-button"
+          className="btn mr-2"
           disabled={!table.getCanNextPage()}
         >
-          <FaStepForward />
+          <FaStepForward
+            className={table.getCanNextPage() ? "text-black" : "text-gray-400"}
+          />
         </button>
         {/* Page info */}
-        <span className="w3-margin-left">
+        <span className="mr-2">
           Page{" "}
           <strong>
             {table.getState().pagination.pageIndex + 1} of{" "}
@@ -310,7 +335,7 @@ const BasicTable = <Data,>({ data, columns }: BasicTableProps<Data>) => {
         </span>
         {/* Page size dropdown */}
         <select
-          className="w3-select w3-border w3-margin-left"
+          className="border p-2"
           style={{ width: "auto" }}
           value={table.getState().pagination.pageSize}
           onChange={(e) => {
@@ -328,9 +353,9 @@ const BasicTable = <Data,>({ data, columns }: BasicTableProps<Data>) => {
       </div>
 
       {/* Download dropdown */}
-      <div className="w3-margin-top">
+      <div className="mb-4 flex">
         <select
-          className="w3-select w3-border w3-margin-right"
+          className="border mr-4 border-gray-300 bg-white text-gray-700 py-2 px-4 pr-8 rounded leading-tight focus:outline-none focus:border-blue-500 focus:bg-white focus:text-gray-900"
           style={{ width: "auto" }}
           value={selectedFormat}
           onChange={(e) => setSelectedFormat(e.target.value)}
@@ -341,17 +366,14 @@ const BasicTable = <Data,>({ data, columns }: BasicTableProps<Data>) => {
           <option value="pdf">PDF</option>
         </select>
         <button
-          className="w3-button w3-blue"
+          className="bg-blue-400 text-white font-bold py-2 px-4 rounded hover:bg-blue-700 hover:text-white focus:outline-none"
           onClick={() => downloadFile(selectedFormat)}
         >
           Download
         </button>
       </div>
     </div>
-  ); 
+  );
 };
 
 export default BasicTable;
-
-
-
