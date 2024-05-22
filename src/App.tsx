@@ -2,7 +2,6 @@ import React, { useMemo } from 'react';
 import './App.css';
 import BasicTable from './components/BasicTable';
 import { ColumnDef } from '@tanstack/react-table';
-
 import mData from './movie_data1.json'
 
 interface Data {
@@ -45,7 +44,7 @@ const App: React.FC = () => {
 
   return (
     <div>
-      <h1>Hello tanStack</h1>
+      <h1 style={{textAlign:'center',textDecoration:'underline'}}>Hello tanStack</h1>
       <BasicTable data={data} columns={columns}/>
     </div>
   );

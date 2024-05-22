@@ -14,21 +14,35 @@ import {
   SortingState,
   getFilteredRowModel,
   ColumnDef,
+  ColumnFiltersState,
 } from "@tanstack/react-table";
 import * as XLSX from "xlsx";
+import jsPDF from 'jspdf';
+import 'jspdf-autotable';
 
+
+declare module 'jspdf' {
+  interface jsPDF {
+    autoTable: (config: any) => jsPDF;
+  }
+}
 interface BasicTableProps<Data> {
   data: Data[];
   columns: ColumnDef<Data>[];
+  
 }
 
 const BasicTable = <Data,>({ data, columns }: BasicTableProps<Data>) => {
   const [sorting, setSorting] = useState<SortingState>([]);
   const [pageSize, setPageSize] = useState<number>(10);
   const [pageIndex, setPageIndex] = useState<number>(0);
-  const [filtering, setFiltering] = useState<string>("");
+  const [columnFilters, setColumnFilters] = useState<ColumnFiltersState>([]);
+  const [filterColumn, setFilterColumn] = useState<string>(
+    columns[0].accessorKey as string
+  );
   const [selectedFormat, setSelectedFormat] = useState<string>("csv");
 
+  
   const table = useReactTable({
     data,
     columns,
@@ -41,9 +55,9 @@ const BasicTable = <Data,>({ data, columns }: BasicTableProps<Data>) => {
         pageSize: pageSize,
         pageIndex: pageIndex,
       },
-      globalFilter: filtering,
+      columnFilters,
     },
-    onGlobalFilterChange: setFiltering,
+    onColumnFiltersChange: setColumnFilters,
     onSortingChange: setSorting,
     onPaginationChange: (updater) => {
       if (typeof updater === "function") {
@@ -56,6 +70,7 @@ const BasicTable = <Data,>({ data, columns }: BasicTableProps<Data>) => {
       }
     },
     getFilteredRowModel: getFilteredRowModel(),
+    // columnFilters,
   });
 
   const downloadFile = async (format: string) => {
@@ -68,8 +83,12 @@ const BasicTable = <Data,>({ data, columns }: BasicTableProps<Data>) => {
     } else if (format === "json") {
       const jsonContent = JSON.stringify(data, null, 2);
       downloadBlob(jsonContent, "application/json", "table_data.json");
+    } else if (format === "pdf") {
+      const pdfContent = await convertToPDF(data, columns);
+      downloadBlob(pdfContent, "application/pdf", "table_data.pdf");
     }
   };
+  
 
   const downloadBlob = (
     content: string | Blob,
@@ -87,7 +106,23 @@ const BasicTable = <Data,>({ data, columns }: BasicTableProps<Data>) => {
     a.click();
     window.URL.revokeObjectURL(url);
   };
-
+  const convertToPDF = async (data: Data[], columns: ColumnDef<Data>[]) => {
+    const doc = new jsPDF();
+    const headers = columns.map((col) => col.header as string);
+    const rows = data.map((row) =>
+      columns.map((col) => {
+        const accessorKey = col.accessorKey as keyof Data;
+        return row[accessorKey] || "";
+      })
+    );
+    doc.autoTable({
+      head: [headers],
+      body: rows,
+    });
+    return doc.output('blob');
+  };
+  
+  
   const convertToCSV = async (data: Data[], columns: ColumnDef<Data>[]) => {
     const headers = columns.map((col) => col.header as string);
     const rows = data.map((row) =>
@@ -110,7 +145,7 @@ const BasicTable = <Data,>({ data, columns }: BasicTableProps<Data>) => {
       }, {} as { [key: string]: any })
     );
 
-    const worksheet = XLSX.utils.json_to_sheet([headers, ...jsonArray]);
+    const worksheet = XLSX.utils.json_to_sheet(jsonArray);
     const workbook = XLSX.utils.book_new();
     XLSX.utils.book_append_sheet(workbook, worksheet, "Sheet1");
     const excelBuffer = XLSX.write(workbook, {
@@ -125,14 +160,40 @@ const BasicTable = <Data,>({ data, columns }: BasicTableProps<Data>) => {
     <div className="w3-container">
       <p>Click headers for sorting values</p>
 
-      <input
-        placeholder="Search here..."
-        className="w3-input w3-border"
-        style={{ width: "70%", marginBlock: "20px" }}
-        type="text"
-        value={filtering}
-        onChange={(e) => setFiltering(e.target.value)}
-      />
+      <div style={{ display: "flex", marginBlock: "20px" }}>
+        <select
+          className="w3-select w3-border"
+          style={{ width: "30%", marginRight: "10px" }}
+          value={filterColumn}
+          onChange={(e) => setFilterColumn(e.target.value)}
+        >
+          {columns.map((column) => (
+            <option key={column.accessorKey as string} value={column.accessorKey as string}>
+              {column.header as string}
+            </option>
+          ))}
+        </select>
+
+        <input
+          placeholder="Search here..."
+          className="w3-input w3-border"
+          style={{ width: "70%" }}
+          type="text"
+          value={
+            (columnFilters.find((filter) => filter.id === filterColumn)?.value as string | readonly string[] | number | undefined) ?? ""
+          }
+                  
+          onChange={(e) =>
+            setColumnFilters((filters) => {
+              const newFilters = filters.filter((f) => f.id !== filterColumn);
+              if (e.target.value) {
+                newFilters.push({ id: filterColumn, value: e.target.value });
+              }
+              return newFilters;
+            })
+          }
+        />
+      </div>
 
       <table className="w3-table-all w3-hoverable">
         {/* Table header */}
@@ -176,7 +237,7 @@ const BasicTable = <Data,>({ data, columns }: BasicTableProps<Data>) => {
           {table.getRowModel().rows.length === 0 ? (
             <tr>
               <td colSpan={columns.length}>
-                {filtering.length > 0 ? "No data found" : "Loading..."}
+                {columnFilters.length > 0 ? "No data found" : "Loading..."}
               </td>
             </tr>
           ) : (
@@ -277,6 +338,7 @@ const BasicTable = <Data,>({ data, columns }: BasicTableProps<Data>) => {
           <option value="csv">CSV</option>
           <option value="xlsx">XLSX</option>
           <option value="json">JSON</option>
+          <option value="pdf">PDF</option>
         </select>
         <button
           className="w3-button w3-blue"
@@ -286,7 +348,10 @@ const BasicTable = <Data,>({ data, columns }: BasicTableProps<Data>) => {
         </button>
       </div>
     </div>
-  );
+  ); 
 };
 
 export default BasicTable;
+
+
+
